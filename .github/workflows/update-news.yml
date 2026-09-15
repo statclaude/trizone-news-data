@@ -1,0 +1,33 @@
+name: Update news.json
+ 
+on:
+  schedule:
+    # 매일 UTC 01:00, 13:00 = KST 10:00, 22:00 (하루 2회)
+    - cron: '0 1,13 * * *'
+  workflow_dispatch: {}
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+ 
+      - name: Fetch & curate news
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: node scripts/update-news.mjs
+ 
+      - name: Commit and push news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --quiet --cached || git commit -m "Update news.json"
+          git push
