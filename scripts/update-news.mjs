@@ -16,27 +16,50 @@ const CATEGORY_PLAN = [
   { category: 'entertainment', count: 2 },
 ];
 
-async function gnewsTopHeadlines(country, category, max) {
-  const url = `https://gnews.io/api/v4/top-headlines?country=${country}&category=${category}&max=${max}&token=${GNEWS_API_KEY}`;
-  const res = await fetch(url);
-  if (!res.ok) {
-    console.warn(`top-headlines 실패: country=${country} category=${category} status=${res.status}`);
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+// 첫 실행에서 seoul(nation)만 성공하고 나머지 8건이 전부 비어있었던 원인 =
+// GNews 호출을 간격 없이 연달아 쏴서 순간 요청 제한(429)에 걸린 것으로 추정.
+// 호출 사이 최소 간격 + 429 재시도(백오프)를 둔다.
+let lastGnewsCallAt = 0;
+const GNEWS_MIN_GAP_MS = 1200;
+
+async function gnewsRequest(url, label) {
+  const wait = Math.max(0, GNEWS_MIN_GAP_MS - (Date.now() - lastGnewsCallAt));
+  if (wait > 0) await sleep(wait);
+  lastGnewsCallAt = Date.now();
+
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const res = await fetch(url);
+    if (res.ok) {
+      const data = await res.json();
+      return data.articles || [];
+    }
+    if (res.status === 429 && attempt < 2) {
+      const backoff = 2500 * (attempt + 1);
+      console.warn(`${label}: 429 rate limited, ${backoff}ms 후 재시도`);
+      await sleep(backoff);
+      lastGnewsCallAt = Date.now();
+      continue;
+    }
+    const bodyText = await res.text().catch(() => '');
+    console.warn(`${label} 실패: status=${res.status} body=${bodyText.slice(0, 200)}`);
     return [];
   }
-  const data = await res.json();
-  return data.articles || [];
+  return [];
+}
+
+async function gnewsTopHeadlines(country, category, max) {
+  const url = `https://gnews.io/api/v4/top-headlines?country=${country}&category=${category}&max=${max}&token=${GNEWS_API_KEY}`;
+  return gnewsRequest(url, `top-headlines country=${country} category=${category}`);
 }
 
 // 오스틴은 country=us top-headlines로는 지역 뉴스가 안 나오므로, 검색 엔드포인트로 전환.
 async function gnewsSearch(q, lang, max) {
   const url = `https://gnews.io/api/v4/search?q=${encodeURIComponent(q)}&lang=${lang}&sortby=publishedAt&max=${max}&token=${GNEWS_API_KEY}`;
-  const res = await fetch(url);
-  if (!res.ok) {
-    console.warn(`search 실패: q=${q} status=${res.status}`);
-    return [];
-  }
-  const data = await res.json();
-  return data.articles || [];
+  return gnewsRequest(url, `search q=${q}`);
 }
 
 function dedupeByUrl(articles) {
@@ -65,10 +88,6 @@ async function translateCombined(title, description) {
   } catch (e) {
     return { title, description, ok: false };
   }
-}
-
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
 }
 
 async function buildCityBundle(needsTranslation, fetchArticles) {
