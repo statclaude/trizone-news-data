@@ -1,46 +1,318 @@
 {
-  "generatedAt": 1789478893749,
+  "generatedAt": 1789479616416,
   "seoul": {
-    "fetchedAt": 1789478893540,
+    "fetchedAt": 1789479597555,
     "articles": [
       {
-        "title": "[속보] 인사청문회 나온 김승원 “저와 관련된 의혹으로 심려 끼쳐 송구…개혁 완성하겠다”",
-        "description": "김승원 법무부 장관 후보자가 15일 국회 인사청문회에 출석해 “청문회를 준비하는 동안 제가 걸어온 길과 부족했던 점을 돌아봤다”며 “저와 관련된 의혹으로 국민께 심려를 끼쳐 송구하다”고 밝혔다. 김 후보자는 이날 국회 인사청문회 모두발언에서 “이재명 국민주권정부의 법무부 장관 후보자로서 국민의 권리와 안전을 지켜야 한다는 막중한 책임감을 느낀다”며 이...",
-        "translatedTitle": "[속보] 인사청문회 나온 김승원 “저와 관련된 의혹으로 심려 끼쳐 송구…개혁 완성하겠다”",
-        "translatedDescription": "김승원 법무부 장관 후보자가 15일 국회 인사청문회에 출석해 “청문회를 준비하는 동안 제가 걸어온 길과 부족했던 점을 돌아봤다”며 “저와 관련된 의혹으로 국민께 심려를 끼쳐 송구하다”고 밝혔다. 김 후보자는 이날 국회 인사청문회 모두발언에서 “이재명 국민주권정부의 법무부 장관 후보자로서 국민의 권리와 안전을 지켜야 한다는 막중한 책임감을 느낀다”며 이...",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609151027001",
-        "publishedAt": "2026-09-15T01:27:00Z",
-        "translateFailed": false
-      },
-      {
-        "title": "“오레된 빗을 갑푸려 합니다”…48년 전 500원→500만원 보답",
-        "description": "“영등포역 선생님들 안녕하세요. 저는 아주 오레된 빗을 이제야 갑푸려 합니다.” 지난달 26일 오전 11시, 서울 영등포역 안내 창구에 한 80대 할머니가 신문지를 돌돌 말아 싼 무언가를 놓고 자리를 떠나려 했다. 한눈에 봐도 돈뭉치였다. 역무원은 할머니를 바로 붙잡았",
-        "translatedTitle": "“오레된 빗을 갑푸려 합니다”…48년 전 500원→500만원 보답",
-        "translatedDescription": "“영등포역 선생님들 안녕하세요. 저는 아주 오레된 빗을 이제야 갑푸려 합니다.” 지난달 26일 오전 11시, 서울 영등포역 안내 창구에 한 80대 할머니가 신문지를 돌돌 말아 싼 무언가를 놓고 자리를 떠나려 했다. 한눈에 봐도 돈뭉치였다. 역무원은 할머니를 바로 붙잡았",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1277853.html",
-        "publishedAt": "2026-09-15T01:23:00Z",
+        "title": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기",
+        "description": "(경주=연합뉴스) 손대성 기자 = 경북문화관광공사가 경주 보문관광단지에서 여러 나라의 옷을 소개하는 전광판을 운용하면서 중국을 소개하는 화면에 ...",
+        "translatedTitle": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기",
+        "translatedDescription": "(경주=연합뉴스) 손대성 기자 = 경북문화관광공사가 경주 보문관광단지에서 여러 나라의 옷을 소개하는 전광판을 운용하면서 중국을 소개하는 화면에 ...",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260915055100053",
+        "publishedAt": "2026-09-15T01:39:51Z",
         "translateFailed": false
       },
       {
         "title": "KBS 뉴스",
-        "description": "오늘(15일) 오전 9시 10분쯤 경기 의왕시 수도권제1순환고속도로 평촌 방향 청계톨게이트 인근에서 화물차...",
+        "description": "이형일 재정경제부 장관 겸 경제부총리 후보자가 우리 경제의 첫 번째 과제로 경기 회복의 온기가 민생 곳...",
         "translatedTitle": "KBS 뉴스",
-        "translatedDescription": "오늘(15일) 오전 9시 10분쯤 경기 의왕시 수도권제1순환고속도로 평촌 방향 청계톨게이트 인근에서 화물차...",
+        "translatedDescription": "이형일 재정경제부 장관 겸 경제부총리 후보자가 우리 경제의 첫 번째 과제로 경기 회복의 온기가 민생 곳...",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663617",
-        "publishedAt": "2026-09-15T01:12:00Z",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663638",
+        "publishedAt": "2026-09-15T01:36:00Z",
+        "translateFailed": false
+      },
+      {
+        "title": "국힘 \"김승원 당장 수사 받아야‥임명 땐 지지율 20% '데드덕' 될 것\"",
+        "description": "국민의힘 정점식 원내대표는 김승원 법무부 장관 후보자를 향해 \"장관은 물론 국회의원 자격도 없다\"면서 \"청문회가 아니라 당장 수사를 받아야 할 사람\"이라고 비판했습니다. 정 원내대...",
+        "translatedTitle": "국힘 \"김승원 당장 수사 받아야‥임명 땐 지지율 20% '데드덕' 될 것\"",
+        "translatedDescription": "국민의힘 정점식 원내대표는 김승원 법무부 장관 후보자를 향해 \"장관은 물론 국회의원 자격도 없다\"면서 \"청문회가 아니라 당장 수사를 받아야 할 사람\"이라고 비판했습니다. 정 원내대...",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6851892_36911.html",
+        "publishedAt": "2026-09-15T01:34:36Z",
+        "translateFailed": false
+      },
+      {
+        "title": "한화證 \"달러-원 단기 하락 마무리…연준 인상에 달러 강세 가능성↑\"",
+        "description": "달러-원의 단기 하락이 마무리 단계에 진입했으며, 연방준비제도(Fed·연준)의 기준금리 인상이 예상됨에 따라 달러화가 강세를 보일 가능성이 높아졌다는 분석이 나왔다.최규호 한화투자증권 연구원은 15일 발표한 보고서에서 \"당분간 달러-원 환율은 1,320원 선을 하단으로 낙폭이 축소되는 흐름을 예상한다\"며 이같이 밝혔다.그는 \"일방적인 원화 절상을 이끌었던 국내 수급 요인의 영향력이 약해지는 가운데 최근 외환시장의 시선은 이번 주 예정된 일본은행(BOJ) 금융정책결정회의보다 연준의 연방공개시장위원회(FOMC)로 빠르게 이동하고 있다",
+        "translatedTitle": "한화證 \"달러-원 단기 하락 마무리…연준 인상에 달러 강세 가능성↑\"",
+        "translatedDescription": "달러-원의 단기 하락이 마무리 단계에 진입했으며, 연방준비제도(Fed·연준)의 기준금리 인상이 예상됨에 따라 달러화가 강세를 보일 가능성이 높아졌다는 분석이 나왔다.최규호 한화투자증권 연구원은 15일 발표한 보고서에서 \"당분간 달러-원 환율은 1,320원 선을 하단으로 낙폭이 축소되는 흐름을 예상한다\"며 이같이 밝혔다.그는 \"일방적인 원화 절상을 이끌었던 국내 수급 요인의 영향력이 약해지는 가운데 최근 외환시장의 시선은 이번 주 예정된 일본은행(BOJ) 금융정책결정회의보다 연준의 연방공개시장위원회(FOMC)로 빠르게 이동하고 있다",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434890",
+        "publishedAt": "2026-09-15T01:28:04Z",
+        "translateFailed": false
+      },
+      {
+        "title": "마통서 6조원 더 꺼내썼는데 리볼빙 금리도 20% 육박…서민 상환부담 ‘쑥’",
+        "description": "가계 급전 의존도 높아지며 마통 대출잔액 70조원 육박 카드대출 연체율 0.14%p↑",
+        "translatedTitle": "마통서 6조원 더 꺼내썼는데 리볼빙 금리도 20% 육박…서민 상환부담 ‘쑥’",
+        "translatedDescription": "가계 급전 의존도 높아지며 마통 대출잔액 70조원 육박 카드대출 연체율 0.14%p↑",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12152876",
+        "publishedAt": "2026-09-15T01:17:38Z",
+        "translateFailed": false
+      },
+      {
+        "title": "제주, 재생에너지 기반 'AI 대전환' 설계 착수",
+        "description": "(제주=연합뉴스) 변지철 기자 = 제주도가 재생에너지 기반 인공지능(AI) 데이터센터를 중심으로 에너지·우주·바이오 등 제주 전략산업 전반에 인...",
+        "translatedTitle": "제주, 재생에너지 기반 'AI 대전환' 설계 착수",
+        "translatedDescription": "(제주=연합뉴스) 변지철 기자 = 제주도가 재생에너지 기반 인공지능(AI) 데이터센터를 중심으로 에너지·우주·바이오 등 제주 전략산업 전반에 인...",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260915060500056",
+        "publishedAt": "2026-09-15T01:08:05Z",
+        "translateFailed": false
+      },
+      {
+        "title": "챗GPT 이미지 2.5 vs 나노 바나나 2, AI 이미지 생성 모델 맞대결…승자는?",
+        "description": "[디지털투데이 홍진주 기자] 오픈AI의 새 이미지 생성모델 '챗GPT 이미지 2.5'가 이전 버전에서 지적됐던 과도한 선명화 문제를 개선했지만, 구글 진영의 '나노 바나나 2'와의 비교에서는 우열을 가리기 어려운 접전을 펼쳤다. 6개 평가 항목에서 두 모델이 각각 3승씩 나눠 가지며 사실상 무승부에 가까운 결과를 냈다.지난 12일(현지시간) 블록체인 매체 디크립트에 따르면, 이번 비교 테스트에서 챗GPT 이미지 2.5는 복잡한 장면의 공간 구성과 분위기 표현, 일러스트 등에서 강점을 보였다. 반면 나노 바나나 2는 이미지 속 텍스트",
+        "translatedTitle": "챗GPT 이미지 2.5 vs 나노 바나나 2, AI 이미지 생성 모델 맞대결…승자는?",
+        "translatedDescription": "[디지털투데이 홍진주 기자] 오픈AI의 새 이미지 생성모델 '챗GPT 이미지 2.5'가 이전 버전에서 지적됐던 과도한 선명화 문제를 개선했지만, 구글 진영의 '나노 바나나 2'와의 비교에서는 우열을 가리기 어려운 접전을 펼쳤다. 6개 평가 항목에서 두 모델이 각각 3승씩 나눠 가지며 사실상 무승부에 가까운 결과를 냈다.지난 12일(현지시간) 블록체인 매체 디크립트에 따르면, 이번 비교 테스트에서 챗GPT 이미지 2.5는 복잡한 장면의 공간 구성과 분위기 표현, 일러스트 등에서 강점을 보였다. 반면 나노 바나나 2는 이미지 속 텍스트",
+        "source": "디지털투데이",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700619",
+        "publishedAt": "2026-09-15T01:14:37Z",
+        "translateFailed": false
+      },
+      {
+        "title": "[AI는 지금] \"내부 개발자에 클로드 허용\"…구글, '제미나이 우선 원칙' 왜 깼나",
+        "description": "자체 인공지능(AI) '제미나이'를 앞세워 앤트로픽·오픈AI를 추격해 온 구글이 사내 엔지니어들에게 경쟁사 모델을 개방했다. 최상위 모델 출시가 늦어지는 데다 코딩 경쟁에서도 확실한 우위를 확보하지 못하면서 자사 모델을 우선하던 내부 개발 정책까지 바꾼 것으로 보인다.15...",
+        "translatedTitle": "[AI는 지금] \"내부 개발자에 클로드 허용\"…구글, '제미나이 우선 원칙' 왜 깼나",
+        "translatedDescription": "자체 인공지능(AI) '제미나이'를 앞세워 앤트로픽·오픈AI를 추격해 온 구글이 사내 엔지니어들에게 경쟁사 모델을 개방했다. 최상위 모델 출시가 늦어지는 데다 코딩 경쟁에서도 확실한 우위를 확보하지 못하면서 자사 모델을 우선하던 내부 개발 정책까지 바꾼 것으로 보인다.15...",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260915101101",
+        "publishedAt": "2026-09-15T01:12:50Z",
+        "translateFailed": false
+      },
+      {
+        "title": "‘김부장’ 땅강아지 원현준, 배우 이수진과 결혼…“서로의 편 되려”",
+        "description": "배우 원현준(46)과 이수진(37)이 결혼한다. 원현준의 소속사 프레인TPC는 “두 사람이 10월4일 결혼한다”고 15일 밝혔다. 두 사람은 지난해 디즈니플러스 시리즈 ‘하이퍼나이프’에 함께 출연했다. 원현준은 이날 자신의 에스엔에스에 “저의 가장 소중한 연인과 평생을",
+        "translatedTitle": "‘김부장’ 땅강아지 원현준, 배우 이수진과 결혼…“서로의 편 되려”",
+        "translatedDescription": "배우 원현준(46)과 이수진(37)이 결혼한다. 원현준의 소속사 프레인TPC는 “두 사람이 10월4일 결혼한다”고 15일 밝혔다. 두 사람은 지난해 디즈니플러스 시리즈 ‘하이퍼나이프’에 함께 출연했다. 원현준은 이날 자신의 에스엔에스에 “저의 가장 소중한 연인과 평생을",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/culture/culture_general/1277856.html",
+        "publishedAt": "2026-09-15T01:35:00Z",
+        "translateFailed": false
+      },
+      {
+        "title": "MC몽, 대학축제 공연 중 '한 학기 등록금' 현금 쾌척 \"꼭 공부에 쓰길\"",
+        "description": "[스포티비뉴스=정혜원 기자] 가수 MC몽이 대학 축제 무대에서 한 학생에게 한 학기 등록금을 현금으로 건넸다. MC몽은 지난 11일 경기대학교 축제 무대에 올랐다. 이날 그는 '서커스', '아이스크림' 등 자신의 히트곡 무대를 펼쳤다. 공연 막바지에 접어들자 MC몽은 한 학생과 이야기를 나눴다. 해당 학생이 아르바이트 3개를 하고 있다고 하자 그는 손에 들",
+        "translatedTitle": "MC몽, 대학축제 공연 중 '한 학기 등록금' 현금 쾌척 \"꼭 공부에 쓰길\"",
+        "translatedDescription": "[스포티비뉴스=정혜원 기자] 가수 MC몽이 대학 축제 무대에서 한 학생에게 한 학기 등록금을 현금으로 건넸다. MC몽은 지난 11일 경기대학교 축제 무대에 올랐다. 이날 그는 '서커스', '아이스크림' 등 자신의 히트곡 무대를 펼쳤다. 공연 막바지에 접어들자 MC몽은 한 학생과 이야기를 나눴다. 해당 학생이 아르바이트 3개를 하고 있다고 하자 그는 손에 들",
+        "source": "v.daum.net",
+        "url": "https://v.daum.net/v/20260915101728800",
+        "publishedAt": "2026-09-15T01:17:00Z",
         "translateFailed": false
       }
     ]
   },
   "paris": {
-    "fetchedAt": 1789478893704,
-    "articles": []
+    "fetchedAt": 1789479609066,
+    "articles": [
+      {
+        "title": "Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège",
+        "description": "[VIDÉO] ▶️ Les faits se sont déroulés dans un collège d'Eysines, en banlieue de Bordeaux. Le père n'aurait pas supporté que sa fille soit réprimandée un peu plus tôt dans la journée. Il a été placé en garde à vue. - Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège (Police, justice et faits divers).",
+        "translatedTitle": "Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège",
+        "translatedDescription": "[VIDÉO] ▶️ Les faits se sont déroulés dans un collège d'Eysines, en banlieue de Bordeaux. Le père n'aurait pas supporté que sa fille soit réprimandée un peu plus tôt dans la journée. Il a été placé en garde à vue. - Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège (Police, justice et faits divers).",
+        "source": "tf1info.fr",
+        "url": "https://www.tf1info.fr/justice-faits-divers/gironde-le-pere-d-une-eleve-place-en-garde-a-vue-pour-avoir-menace-de-mort-un-surveillant-et-la-principale-d-un-college-2464198.html",
+        "publishedAt": "2026-09-14T21:49:14Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Incendie à Désaignes : les pompiers interviennent",
+        "description": "Incendie en cours à Désaignes. Les pompiers interviennent.",
+        "translatedTitle": "Incendie à Désaignes : les pompiers interviennent",
+        "translatedDescription": "Incendie en cours à Désaignes. Les pompiers interviennent.",
+        "source": "Feux de Forêt",
+        "url": "https://feuxdeforet.fr/ardeche-07/desaignes-14-09-2026-12038/",
+        "publishedAt": "2026-09-14T21:42:55Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Un père de famille en garde à vue en Gironde pour avoir menacé de mort un surveillant et la principale du collège de sa fille",
+        "description": "Un père de famille a été placé en garde à vue près de Bordeaux pour avoir menacé de mort un surveillant ainsi que la principale du collège de sa fille, n'acceptant pas que celle-ci soit réprimandée.",
+        "translatedTitle": "Un père de famille en garde à vue en Gironde pour avoir menacé de mort un surveillant et la principale du collège de sa fille",
+        "translatedDescription": "Un père de famille a été placé en garde à vue près de Bordeaux pour avoir menacé de mort un surveillant ainsi que la principale du collège de sa fille, n'acceptant pas que celle-ci soit réprimandée.",
+        "source": "BFM",
+        "url": "https://www.bfmtv.com/police-justice/un-pere-de-famille-en-garde-a-vue-en-gironde-pour-avoir-menace-de-mort-un-surveillant-et-la-principale-du-college-de-sa-fille_AN-202609140923.html",
+        "publishedAt": "2026-09-14T21:34:42Z",
+        "translateFailed": true
+      },
+      {
+        "title": "colis et courriers perturbés",
+        "description": "Panne nationale La Poste : courriers, colis... plusieurs services complètement paralysés, ce que l'on sait",
+        "translatedTitle": "colis et courriers perturbés",
+        "translatedDescription": "Panne nationale La Poste : courriers, colis... plusieurs services complètement paralysés, ce que l'on sait",
+        "source": "laprovence.com",
+        "url": "https://www.laprovence.com/article/societe/61887407705479/panne-nationale-la-poste-courriers-colis-plusieurs-services-completement-paralyses-ce-que-lon-sait",
+        "publishedAt": "2026-09-15T00:15:00Z",
+        "translateFailed": true
+      },
+      {
+        "title": "L’ONU presse les Etats d’encadrer l’IA pour protéger les droits humains, face à des \" risques sans précédent \"",
+        "description": "Alors que l’IA s’impose dans tous les secteurs, des patrons américains du secteur technologique ont eux-mêmes plaidé pour un ralentissement des avancées dans le domaine. Donald Trump a, lui, fustigé une « conspiration malsaine » contre l’IA.",
+        "translatedTitle": "L’ONU presse les Etats d’encadrer l’IA pour protéger les droits humains, face à des \" risques sans précédent \"",
+        "translatedDescription": "Alors que l’IA s’impose dans tous les secteurs, des patrons américains du secteur technologique ont eux-mêmes plaidé pour un ralentissement des avancées dans le domaine. Donald Trump a, lui, fustigé une « conspiration malsaine » contre l’IA.",
+        "source": "Le Monde.fr",
+        "url": "https://www.lemonde.fr/pixels/article/2026/09/14/l-onu-presse-les-etats-d-encadrer-l-ia-pour-proteger-les-droits-humains-face-a-des-risques-sans-precedent_6773799_4408997.html",
+        "publishedAt": "2026-09-14T23:07:14Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Prix de l'électricité : de 38 € à 258 € le MWh ce 15 septembre, le bon créneau à viser",
+        "description": "38 €/MWh à 13h, 258 €/MWh à 19h ce mardi 15 septembre : creux à 13h, pic à 19h. Le prix de gros heure par heure, demain et la tendance.",
+        "translatedTitle": "Prix de l'électricité : de 38 € à 258 € le MWh ce 15 septembre, le bon créneau à viser",
+        "translatedDescription": "38 €/MWh à 13h, 258 €/MWh à 19h ce mardi 15 septembre : creux à 13h, pic à 19h. Le prix de gros heure par heure, demain et la tendance.",
+        "source": "Selectra",
+        "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-15",
+        "publishedAt": "2026-09-14T21:53:24Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Un drone abattu par l’Otan au-dessus de la Lituanie",
+        "description": "Selon la radio nationale lituanienne LRT, le drone est tombé dans une zone rurale près du lac de Kaunas, dans le centre du pays.",
+        "translatedTitle": "Un drone abattu par l’Otan au-dessus de la Lituanie",
+        "translatedDescription": "Selon la radio nationale lituanienne LRT, le drone est tombé dans une zone rurale près du lac de Kaunas, dans le centre du pays.",
+        "source": "Le Figaro",
+        "url": "https://www.lefigaro.fr/international/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie-20260915",
+        "publishedAt": "2026-09-15T00:15:31Z",
+        "translateFailed": true
+      },
+      {
+        "title": "La prise téléphonique en T de l'entrée est coupée commune par commune, et les alarmes branchées dessus s'arrêtent avec elle",
+        "description": "La prise en T blanche qui trône dans les entrées depuis des décennies disparaît progressivement en France. Avec elle, tous les équipements branchés dessus—alarmes, téléassistance, ascenseurs—cessent de fonctionner lors de la fermeture technique du réseau cuivre, commune après commune jusqu'en 2030. More",
+        "translatedTitle": "La prise téléphonique en T de l'entrée est coupée commune par commune, et les alarmes branchées dessus s'arrêtent avec elle",
+        "translatedDescription": "La prise en T blanche qui trône dans les entrées depuis des décennies disparaît progressivement en France. Avec elle, tous les équipements branchés dessus—alarmes, téléassistance, ascenseurs—cessent de fonctionner lors de la fermeture technique du réseau cuivre, commune après commune jusqu'en 2030. More",
+        "source": "Sciencepost",
+        "url": "https://sciencepost.fr/la-prise-telephonique-en-t-de-l-entree-est-coupee-commune-par-commune-et-les-alarmes-branchees-dessus-s-arretent-avec-elle/",
+        "publishedAt": "2026-09-14T21:22:21Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Le spin-off de Reacher n’adapte aucun livre : Neagley va raconter une histoire que Lee Child n’a jamais écrite",
+        "description": "Le 16 septembre 2026, Prime Video n’a pas simplement décidé de donner sa propre série au personnage le plus populaire...",
+        "translatedTitle": "Le spin-off de Reacher n’adapte aucun livre : Neagley va raconter une histoire que Lee Child n’a jamais écrite",
+        "translatedDescription": "Le 16 septembre 2026, Prime Video n’a pas simplement décidé de donner sa propre série au personnage le plus populaire...",
+        "source": "Journal des seniors",
+        "url": "https://journaldesseniors.20minutes.fr/loisirs/le-spin-off-de-reacher-nadapte-aucun-livre-neagley-va-raconter-une-histoire-que-lee-child-na-jamais-ecrite/",
+        "publishedAt": "2026-09-14T22:10:29Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Les enfants de Meghan et Harry changent d’école après seulement deux jours pour des raisons de sécurité",
+        "description": "«La décision de changer d’école pour les enfants a été prise à la suite d’une discussion avec l’équipe de sécurité de la famille concernant les aspects pratiques de leur situation actuelle», a déclaré le porte-parole du couple.",
+        "translatedTitle": "Les enfants de Meghan et Harry changent d’école après seulement deux jours pour des raisons de sécurité",
+        "translatedDescription": "«La décision de changer d’école pour les enfants a été prise à la suite d’une discussion avec l’équipe de sécurité de la famille concernant les aspects pratiques de leur situation actuelle», a déclaré le porte-parole du couple.",
+        "source": "Madame Figaro",
+        "url": "https://madame.lefigaro.fr/celebrites/actu-people/les-enfants-de-meghan-et-harry-changent-d-ecole-apres-seulement-deux-jours-pour-des-raisons-de-securite-20260915",
+        "publishedAt": "2026-09-14T22:03:11Z",
+        "translateFailed": true
+      }
+    ]
   },
   "austin": {
-    "fetchedAt": 1789478893749,
-    "articles": []
+    "fetchedAt": 1789479616416,
+    "articles": [
+      {
+        "title": "Todd Monken Reveals a Silver Lining in Browns Loss to Jaguars... And It's Surprising",
+        "description": "The Cleveland Browns lost to the Jacksonville Jaguars in Week 1 on the road, 34-10. But following the defeat, head coach Todd Monken shared one of the major positives, highlighting the play of rookie offensive linemen Spencer Fano and Austin Barber.",
+        "translatedTitle": "Todd Monken Reveals a Silver Lining in Browns Loss to Jaguars... And It's Surprising",
+        "translatedDescription": "The Cleveland Browns lost to the Jacksonville Jaguars in Week 1 on the road, 34-10. But following the defeat, head coach Todd Monken shared one of the major positives, highlighting the play of rookie offensive linemen Spencer Fano and Austin Barber.",
+        "source": "Sports Illustrated",
+        "url": "https://www.si.com/nfl/browns/onsi/todd-monken-reveals-a-silver-lining-in-browns-loss-to-jaguars-and-it-s-surprising-01m2gw9mct33",
+        "publishedAt": "2026-09-14T22:30:00Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Austin Man Injured in Highway 56 Crash Near Dodge Center",
+        "description": "Austin Man Injured in Highway 56 Crash Near Dodge Center",
+        "translatedTitle": "Austin Man Injured in Highway 56 Crash Near Dodge Center",
+        "translatedDescription": "Austin Man Injured in Highway 56 Crash Near Dodge Center",
+        "source": "kdhlradio.com",
+        "url": "https://kdhlradio.com/ixp/669/p/austin-man-injured-crash-dodge-center/",
+        "publishedAt": "2026-09-14T22:26:59Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Man allegedly flees arrest by climbing through ceiling of Austin Hospital",
+        "description": "The man reportedly suffered a medical episode while under police guard when he allegedly made the dash from police, sparking a tense three-hour standoff.",
+        "translatedTitle": "Man allegedly flees arrest by climbing through ceiling of Austin Hospital",
+        "translatedDescription": "The man reportedly suffered a medical episode while under police guard when he allegedly made the dash from police, sparking a tense three-hour standoff.",
+        "source": "PerthNow",
+        "url": "https://www.perthnow.com.au/news/man-allegedly-flees-arrest-by-climbing-through-ceiling-of-austin-hospital-c-22870934",
+        "publishedAt": "2026-09-14T22:23:46Z",
+        "translateFailed": true
+      },
+      {
+        "title": "AHS set to induct 2026-2027 HOF class",
+        "description": "Austin High School will induct five members into its 2026-27 Athletic Hall of Fame during Hall of Fame Weekend, Sept. 18-19.",
+        "translatedTitle": "AHS set to induct 2026-2027 HOF class",
+        "translatedDescription": "Austin High School will induct five members into its 2026-27 Athletic Hall of Fame during Hall of Fame Weekend, Sept. 18-19.",
+        "source": "Austin Daily Herald",
+        "url": "https://www.austindailyherald.com/sports/ahs-set-to-induct-hof-class-4593daa1",
+        "publishedAt": "2026-09-14T20:58:25Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Top-ranked Texas likes the view from No. 1 but is focused on long season ahead",
+        "description": "AUSTIN, Texas (AP) — Texas has seen the view from No. 1 and the Longhorns know the fall from the college football summit can be hard. The goal now is to make su",
+        "translatedTitle": "Top-ranked Texas likes the view from No. 1 but is focused on long season ahead",
+        "translatedDescription": "AUSTIN, Texas (AP) — Texas has seen the view from No. 1 and the Longhorns know the fall from the college football summit can be hard. The goal now is to make su",
+        "source": "WTOP",
+        "url": "https://wtop.com/college-sports/2026/09/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/",
+        "publishedAt": "2026-09-14T20:36:28Z",
+        "translateFailed": true
+      },
+      {
+        "title": "It’s worth hearing other side of the Protect College Sports Act debate | Commentary",
+        "description": "Something was very noticeable about Saturday’s appearance of Senator Ted Cruz on ESPN’s “College Gameday” to support the Protect College Sports Act. Beyond the boos and derogatory chants from the Austin, Texas, crowd. It was more about what wasn’t seen.",
+        "translatedTitle": "It’s worth hearing other side of the Protect College Sports Act debate | Commentary",
+        "translatedDescription": "Something was very noticeable about Saturday’s appearance of Senator Ted Cruz on ESPN’s “College Gameday” to support the Protect College Sports Act. Beyond the boos and derogatory chants from the Austin, Texas, crowd. It was more about what wasn’t seen.",
+        "source": "Spokane Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/sep/14/its-worth-hearing-other-side-of-the-protect-colleg/",
+        "publishedAt": "2026-09-14T20:10:00Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Man attempts to escape police by climbing into ceiling of Austin Hospital",
+        "description": "Police negotiated with an alleged thief for several hours after he climbed into the ceiling of the Austin Hospital in Heidelberg to escape custody.",
+        "translatedTitle": "Man attempts to escape police by climbing into ceiling of Austin Hospital",
+        "translatedDescription": "Police negotiated with an alleged thief for several hours after he climbed into the ceiling of the Austin Hospital in Heidelberg to escape custody.",
+        "source": "ABC (Australian Broadcasting Corporation)",
+        "url": "https://www.abc.net.au/news/2026-09-15/austin-hospital-ceiling-escape-bid/107153438",
+        "publishedAt": "2026-09-14T20:05:48Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Steve Sarkisian urges CFP committee not to punish Ohio State for loss at Texas",
+        "description": "The Texas coach, having been in this position after last year's loss in Columbus, wants the Buckeyes 'rewarded' for their trip to Austin",
+        "translatedTitle": "Steve Sarkisian urges CFP committee not to punish Ohio State for loss at Texas",
+        "translatedDescription": "The Texas coach, having been in this position after last year's loss in Columbus, wants the Buckeyes 'rewarded' for their trip to Austin",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/college-football/news/steve-sarkisian-cfp-committee-ohio-state-texas/",
+        "publishedAt": "2026-09-14T19:54:40Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Mizzou's Austin Simmons Wins Weekly Awards After Border War",
+        "description": "Missouri Tigers quarterback Austin Simmons named the SEC Offensive Player of the Week after his stellar performance in the Border War.",
+        "translatedTitle": "Mizzou's Austin Simmons Wins Weekly Awards After Border War",
+        "translatedDescription": "Missouri Tigers quarterback Austin Simmons named the SEC Offensive Player of the Week after his stellar performance in the Border War.",
+        "source": "Heavy.",
+        "url": "https://heavy.com/sports/college-football/mizzous-austin-simmons-wins-weekly-awards/",
+        "publishedAt": "2026-09-14T19:23:44Z",
+        "translateFailed": true
+      },
+      {
+        "title": "Top-ranked Texas likes the view from No. 1 but is focused on long season ahead",
+        "description": "By JIM VERTUNO AUSTIN, Texas (AP) — Texas has seen the view from No. 1 and the Longhorns know the fall from the college football summit can be hard. The goal now is to make sure they get more than a fleeting glimpse from the top. Texas (2-0) jumped to No. 1 after a wild […]",
+        "translatedTitle": "Top-ranked Texas likes the view from No. 1 but is focused on long season ahead",
+        "translatedDescription": "By JIM VERTUNO AUSTIN, Texas (AP) — Texas has seen the view from No. 1 and the Longhorns know the fall from the college football summit can be hard. The goal now is to make sure they get more than a fleeting glimpse from the top. Texas (2-0) jumped to No. 1 after a wild […]",
+        "source": "Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/09/14/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/",
+        "publishedAt": "2026-09-14T19:22:43Z",
+        "translateFailed": true
+      }
+    ]
   }
 }
