@@ -1,8 +1,8 @@
 // GitHub Actions에서 주기 실행:
 //   1) 구글 뉴스 RSS(news.google.com/rss/search)로 별내(서울)/파리/오스틴 후보 기사를 수집
-//      — 도시별로 4가지 질의(전반/정치/경제/문화)를 던져 다양성 있는 후보 풀을 만든다.
+//      — 도시별로 6가지 질의(전반/정치·행정/경제/사회/문화·예술/사건·사고)를 던져 다양성 있는 후보 풀을 만든다.
 //      — GNews API는 더 이상 쓰지 않음(2026-09-16 교체): "지역과 관련은 있지만 며칠 지난 뉴스"가
-//        섞여 들어오는 문제가 있어, 최근 48시간 이내로 필터링해 신선도를 보장한다.
+//        섞여 들어오는 문제가 있어, 최근 24시간 이내로 필터링해 신선도를 보장한다(하루 단위 변화 반영).
 //   2) Gemini(무료 티어)에게 후보를 넘겨 "도시당 10개, 분야 다양성 + 오스틴은 실제 지역성" 기준으로
 //      선별시키고, 원문 언어와 무관하게 한국어 제목/요약을 직접 작성하게 함
 //      (→ 번역 API가 따로 필요 없어짐: GitHub Actions에서 비공식 구글 번역이 막히는 문제를 우회)
@@ -122,7 +122,10 @@ function dedupeByUrl(articles) {
 
 // 며칠 지난 "지역 관련" 뉴스가 섞여 들어오는 문제(2026-09-16 발견) 대응:
 // 발행 시각을 알 수 없거나 너무 오래된 기사는 큐레이션 대상에서 애초에 제외한다.
-const MAX_ARTICLE_AGE_HOURS = 48;
+// (2026-09-16: 48시간은 "후보가 너무 적을까봐" 잡은 보수적인 값이었는데, 실제로는
+//  48시간/4개 질의 기준으로도 도시당 87~270개나 모여 여유가 많았음 — 24시간으로 좁혀
+//  "하루 단위 변화"를 실제로 보여주도록 하고, 대신 질의 카테고리를 늘려 후보 수를 보완한다.)
+const MAX_ARTICLE_AGE_HOURS = 24;
 
 function isRecentEnough(article) {
   if (!article.publishedAt) return false;
@@ -151,25 +154,32 @@ async function collectCandidates(queries, hl, gl, ceid) {
   return fresh.map(toCandidate);
 }
 
-// 도시별 질의 계획: 전반 + 정치/행정 + 경제 + 문화 4갈래로 나눠 분야 다양성이 있는 후보 풀을 만든다.
+// 도시별 질의 계획: 전반 + 정치/행정 + 경제 + 사회 + 문화/예술 + 사건·사고 6갈래로 나눠
+// 분야 다양성이 있는 후보 풀을 만든다(2026-09-16: 4갈래 → 6갈래로 확장).
 // (검색어로 도시명을 직접 넣으므로, 별내는 서울 인근이라 "서울"로 검색 — country 단위보다 지역성이 나음)
 const SEOUL_QUERIES = [
   '서울',
   '서울 정치 OR 정부 OR 시의회',
   '서울 경제 OR 기업 OR 부동산',
-  '서울 문화 OR 공연 OR 축제',
+  '서울 사회',
+  '서울 문화 OR 예술 OR 공연 OR 축제',
+  '서울 사건 OR 사고',
 ];
 const PARIS_QUERIES = [
   'Paris',
   'Paris politique OR gouvernement OR mairie',
   'Paris économie OR entreprise OR immobilier',
-  'Paris culture OR spectacle OR festival',
+  'Paris société',
+  'Paris culture OR art OR spectacle OR festival',
+  'Paris incident OR accident OR fait divers',
 ];
 const AUSTIN_QUERIES = [
   'Austin Texas',
   'Austin Texas government OR politics OR city council',
   'Austin Texas economy OR business OR jobs',
-  'Austin Texas culture OR music OR arts OR festival',
+  'Austin Texas society OR community',
+  'Austin Texas culture OR arts OR music OR festival',
+  'Austin Texas incident OR accident OR crime',
 ];
 
 async function collectSeoulCandidates() {
@@ -219,7 +229,7 @@ async function curateWithGemini(candidatesByCity) {
 
 선별 기준:
 1. 오스틴은 반드시 실제 오스틴/텍사스 지역과 직접 관련된 기사만 선택하세요 (미국 전역 뉴스나 다른 지역 뉴스는 제외).
-2. 세 도시 모두 정치/사회, 경제, IT·과학, 문화·연예 등 다양한 분야가 골고루 섞이도록 선별하세요. 한 분야에 쏠리지 않게 하세요.
+2. 세 도시 모두 정치/행정, 경제, 사회, 문화·예술, 사건·사고 등 다양한 분야가 골고루 섞이도록 선별하세요. 한 분야에 쏠리지 않게 하세요.
 3. 후보가 부족한 도시는 있는 만큼만 선택해도 됩니다 (억지로 10개를 채우지 마세요).
 4. title_ko(한국어 제목)와 summary_ko(한국어로 1~2문장 요약)를 직접 작성하세요. 원문이 프랑스어/영어여도 반드시 자연스러운 한국어로 작성합니다.
 5. source, url, publishedAt은 후보 기사에 있는 원본 값을 그대로 사용하세요 (임의로 만들어내지 마세요).
