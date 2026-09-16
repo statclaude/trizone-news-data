@@ -31,4 +31,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json daily-news.md
           git diff --quiet --cached || git commit -m "Update news.json"
-          git push
+
+          # 실행이 겹치면(수동 실행 + 스케줄 실행 등) 그 사이에 origin/main이
+          # 앞서 나가 있을 수 있음 — push 직전에 최신 원격 커밋 위로 rebase하고,
+          # 그래도 경쟁이 나면 짧게 대기 후 재시도한다.
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main && git push origin main && break
+            echo "push 실패(경쟁 상태로 추정) — rebase 초기화 후 잠시 대기, 재시도 ($i/5)"
+            git rebase --abort || true
+            sleep $((RANDOM % 10 + 5))
+          done
