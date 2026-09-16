@@ -1,0 +1,128 @@
+# 2026-09-16 지역 뉴스 요약
+
+## 별내
+
+- **범여권 내분 격화…검찰개혁 발언 두고 설전** — 경향신문 (2026-09-15T12:19:00Z)
+  검찰개혁 방향을 둘러싸고 더불어민주당과 조국혁신당 등 범여권 인사들 간의 감정적인 설전이 이어지고 있습니다.
+  https://www.khan.co.kr/article/202609152119005
+
+- **최성해 전 동양대 총장, 위증 혐의로 검찰 송치** — MBC 뉴스 (2026-09-15T12:12:05Z)
+  정경심 전 교수의 재판에서 허위 증언을 한 혐의로 최성해 전 동양대 총장이 경찰 조사를 마치고 검찰에 넘겨졌습니다.
+  https://imnews.imbc.com/news/2026/society/article/6852031_36918.html
+
+- **한국-카자흐스탄, 전략적 동반자 관계 격상** — 대한민국 정책브리핑 (2026-09-15T11:23:25Z)
+  이재명 대통령이 방한한 카자흐스탄 대통령과 정상회담을 갖고 양국 관계를 미래지향적 포괄적 전략 동반자 관계로 격상했습니다.
+  https://www.korea.kr/news/policyNewsView.do?newsId=148971950
+
+- **이형일 부총리 후보자 "거주 중심 주택 문화 조성이 목표"** — 한겨레 (2026-09-15T11:26:00Z)
+  이형일 재정경제부 장관 후보자가 실거주 1주택자를 보호하고 거주 중심의 주택 문화를 형성하겠다는 세제 개편 의지를 밝혔습니다.
+  https://www.hani.co.kr/arti/economy/economy_general/1277911.html
+
+- **서울 아파트 월세 급등…평균 160만 원 돌파** — KBS 뉴스 (2026-09-15T12:13:00Z)
+  서울 지역 아파트 월세 가격이 가파르게 상승하면서 평균 160만 원을 넘어서는 등 서민 부담이 가중되고 있습니다.
+  https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664255
+
+- **물가 상승에 등장한 '반줄 김밥'…가성비 찾는 소비자들** — 농민신문 (2026-09-15T11:43:00Z)
+  점심 물가가 가파르게 오르면서 부담을 줄이기 위해 양을 줄이고 가격을 낮춘 반줄 김밥 등 가성비 상품이 주목받고 있습니다.
+  https://www.nongmin.com/article/20260915500272
+
+- **카카오게임즈, 소셜카지노 업체 미투온 인수** — 연합인포맥스 (2026-09-15T11:29:47Z)
+  카카오게임즈가 경영권 확보를 위해 미투온 지분 39.56%를 980억 원에 사들이며 M&A 행보를 본격화했습니다.
+  https://news.einfomax.co.kr/news/articleView.html?idxno=4435038
+
+- **애플 아이폰, 국내 시장서 최고 성장세 기록** — v.daum.net (2026-09-15T12:42:00Z)
+  올 2분기 국내 아이폰 출하량이 세계 최고 수준의 성장세를 기록한 가운데 폴더블폰 신제품 출시를 앞두고 경쟁이 뜨거워지고 있습니다.
+  https://v.daum.net/v/20260915214212162
+
+- **국내 테슬라 차량 80%, 자율주행 기능 미지원 분석** — v.daum.net (2026-09-15T09:10:49Z)
+  국내 운행 중인 테슬라 5대 중 4대는 소프트웨어 한계로 실제 자율주행(FSD) 기능을 사용할 수 없는 것으로 나타났습니다.
+  https://v.daum.net/v/20260915181049988
+
+- **'살롱드립' 구교환, 신승호와 남다른 호흡 자랑** — v.daum.net (2026-09-15T10:55:00Z)
+  배우 구교환과 신승호가 유튜브 '살롱드립'에 출연해 영화 촬영 비하인드 스토리와 친분을 재치 있게 나누었습니다.
+  https://v.daum.net/v/20260915195530975
+
+## 파리
+
+- **파리에서 레미 다이에 음모론 음모 집단 재판 개막** — lefigaro.fr (2026-09-15T12:37:33Z)
+  쿠데타 기획 및 납치 혐의 등을 받는 레미 다이에와 그의 음모론적 극우 단체 회원 15명에 대한 재판이 파리에서 시작되었습니다.
+  https://www.lefigaro.fr/actualite-france/enlevement-de-la-petite-mia-projet-de-coup-d-etat-le-proces-de-remy-daillet-et-son-groupuscule-conspirationniste-s-est-ouvert-a-paris-20260915
+
+- **안 이달고 전 파리 시장, 방과후 돌봄 폭력 논란에 "집단적 실패" 인정** — Le Monde.fr (2026-09-15T12:18:42Z)
+  파리시 방과후 돌봄 시설의 성폭력 문제에 대해 상원 청문회에 출석한 안 이달고 전 파리 시장이 제도적 실패와 집단 책임을 인정했습니다.
+  https://www.lemonde.fr/politique/article/2026/09/15/violences-dans-le-periscolaire-parisien-anne-hidalgo-renvoie-a-un-echec-collectif_6774417_823448.html
+
+- **프랑스 관광 시장 호조…2026년 800억 유로 수입 기대** — franceinfo (2026-09-15T11:58:23Z)
+  프랑스를 찾는 해외 관광객이 꾸준히 늘면서 2026년 프랑스 관광 수입이 800억 유로에 달할 것으로 전망되었습니다.
+  https://www.franceinfo.fr/economie/tourisme/la-france-continue-d-attirer-les-touristes-internationaux-80-milliards-d-euros-de-recettes-attendues-en-2026-selon-atout-france_8193485.html
+
+- **르노 트래픽 전기차, '2027 올해의 상용차' 만장일치 선정** — 01net.com (2026-09-15T11:40:01Z)
+  르노의 신형 트래픽 전기차가 하노버 IAA 상용차 전시회에서 심사위원 만장일치로 최고의 상용차로 뽑혔습니다.
+  https://www.01net.com/actualites/renault-coup-maitre-trafic-elu-vehicule-utilitaire-annee-2027.html
+
+- **프랑스 중앙은행 총재 "국가 재정 조달 우려 없어"** — Le Figaro (2026-09-15T09:47:20Z)
+  프랑스 중앙은행 총재는 금리가 상승했음에도 투자자들에게 프랑스 국채가 여전히 매력적이라며 국채 조달 우려를 일축했습니다.
+  https://www.lefigaro.fr/conjoncture/dette-il-n-y-a-pas-de-craintes-sur-le-financement-de-l-etat-estime-le-gouverneur-de-la-banque-de-france-20260915
+
+- **생성형 AI로 곰팡이 핀 타르트 사진 만들어 환불 요구한 고객** — 20 Minutes (2026-09-15T12:32:00Z)
+  르 랭시의 한 빵집에서 생성형 AI로 상한 빵 사진을 조작해 환불을 요구한 손님이 고소당하는 사건이 발생했습니다.
+  https://www.20minutes.fr/faits_divers/4245521-20260915-raincy-cree-ia-fausses-tartes-moisies-etre-rembourse
+
+- **수학자 세드리크 빌라니, 학생들에게 AI 사용 금지한 이유** — Le HuffPost (2026-09-15T12:27:11Z)
+  유명 수학자 세드리크 빌라니가 문제 해결 과정에서의 사고력을 강조하며 학생들의 생성형 AI 활용을 제한하고 있다고 밝혔습니다.
+  https://www.huffingtonpost.fr/tech-futurs/article/le-chemin-plus-que-le-resultat-pourquoi-cedric-villani-refuse-a-ses-etudiants-l-usage-de-l-ia_325004.html
+
+- **인터넷 은행 레볼루트 해킹으로 고객 개인정보 유출** — 20 Minutes (2026-09-15T11:47:00Z)
+  정부 공식 이메일을 악용한 해커 집단에 의해 인터넷 은행 레볼루트의 고객 여권 정보와 계좌 내역 등이 유출되었습니다.
+  https://www.20minutes.fr/high-tech/4245547-20260915-passeports-rib-codes-neobanque-revolut-piratee-centaines-clients-concernes
+
+- **제랄딘 나카슈, 연출작 시사회 개최** — parismatch.com (2026-09-15T10:26:36Z)
+  배우 겸 감독 제랄딘 나카슈가 5년의 집필 끝에 선보이는 4번째 연출작 시사회에 발레리 레메르시에 등 유명 동료들이 참석했습니다.
+  https://www.parismatch.com/People/geraldine-nakache-en-reine-du-bal-de-promo-face-a-valerie-lemercier-et-gad-elmaleh-pour-si-tu-penses-bien-275784
+
+- **복귀 무대서 디올·지방시 의상 선보인 셀린 디옹** — parismatch.com (2026-09-15T10:04:58Z)
+  셀린 디옹이 무대 복귀 공연에서 파리 명품 하우스의 오트 쿠튀르 의상들을 선보이며 마치 패션쇼를 연상시키는 무대를 연출했습니다.
+  https://www.parismatch.com/vivre/mode/de-dior-a-givenchy-celine-dion-sur-scene-un-defile-haute-couture-275713
+
+## 오스틴
+
+- **텍사스 정치인 보 프렌치, 오스틴 텍사스대 학생 사진 관련 비판 받아** — The Dallas Morning News (2026-09-14T13:43:32Z)
+  텍사스 철도위원회 공화당 후보 보 프렌치가 텍사스대 오스틴 캠퍼스 학생 사진을 논란의 모티브로 인용해 당내 외에서 큰 반발을 샀습니다.
+  https://www.dallasnews.com/news/politics/article/bo-french-ut-austin-republicans-22430666.php
+
+- **텍사스주, 7월 민간 일자리 1,600개 증가… 오스틴 등 주요 도시 성장세** — FOX 4 News (2026-08-25T01:03:23Z)
+  텍사스 노동위원회 발표에 따르면 지난 7월 오스틴과 달라스, 휴스턴 등 주요 대도시권에서 민간 부문 고용이 지속적인 증가세를 보였습니다.
+  https://www.fox4news.com/news/texas-adds-1600-jobs-july-private-sector-employment-grows
+
+- **오스틴서 운행 시작한 테슬라 무인 택시, 하루 만에 당국 조사 착수** — Times of India (2026-09-05T04:18:00Z)
+  텍사스주 오스틴 도로에 첫 선을 보인 테슬라의 운전대 없는 사이버택시가 운행 개시 직후 미 도로교통안전국(NHTSA)의 안전 조사 대상에 올랐습니다.
+  https://timesofindia.indiatimes.com/business/international-business/teslas-wheel-free-cybercabs-face-us-safety-probe-just-a-day-after-launch/articleshow/133787079.cms
+
+- **텍사스대 오스틴 연구진 "긴 온라인 리뷰 작성, 스팸·사기 표적 될 수도"** — Phys.org (2026-08-30T15:00:02Z)
+  텍사스대 오스틴 맥콤스 경영대학원 연구팀은 온라인에 작성하는 장문의 리뷰가 인맥 관계를 노출시켜 사이버 공격의 위험을 높일 수 있다고 경고했습니다.
+  https://phys.org/news/2026-08-length-online-scammers-friends.html
+
+- **오스틴 크럭스 사우스 클라이밍 짐, 모던 커뮤니티 공간으로 탈바꿈** — ArchDaily (2026-09-15T12:00:00Z)
+  텍사스주 오스틴에 새로 문을 연 크럭스 사우스 클라이밍 짐이 이전 자갈밭 부지를 독창적 건축 설계를 통해 지역 커뮤니티의 중심 공간으로 재탄생시켰습니다.
+  https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio
+
+- **미 대학 풋볼 1위 올라선 텍사스대 롱혼스, "긴 시즌에 집중할 것"** — WTOP (2026-09-14T20:36:28Z)
+  전미 대학 풋볼 순위 1위에 오른 텍사스 오스틴 대학(UT Austin) 롱혼스 팀이 자만하지 않고 남은 시즌 경기들에 집중하겠다는 의지를 밝혔습니다.
+  https://wtop.com/college-sports/2026/09/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/
+
+- **오스틴 비영리단체, 지역 음악가 대상 건강보험 지원 확대** — KFF Health News (2026-09-09T09:00:00Z)
+  텍사스주 오스틴의 비영리 단체가 의료비 부담이 큰 지역 음악가들에게 건강보험 보조금을 지원하는 프로그램이 주목받고 있습니다.
+  https://kffhealthnews.org/insurance/musician-healthcare-insurance-nonprofit-assistance-austin-texas/
+
+- **ACL 페스티벌부터 F1까지… 오스틴, 올 가을 대형 이벤트 연속 개최** — The Manila Times (2026-09-01T17:36:51Z)
+  텍사스주 오스틴에서 가을 시즌을 맞아 대학 풋볼, 오스틴 시티 리밋츠 음악 축제, 포뮬러1 그랑프리 등 대규모 행사가 잇따라 펼쳐집니다.
+  https://www.manilatimes.net/2026/09/02/tmt-newswire/globenewswire/turn-up-the-fall-sec-rivals-acl-beats-and-f1-engines-headline-austins-ultimate-season/2416458
+
+- **오스틴 SXSW 2027, 팟캐스트 페스티벌 신설 및 지역 주민 혜택 강화** — Variety (2026-08-18T15:00:00Z)
+  텍사스 오스틴에서 열리는 대표 축제 SXSW가 2027년 행사에 팟캐스트 전용 페스티벌을 신설하고 지역 주민 대상 혜택을 늘릴 계획을 발표했습니다.
+  https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/
+
+- **텍사스대 오스틴 인근 '음악의 집'… 청년 뮤지션들의 자율 공연장으로 인기** — Fox News (2026-09-12T15:29:43Z)
+  텍사스대 오스틴 캠퍼스 근처의 주택에서 라이브 잼 세션과 무료 공연을 열며 지역 문화 공간을 형성하는 학생 음악가들의 이야기가 화제입니다.
+  https://www.foxnews.com/outkick-sports/football-saturdays-routine-weekdays-music-never-stops-ut-house-full-college-musicians
+
