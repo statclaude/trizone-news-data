@@ -1,22 +1,21 @@
 // GitHub Actions에서 주기 실행:
-//   1) GNews로 별내(kr)/파리(fr)/오스틴(지역 검색) 후보 기사를 넉넉히 수집
+//   1) 구글 뉴스 RSS(news.google.com/rss/search)로 별내(서울)/파리/오스틴 후보 기사를 수집
+//      — 도시별로 4가지 질의(전반/정치/경제/문화)를 던져 다양성 있는 후보 풀을 만든다.
+//      — GNews API는 더 이상 쓰지 않음(2026-09-16 교체): "지역과 관련은 있지만 며칠 지난 뉴스"가
+//        섞여 들어오는 문제가 있어, 최근 48시간 이내로 필터링해 신선도를 보장한다.
 //   2) Gemini(무료 티어)에게 후보를 넘겨 "도시당 10개, 분야 다양성 + 오스틴은 실제 지역성" 기준으로
 //      선별시키고, 원문 언어와 무관하게 한국어 제목/요약을 직접 작성하게 함
 //      (→ 번역 API가 따로 필요 없어짐: GitHub Actions에서 비공식 구글 번역이 막히는 문제를 우회)
 //   3) news.json(앱이 fetch) + daily-news.md(사람이 저장소에서 읽는 기록용) 둘 다 저장
 //
-// 필요한 저장소 Secrets: GNEWS_API_KEY, GEMINI_API_KEY
+// 필요한 저장소 Secrets: GEMINI_API_KEY
+// (GNEWS_API_KEY는 더 이상 사용하지 않음 — 저장소 Secrets에 남아있어도 무해하며, 지워도 됨)
 
-const GNEWS_API_KEY = process.env.GNEWS_API_KEY;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 // gemini-2.5-flash는 신규 API 키에는 더 이상 제공되지 않음 (실제 404 응답에서 확인,
 // Google이 gemini-3.6-flash 사용을 안내함).
 const GEMINI_MODEL = 'gemini-3.6-flash';
 
-if (!GNEWS_API_KEY) {
-  console.error('GNEWS_API_KEY 환경변수가 없습니다 (저장소 Settings > Secrets and variables > Actions 에 등록 필요)');
-  process.exit(1);
-}
 if (!GEMINI_API_KEY) {
   console.error('GEMINI_API_KEY 환경변수가 없습니다 (저장소 Settings > Secrets and variables > Actions 에 등록 필요)');
   process.exit(1);
@@ -26,43 +25,90 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-// ---------- GNews 후보 수집 (간격 + 429 재시도는 이전 실행에서 검증된 방식 유지) ----------
-let lastGnewsCallAt = 0;
-const GNEWS_MIN_GAP_MS = 1200;
+// ---------- 구글 뉴스 RSS 수집 ----------
+const GOOGLE_NEWS_BASE = 'https://news.google.com/rss/search';
+const RSS_MIN_GAP_MS = 700; // 연속 요청 사이 최소 간격 (공용 서비스에 매너 있게 접근)
+const RSS_UA =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
-async function gnewsRequest(url, label) {
-  const wait = Math.max(0, GNEWS_MIN_GAP_MS - (Date.now() - lastGnewsCallAt));
+let lastRssCallAt = 0;
+
+function decodeEntities(str) {
+  return String(str)
+    .replace(/<!\[CDATA\[/g, '')
+    .replace(/\]\]>/g, '')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .trim();
+}
+
+function pickTag(block, tagRe) {
+  const m = tagRe.exec(block);
+  return m ? m[1] : null;
+}
+
+function parseGoogleNewsRss(xml) {
+  const items = [];
+  const itemRe = /<item>([\s\S]*?)<\/item>/g;
+  let m;
+  while ((m = itemRe.exec(xml))) {
+    const block = m[1];
+    const titleRaw = pickTag(block, /<title>([\s\S]*?)<\/title>/);
+    const linkRaw = pickTag(block, /<link>([\s\S]*?)<\/link>/);
+    const pubDateRaw = pickTag(block, /<pubDate>([\s\S]*?)<\/pubDate>/);
+    const sourceRaw = pickTag(block, /<source[^>]*>([\s\S]*?)<\/source>/);
+    if (!titleRaw || !linkRaw) continue;
+
+    let publishedAt = null;
+    if (pubDateRaw) {
+      const d = new Date(pubDateRaw.trim());
+      if (!isNaN(d.getTime())) publishedAt = d.toISOString();
+    }
+
+    // 구글 뉴스 RSS의 title은 보통 "기사 제목 - 출처명" 형태 — <source> 태그에 이미
+    // 출처가 따로 있으므로, 뒤에 붙은 " - 출처명" 접미사는 제거해 후보 데이터를 깔끔하게 만든다.
+    let title = decodeEntities(titleRaw);
+    const source = sourceRaw ? decodeEntities(sourceRaw) : '';
+    if (source && title.endsWith(' - ' + source)) {
+      title = title.slice(0, -(' - ' + source).length).trim();
+    }
+
+    items.push({
+      title,
+      description: '',
+      source,
+      url: decodeEntities(linkRaw),
+      publishedAt,
+    });
+  }
+  return items;
+}
+
+async function fetchGoogleNewsRss(query, hl, gl, ceid) {
+  const wait = Math.max(0, RSS_MIN_GAP_MS - (Date.now() - lastRssCallAt));
   if (wait > 0) await sleep(wait);
-  lastGnewsCallAt = Date.now();
+  lastRssCallAt = Date.now();
 
-  for (let attempt = 0; attempt < 3; attempt++) {
-    const res = await fetch(url);
-    if (res.ok) {
-      const data = await res.json();
-      return data.articles || [];
+  const url =
+    `${GOOGLE_NEWS_BASE}?q=${encodeURIComponent(query)}` +
+    `&hl=${encodeURIComponent(hl)}&gl=${encodeURIComponent(gl)}&ceid=${encodeURIComponent(ceid)}`;
+
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': RSS_UA } });
+    if (!res.ok) {
+      console.warn(`구글 뉴스 RSS 실패: query="${query}" status=${res.status}`);
+      return [];
     }
-    if (res.status === 429 && attempt < 2) {
-      const backoff = 2500 * (attempt + 1);
-      console.warn(`${label}: 429 rate limited, ${backoff}ms 후 재시도`);
-      await sleep(backoff);
-      lastGnewsCallAt = Date.now();
-      continue;
-    }
-    const bodyText = await res.text().catch(() => '');
-    console.warn(`${label} 실패: status=${res.status} body=${bodyText.slice(0, 200)}`);
+    const xml = await res.text();
+    return parseGoogleNewsRss(xml);
+  } catch (e) {
+    console.warn(`구글 뉴스 RSS 요청 오류: query="${query}" — ${e && e.message}`);
     return [];
   }
-  return [];
-}
-
-async function gnewsTopHeadlines(country, category, max) {
-  const url = `https://gnews.io/api/v4/top-headlines?country=${country}&category=${category}&max=${max}&token=${GNEWS_API_KEY}`;
-  return gnewsRequest(url, `top-headlines country=${country} category=${category}`);
-}
-
-async function gnewsSearch(q, lang, max) {
-  const url = `https://gnews.io/api/v4/search?q=${encodeURIComponent(q)}&lang=${lang}&sortby=publishedAt&max=${max}&token=${GNEWS_API_KEY}`;
-  return gnewsRequest(url, `search q=${q}`);
 }
 
 function dedupeByUrl(articles) {
@@ -74,38 +120,51 @@ function dedupeByUrl(articles) {
   });
 }
 
-// Gemini에게 넘길 최소 필드만 남긴다 (title/description/source/url/publishedAt).
+// 며칠 지난 "지역 관련" 뉴스가 섞여 들어오는 문제(2026-09-16 발견) 대응:
+// 발행 시각을 알 수 없거나 너무 오래된 기사는 큐레이션 대상에서 애초에 제외한다.
+const MAX_ARTICLE_AGE_HOURS = 48;
+
+function isRecentEnough(article) {
+  if (!article.publishedAt) return false;
+  const ageMs = Date.now() - new Date(article.publishedAt).getTime();
+  return ageMs >= 0 && ageMs <= MAX_ARTICLE_AGE_HOURS * 3600 * 1000;
+}
+
+// Gemini에게 넘길 최소 필드만 남긴다.
 function toCandidate(a) {
   return {
     title: a.title || '',
     description: a.description || '',
-    source: (a.source && a.source.name) || '',
+    source: a.source || '',
     url: a.url,
     publishedAt: a.publishedAt,
   };
 }
 
-// 정치/사회, 경제, IT·과학, 문화 4개 분야 각각 넉넉히(최대 10개씩) 모아 Gemini가 고를 풀을 키운다.
-const CATEGORY_PLAN = ['nation', 'business', 'technology', 'entertainment'];
-
-async function collectSeoulCandidates() {
+async function collectCandidates(queries, hl, gl, ceid) {
   let all = [];
-  for (const category of CATEGORY_PLAN) {
-    all = all.concat(await gnewsTopHeadlines('kr', category, 10));
+  for (const q of queries) {
+    all = all.concat(await fetchGoogleNewsRss(q, hl, gl, ceid));
   }
-  return dedupeByUrl(all).map(toCandidate);
+  const deduped = dedupeByUrl(all);
+  const fresh = deduped.filter(isRecentEnough);
+  return fresh.map(toCandidate);
 }
 
-async function collectParisCandidates() {
-  let all = [];
-  for (const category of CATEGORY_PLAN) {
-    all = all.concat(await gnewsTopHeadlines('fr', category, 10));
-  }
-  return dedupeByUrl(all).map(toCandidate);
-}
-
-// 오스틴은 country=us top-headlines로는 지역 뉴스가 안 나오므로 검색 엔드포인트 사용.
-// 분야별로 나눠 검색해 다양성 있는 후보 풀을 만든다.
+// 도시별 질의 계획: 전반 + 정치/행정 + 경제 + 문화 4갈래로 나눠 분야 다양성이 있는 후보 풀을 만든다.
+// (검색어로 도시명을 직접 넣으므로, 별내는 서울 인근이라 "서울"로 검색 — country 단위보다 지역성이 나음)
+const SEOUL_QUERIES = [
+  '서울',
+  '서울 정치 OR 정부 OR 시의회',
+  '서울 경제 OR 기업 OR 부동산',
+  '서울 문화 OR 공연 OR 축제',
+];
+const PARIS_QUERIES = [
+  'Paris',
+  'Paris politique OR gouvernement OR mairie',
+  'Paris économie OR entreprise OR immobilier',
+  'Paris culture OR spectacle OR festival',
+];
 const AUSTIN_QUERIES = [
   'Austin Texas',
   'Austin Texas government OR politics OR city council',
@@ -113,12 +172,14 @@ const AUSTIN_QUERIES = [
   'Austin Texas culture OR music OR arts OR festival',
 ];
 
+async function collectSeoulCandidates() {
+  return collectCandidates(SEOUL_QUERIES, 'ko', 'KR', 'KR:ko');
+}
+async function collectParisCandidates() {
+  return collectCandidates(PARIS_QUERIES, 'fr', 'FR', 'FR:fr');
+}
 async function collectAustinCandidates() {
-  let all = [];
-  for (const q of AUSTIN_QUERIES) {
-    all = all.concat(await gnewsSearch(q, 'en', 10));
-  }
-  return dedupeByUrl(all).map(toCandidate);
+  return collectCandidates(AUSTIN_QUERIES, 'en-US', 'US', 'US:en');
 }
 
 // ---------- Gemini 큐레이션 (선별 + 한국어 제목/요약 직접 작성) ----------
@@ -153,7 +214,8 @@ async function curateWithGemini(candidatesByCity) {
   };
 
   const prompt = `당신은 세 지역(별내=한국 서울 인근, 파리=프랑스, 오스틴=미국 텍사스)의 일간 뉴스 큐레이터입니다.
-아래 각 도시별 후보 기사 목록에서 도시당 정확히 10개를 선별하세요.
+아래 각 도시별 후보 기사 목록에서 도시당 정확히 10개를 선별하세요. 후보는 이미 최근 ${MAX_ARTICLE_AGE_HOURS}시간
+이내로 필터링되어 있으니, 그 안에서는 최신순을 특별히 더 우대할 필요는 없습니다.
 
 선별 기준:
 1. 오스틴은 반드시 실제 오스틴/텍사스 지역과 직접 관련된 기사만 선택하세요 (미국 전역 뉴스나 다른 지역 뉴스는 제외).
@@ -227,7 +289,8 @@ async function main() {
   ];
 
   console.log(
-    '후보 수집 완료 — seoul:%d paris:%d austin:%d',
+    '후보 수집 완료(최근 %d시간 이내) — seoul:%d paris:%d austin:%d',
+    MAX_ARTICLE_AGE_HOURS,
     seoulCandidates.length,
     parisCandidates.length,
     austinCandidates.length
