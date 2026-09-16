@@ -192,51 +192,107 @@ async function collectAustinCandidates() {
   return collectCandidates(AUSTIN_QUERIES, 'en-US', 'US', 'US:en');
 }
 
+// ---------- 필수 포함 키워드 (2026-09-16 추가) ----------
+// 10대 뉴스 선별과는 별도로, 특정 키워드가 들어간 기사가 있으면 "부가 항목"으로 뒤에 반드시
+// 붙인다(예: 파리의 오르세박물관, 오스틴의 UT). 10개를 채우는 일반 큐레이션 기준(분야 다양성 등)의
+// 영향을 받지 않도록 완전히 별도 파이프라인으로 처리한다. 신선도 기준도 이 항목만 더 완화해서
+// (기본 24시간 대신 7일) — 특정 키워드 뉴스는 매일 나오지 않을 수 있기 때문.
+const MUST_INCLUDE_MAX_AGE_HOURS = 24 * 7;
+const MUST_INCLUDE_QUERY = {
+  paris: { query: "Musée d'Orsay", hl: 'fr', gl: 'FR', ceid: 'FR:fr' },
+  austin: { query: 'University of Texas at Austin OR "UT Austin"', hl: 'en-US', gl: 'US', ceid: 'US:en' },
+};
+
+async function collectMustInclude(cityKey) {
+  const cfg = MUST_INCLUDE_QUERY[cityKey];
+  if (!cfg) return null;
+
+  const raw = await fetchGoogleNewsRss(cfg.query, cfg.hl, cfg.gl, cfg.ceid);
+  const deduped = dedupeByUrl(raw);
+  const withinWindow = deduped.filter((a) => {
+    if (!a.publishedAt) return false;
+    const ageMs = Date.now() - new Date(a.publishedAt).getTime();
+    return ageMs >= 0 && ageMs <= MUST_INCLUDE_MAX_AGE_HOURS * 3600 * 1000;
+  });
+  withinWindow.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+
+  if (!withinWindow.length) {
+    console.log(`필수 포함 키워드 "${cfg.query}" — 최근 ${MUST_INCLUDE_MAX_AGE_HOURS / 24}일 내 기사 없음, 이번엔 건너뜀`);
+    return null;
+  }
+  return toCandidate(withinWindow[0]);
+}
+
 // ---------- Gemini 큐레이션 (선별 + 한국어 제목/요약 직접 작성) ----------
 // REST API(fetch 직접 호출)에서는 type 값이 대문자 enum(STRING/OBJECT/ARRAY)이어야 함
 // — SDK를 쓰면 SDK가 알아서 변환해주지만, 우리는 raw REST 호출이라 직접 맞춰야 한다.
-function articlesSchema() {
+function singleArticleSchema() {
   return {
-    type: 'ARRAY',
-    items: {
-      type: 'OBJECT',
-      properties: {
-        title_ko: { type: 'STRING' },
-        summary_ko: { type: 'STRING' },
-        source: { type: 'STRING' },
-        url: { type: 'STRING' },
-        publishedAt: { type: 'STRING' },
-      },
-      required: ['title_ko', 'summary_ko', 'source', 'url', 'publishedAt'],
+    type: 'OBJECT',
+    properties: {
+      title_ko: { type: 'STRING' },
+      summary_ko: { type: 'STRING' },
+      source: { type: 'STRING' },
+      url: { type: 'STRING' },
+      publishedAt: { type: 'STRING' },
     },
+    required: ['title_ko', 'summary_ko', 'source', 'url', 'publishedAt'],
   };
 }
 
-async function curateWithGemini(candidatesByCity) {
+function articlesSchema() {
+  return { type: 'ARRAY', items: singleArticleSchema() };
+}
+
+async function curateWithGemini(candidatesByCity, mustIncludeCandidates) {
   const schema = {
     type: 'OBJECT',
     properties: {
       seoul: articlesSchema(),
       paris: articlesSchema(),
       austin: articlesSchema(),
+      // extras: 10대 뉴스와 별도로 "반드시 포함" 키워드 후보가 있는 도시만 채워지는 부가 항목.
+      // 최상위 required에 넣지 않고, extras 내부도 required를 두지 않아 — 후보가 없는 도시는
+      // Gemini가 해당 필드를 만들지 않아도 스키마 위반이 되지 않는다.
+      extras: {
+        type: 'OBJECT',
+        properties: {
+          paris: singleArticleSchema(),
+          austin: singleArticleSchema(),
+        },
+      },
     },
     required: ['seoul', 'paris', 'austin'],
   };
+
+  const mustIncludeJson = JSON.stringify(mustIncludeCandidates || {});
 
   const prompt = `당신은 세 지역(별내=한국 서울 인근, 파리=프랑스, 오스틴=미국 텍사스)의 일간 뉴스 큐레이터입니다.
 아래 각 도시별 후보 기사 목록에서 도시당 정확히 10개를 선별하세요. 후보는 이미 최근 ${MAX_ARTICLE_AGE_HOURS}시간
 이내로 필터링되어 있으니, 그 안에서는 최신순을 특별히 더 우대할 필요는 없습니다.
 
-선별 기준:
+선별 기준(10대 뉴스, seoul/paris/austin 필드):
 1. 오스틴은 반드시 실제 오스틴/텍사스 지역과 직접 관련된 기사만 선택하세요 (미국 전역 뉴스나 다른 지역 뉴스는 제외).
 2. 세 도시 모두 정치/행정, 경제, 사회, 문화·예술, 사건·사고 등 다양한 분야가 골고루 섞이도록 선별하세요. 한 분야에 쏠리지 않게 하세요.
 3. 후보가 부족한 도시는 있는 만큼만 선택해도 됩니다 (억지로 10개를 채우지 마세요).
 4. title_ko(한국어 제목)와 summary_ko(한국어로 1~2문장 요약)를 직접 작성하세요. 원문이 프랑스어/영어여도 반드시 자연스러운 한국어로 작성합니다.
 5. source, url, publishedAt은 후보 기사에 있는 원본 값을 그대로 사용하세요 (임의로 만들어내지 마세요).
-6. 응답은 주어진 JSON 스키마만 따르세요. 다른 설명 텍스트는 포함하지 마세요.
+
+필수 포함 항목(extras 필드, 아래 "필수 포함 후보" JSON 참고):
+6. "필수 포함 후보"에 도시가 존재하면(예: paris, austin), extras.<도시>에 그 후보를 기반으로
+   title_ko/summary_ko를 새로 작성해 넣으세요 — 이 항목은 위 10대 뉴스 선별 기준(분야 다양성 등)과
+   무관하게 무조건 포함하는 별도 항목입니다. source/url/publishedAt은 후보의 원본 값을 그대로 쓰세요.
+7. "필수 포함 후보"에 없는 도시는 extras에 그 도시의 키 자체를 만들지 마세요(빈 값도 넣지 말고 생략).
+8. extras 항목이 10대 뉴스 중 하나와 같은 기사(같은 url)라면, 그래도 extras에는 그대로 포함하세요
+   (중복 제거는 이후 별도로 처리되니 신경 쓰지 않아도 됩니다).
+
+응답은 주어진 JSON 스키마만 따르세요. 다른 설명 텍스트는 포함하지 마세요.
 
 후보 기사 (JSON):
-${JSON.stringify(candidatesByCity)}`;
+${JSON.stringify(candidatesByCity)}
+
+필수 포함 후보 (JSON):
+${mustIncludeJson}`;
 
   const body = {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
@@ -280,15 +336,25 @@ ${JSON.stringify(candidatesByCity)}`;
 // ---------- 사람이 읽는 기록용 Markdown ----------
 const CITY_LABEL = { seoul: '별내', paris: '파리', austin: '오스틴' };
 
-function toMarkdown(dateStr, curated) {
+function toMarkdown(dateStr, articlesByCity) {
   let md = `# ${dateStr} 지역 뉴스 요약\n\n`;
   for (const city of ['seoul', 'paris', 'austin']) {
     md += `## ${CITY_LABEL[city]}\n\n`;
-    for (const a of curated[city] || []) {
-      md += `- **${a.title_ko}** — ${a.source} (${a.publishedAt})\n  ${a.summary_ko}\n  ${a.url}\n\n`;
+    for (const a of articlesByCity[city] || []) {
+      const pinnedTag = a.pinned ? ' 📌 필수 포함' : '';
+      md += `- **${a.title_ko}**${pinnedTag} — ${a.source} (${a.publishedAt})\n  ${a.summary_ko}\n  ${a.url}\n\n`;
     }
   }
   return md;
+}
+
+// 10대 뉴스 뒤에 "필수 포함" 항목을 붙인다. 이미 10대 뉴스에 같은 url이 있으면 중복 추가하지 않음.
+function buildFinalArticles(top10, extra) {
+  const list = Array.isArray(top10) ? top10.slice() : [];
+  if (extra && extra.url && !list.some((a) => a.url === extra.url)) {
+    list.push(Object.assign({}, extra, { pinned: true }));
+  }
+  return list;
 }
 
 async function main() {
@@ -306,25 +372,40 @@ async function main() {
     austinCandidates.length
   );
 
-  const curated = await curateWithGemini({
-    seoul: seoulCandidates,
-    paris: parisCandidates,
-    austin: austinCandidates,
-  });
+  const [parisMustInclude, austinMustInclude] = [
+    await collectMustInclude('paris'),
+    await collectMustInclude('austin'),
+  ];
+  const mustIncludeCandidates = {};
+  if (parisMustInclude) mustIncludeCandidates.paris = parisMustInclude;
+  if (austinMustInclude) mustIncludeCandidates.austin = austinMustInclude;
+  console.log('필수 포함 후보:', JSON.stringify(mustIncludeCandidates));
+
+  const curated = await curateWithGemini(
+    { seoul: seoulCandidates, paris: parisCandidates, austin: austinCandidates },
+    mustIncludeCandidates
+  );
+
+  const extras = curated.extras || {};
+  const articlesByCity = {
+    seoul: buildFinalArticles(curated.seoul, null),
+    paris: buildFinalArticles(curated.paris, extras.paris),
+    austin: buildFinalArticles(curated.austin, extras.austin),
+  };
 
   const now = Date.now();
   const output = {
     generatedAt: now,
-    seoul: { fetchedAt: now, articles: curated.seoul || [] },
-    paris: { fetchedAt: now, articles: curated.paris || [] },
-    austin: { fetchedAt: now, articles: curated.austin || [] },
+    seoul: { fetchedAt: now, articles: articlesByCity.seoul },
+    paris: { fetchedAt: now, articles: articlesByCity.paris },
+    austin: { fetchedAt: now, articles: articlesByCity.austin },
   };
 
   const fs = await import('node:fs');
   fs.writeFileSync('news.json', JSON.stringify(output, null, 2));
 
   const dateStr = new Date(now).toISOString().slice(0, 10);
-  fs.writeFileSync('daily-news.md', toMarkdown(dateStr, curated));
+  fs.writeFileSync('daily-news.md', toMarkdown(dateStr, articlesByCity));
 
   console.log(
     'news.json / daily-news.md 작성 완료 — seoul:%d paris:%d austin:%d',
