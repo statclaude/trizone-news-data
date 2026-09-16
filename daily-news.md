@@ -2,127 +2,127 @@
 
 ## 별내
 
-- **서울 시내버스 노사 협상 결렬… 16일 첫차부터 파업 우려** — 경향신문 (2026-09-15T13:09:00Z)
-  서울 시내버스 노조가 임금 협상 차질로 막판 조정에 실패하며 파업을 선언했습니다. 이에 따라 16일 새벽 첫차부터 시내버스 운행이 차질을 빚을 전망입니다.
-  https://www.khan.co.kr/article/202609152209001
+- **서울 강서구, '마곡미술길' 로컬 축제 19일 개최** — 연합뉴스 (2026-09-16T01:27:43.000Z)
+  서울 강서구가 오는 19일 마곡지구 일대에서 예술과 지역 문화가 어우러지는 '마곡미술길' 로컬 축제를 개최합니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS053cWZGREhRMTVqa1o3dVI0aDR5OXhHcE4ta1ZGNzhtdTg1SExDaHBNN2cwUzF2STh5anZOTVhCanNXVTd3N2lDbWhGU2R0TmRjOGdLSVY3T0k?oc=5
 
-- **여권 내 김지용 중수청장 후보자 사퇴론 분출… 청와대 선택 주목** — 한겨레 (2026-09-15T11:36:00Z)
-  검찰 출신 초대 중대범죄수사청장 후보자를 둘러싸고 여권 내부에서 사퇴를 요구하는 목소리가 커지고 있습니다. 청와대가 추가 검증을 거쳐 어떠한 결정을 내릴지 관심이 쏠립니다.
-  https://www.hani.co.kr/arti/politics/assembly/1277937.html
+- **서울 시내버스 노사 협상 극적 타결…교통대란 피했다** — YTN (2026-09-16T00:30:00.000Z)
+  서울 시내버스 노사가 파업 직전 임금 인상안에 극적으로 합의하면서 버스가 첫차부터 정상 운행을 시작했습니다.
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBtaklldmt3ZXpXbVpGSTlJaGRrUVFqQ3o4TzFZeGVXMk1Gdjh1c3hOYVRFM1BGVllQWUVSUWc5VkREZE9oSjVqRE9jSHpkdzRUcFZmMU1PbkUtNEpUUXo4bElNUnBTNHg4UU1QVEVBaw?oc=5
 
-- **이형일 재경부 장관 후보자 "거주 중심 주택 보호 목표… 재건축 시 실입주 예정"** — 한겨레 (2026-09-15T11:26:00Z)
-  이형일 부총리 겸 재정경제부 장관 후보자가 정부의 부동산 세제개편안이 실거주 1주택자 보호를 목표로 한다고 설명했습니다. 본인 소유의 과천 아파트 재건축 완료 후 실입주 계획도 밝혔습니다.
-  https://www.hani.co.kr/arti/economy/economy_general/1277911.html
+- **강남3구·한강벨트 40% '뚝', 외곽 60% '쑥'…서울 아파트 거래시장 재편** — v.daum.net (2026-09-16T01:36:07.000Z)
+  서울 아파트 거래 비중에서 강남권과 한강변 비율이 줄고 외곽 지역 거래 비중이 급증하며 시장이 재편되고 있습니다.
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE50OUNGQWxaaWVoaVhWbWNFclowUjlXME1MdTdRR3ByTVlYdW05Z2pVN210RjhzQW0wOWRZd1Z0a2pwei1Bb3V6UTM3LW80WEk?oc=5
 
-- **한국-카자흐스탄, 17년 만에 글로벌 포괄적 전략 동반자 관계 격상** — 대한민국 정책브리핑 (2026-09-15T11:23:25Z)
-  이재명 대통령이 방한한 카자흐스탄 대통령과 정상회담을 열고 양국 관계를 미래지향적 전략 동반자 관계로 격상했습니다. 공급망과 에너지 분야 협력도 대폭 강화하기로 했습니다.
-  https://www.korea.kr/news/policyNewsView.do?newsId=148971950
+- **한세예스24문화재단, 서울문화재단과 기초예술 지원 업무협약** — 연합뉴스 (2026-09-16T00:04:33.000Z)
+  한세예스24문화재단이 서울문화재단과 협업해 기초예술 분야 유망 창작자 발굴과 아세안 문화교류 확대에 나섭니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRWxqazdPVnR5N0dXYWF3MjZObjU4ZHBMWk9VWVJySWZOd1RPWWZ1eFZSM3VZb0t4VjZlQ2pkcVdkQXo5OEY4SHlyWGtuZGZaV0o2cGlNZmwxbFHSAWBBVV95cUxNZUwwNzFmWE5LY0dmYU9RalZBcFRPd0hjSlFrZDdZOVZwUU9wOE1FNDJtNS11SlFNQnNMODRxZWt4elJ1NzE4RFZFc3BVT3ItRE1ua0N4LUdETnh3cEpGTEE?oc=5
 
-- **삼성전자 테일러 팹 본격 가동… 테슬라 최신 AI 칩 시제품 생산 돌입** — 서울경제 (2026-09-15T12:37:38Z)
-  삼성전자가 미국 텍사스주 테일러 파운드리 공장에서 테슬라의 인공지능 칩 시제품 생산을 시작했습니다. 빅테크 기업들의 AI 반도체 수요 폭증에 발맞춰 당초 계획보다 조기 가동에 나섰습니다.
-  https://www.sedaily.com/article/20091221
+- **"한국 없이는 AI 인프라 불가"…록키리눅스 CIQ 대표 서울 방문** — 한국경제 (2026-09-15T05:35:42.000Z)
+  록키리눅스의 수장 CIQ 대표가 한국의 뛰어난 AI 인프라 역량을 강조하며 서울을 찾아 국내 기관들과의 협업 방안을 논의했습니다.
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFPLVFlyaVhZVWZTRW5WeV9FVmgwbnZnWHpHeTJQSnZxV2l2Mm82dWFDTDhjOU5CaS1rbTBaU1FJckRpUFZqQURVTVdDVDUzcDBFejJzdUNnMVNGQQ?oc=5
 
-- **애플 아이폰 국내 출하량 급증… 폴더블 '아이폰 듀오' 출시 앞두고 흥행 기대** — v.daum.net (2026-09-15T12:42:00Z)
-  올해 2분기 한국 시장 내 애플 아이폰 출하량이 글로벌 최고 수준의 성장률을 나타냈습니다. 다음 달 첫 여권형 폴더블폰 출시를 앞두고 프리미엄 폰 시장 경쟁이 더욱 격화될 것으로 보입니다.
-  https://v.daum.net/v/20260915214212162
+- **트와이스, 월드투어 피날레 서울 공연 스페셜 바이닐 발매** — starnewskorea.com (2026-09-15T23:12:04.000Z)
+  걸그룹 트와이스가 10월 16일 월드투어 'THIS IS FOR' 서울 피날레 공연의 생생함을 담은 라이브 스페셜 LP를 발매합니다.
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9zRVNCaWZobjQ4b1VuLWNnUFJMNVVwaXBVSlFVM3QyYkNwNHl3ZERac0FJQWFCMFl1YzkyT1NjYUpSVV9LbVNSV2hOVS1qRzJRRk9jZzBWeDFvcnJvRThkYkFFS1RMd21ta2x4MkhHNFdzeHRx?oc=5
 
-- **앤트로픽 AI '페이블 5.1', 370년간 풀리지 않은 암호 44분 만에 해독** — AI타임스 (2026-09-15T09:47:47Z)
-  17세기부터 풀리지 않던 역사적 암호문 난제를 앤트로픽의 최신 AI 모델이 44분 만에 풀었습니다. 인공지능의 뛰어난 복잡성 해독 능력이 다시 한번 입증되었습니다.
-  https://www.aitimes.com/news/articleView.html?idxno=215301
+- **서울 중장년 88%가 가족 돌봄 담당…절반 가까이는 '이중돌봄'** — 연합뉴스 (2026-09-15T06:00:44.000Z)
+  서울에 거주하는 중장년층 대부분이 가족 돌봄을 수행하고 있으며, 부모와 자녀를 동시에 챙기는 이중돌봄 비중도 매우 높은 것으로 나타났습니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ano5NDFQWFFuR2VKT3pZU2JzSEFIeXBsV0l1OGZuaVlOMDZCbUJSd1pJaTNZVkZRSDNmbzZNOFljMmIwUFpXWDhjRzFLYkJaVEJLVTFiaEUzcjDSAWBBVV95cUxNVEtyOENyN0tpc3lBbmFTZEJadXdpOUZ6TERCZlhjcWxqUWF5RDZTajYyRnhKVXFDVUlxU0Vuc2V0VzhhUmtBSnhDTl9tV1lLWlEyWVJxQUdvNy15ZWZ3VWM?oc=5
 
-- **SK하이닉스 계약학과 열풍… 대기업 계약학과 수시 지원 역대 최고 기록** — 농민신문 (2026-09-15T10:58:00Z)
-  SK하이닉스 실적 호조에 힘입어 관련 대기업 계약학과 대입 수시 지원자 수가 전년 대비 27% 이상 대폭 늘어났습니다. 반도체 등 첨단 기술 분야에 대한 인재들의 선호도가 더욱 커졌습니다.
-  https://www.nongmin.com/article/20260915500280
+- **오늘 한·중앙아시아 정상회의 개최…'서울 선언' 발표 예정** — v.daum.net (2026-09-16T00:45:44.000Z)
+  한국과 중앙아시아 국가 정상들이 참가하는 정상회의가 열려 상호 협력을 강화하는 내용의 '서울 선언'을 채택합니다.
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFPMV3NmeFd4VWRYQ2Z3cS1ObWVTam9TaHZjUXF5SWtOQjZQcDJHdVBQWkZDV3RiT0RBWEJrVWJRTEpWTlNvRVdDMzVTWEpVdU0?oc=5
 
-- **구교환, 웹예능 '살롱드립' 출연해 동료 배우 신승호와의 호흡 자랑** — v.daum.net (2026-09-15T10:55:00Z)
-  배우 구교환이 웹예능 프로그램 살롱드립에 출연하여 신승호와의 끈끈한 친분과 남다른 호흡을 전했습니다. 영화 '부활남: 더 레드' 개봉을 앞두고 다채로운 비하인드 에피소드를 공개했습니다.
-  https://v.daum.net/v/20260915195530975
+- **서울국제정원박람회, 2년 연속 관람객 1,000만 명 돌파** — 연합뉴스 (2026-09-16T00:22:03.000Z)
+  서울에서 열린 국제정원박람회가 도심 속 자연 휴식처로 큰 호응을 얻으며 2년 연속 누적 관람객 1천만 명을 경신했습니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBueldvdWxBb1VwZUw5bUVRVUU5cnd5bmdsYTN1cUpDV0MyLXJlVlZLZUhTa1VKQnZMOElqbmJUTEczbGI1ZThUcXVBcnh0ZnRlQ0R2WVE1NGQxVXPSAWBBVV95cUxOajZDMUlGdkRNcTZKRzZfMkQ5dFJEeW5yZFNKYmNrZkl1bmFEdGQ1QlF1TjBac3RuV2tuZzRsRlg0YTZreW53ZjRHQVpZWmxTWXUzUGZlY0EtT2lmODYtWFE?oc=5
 
-- **오연수, 둘째 아들과의 경주 여행기 공개하며 깊은 애정 드러내** — v.daum.net (2026-09-15T11:30:00Z)
-  배우 오연수가 유튜브 채널을 통해 둘째 아들과 함께 다녀온 경주 여행 영상을 공개했습니다. 아들과 소중한 추억을 나누며 행복한 근황을 전했습니다.
-  https://v.daum.net/v/20260915203048846
+- **서울시, 청년 정규직 채용 지원 '서울 강소기업' 42곳 선정** — 연합뉴스 (2026-09-15T21:00:04.000Z)
+  서울시가 청년층을 정규직으로 신규 채용하는 우수 강소기업 42곳을 선정하고 지원금을 지급합니다.
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZY0FvcTVYSE1LZHYySmNQQmp6UF8ydUtYcmdYeVB3Q09tbUhzcDBYV2pEZV9IcGlTZzdHTk1aWjVqS0dULVlZdHJfLVR2cnN3RWlvZGV3VWNIYlhpWXR2ONIBYEFVX3lxTE1ZY0FvcTVYSE1LZHYySmNQQmp6UF8ydUtYcmdYeVB3Q09tbUhzcDBYV2pEZV9IcGlTZzdHTk1aWjVqS0dULVlZdHJfLVR2cnN3RWlvZGV3VWNIYlhpYXR2OA?oc=5
 
 ## 파리
 
-- **마크롱 대통령, 신규 군 복무제 첫 기수 명칭으로 저항운동가 '앙리 페르테' 발표** — lemonde.fr (2026-09-15T12:36:30Z)
-  에마뉘엘 마크롱 프랑스 대통령은 자발적 군 복무 제도의 첫 기수 이름을 16세에 총살당한 저항운동가 앙리 페르테의 이름을 따서 명명한다고 발표했습니다. 청년층의 애국심 함양과 국민 통합을 도모한다는 목적입니다.
-  https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html
+- **파리 방과후 수업 성폭력 논란…이달고 시장 "공동의 실패" 유감 표명** — Le Figaro (2026-09-15T05:53:42.000Z)
+  안 이달고 파리 시장이 상원 청문회에 참석해 파리 시내 방과후 학교에서 발생한 아동 성폭력 사건들에 대해 깊은 유감을 표했습니다.
+  https://news.google.com/rss/articles/CBMiigJBVV95cUxQdHUwZnNycl9WQVpQWFpOY1h3TlBYWmEzRldJbUhaNmpsN3lSc3pZX2lGSXc3MDVvS3FkbDY4QjJlXzFYdHg3MGJBMTZDNkFJbFJoSGxkM25mU2h3RGZJa0xWdks2OVJoYlc0NWgxRlg5cWhjNW5aTkRuMGE0ek5xOXlEeVI4ZG5QWlR4MUl1QkxYTEI0N1p6MWdjbTNtQXJRVUVkeFBWVFVOaXNUWGx6VVFUTHBQU3hYQ3RBdFVwYWcyV0RYM3NweTdrYk9CVW1JbjdNeFJmd3RKVDBkYzh6U3lrajloaU5IVURCeTFpc1RYWlQyMkRRcmlyRDRRWkEtNU5NdWttSkdjQQ?oc=5
 
-- **파리 방과 후 활동 폭력 논란… 안 이달고 전 시장 "집단적 실패" 책임 언급** — Le Monde.fr (2026-09-15T12:18:42Z)
-  안 이달고 전 파리 시장이 상원 청문회에 출석해 방과 후 교실 내부 폭력 사태에 대한 시스템적 부실을 인정했습니다. 다만 자신에게만 책임을 물을 수는 없으며 집단적 실패라고 해명했습니다.
-  https://www.lemonde.fr/politique/article/2026/09/15/violences-dans-le-periscolaire-parisien-anne-hidalgo-renvoie-a-un-echec-collectif_6774417_823448.html
+- **프랑스 경찰, 처우 개선 및 임금 인상 요구하며 파리서 시위** — Le Monde.fr (2026-09-15T01:21:56.000Z)
+  파리 도심에서 근무 여건 개선과 임금 인상을 요구하는 경찰 노동조합 회원들의 집회가 열렸습니다.
+  https://news.google.com/rss/articles/CBMiigJBVV95cUxQckt3Rl9pQUlERnViZ1VzdjVwRlhubTlVNXZvOVJueC1odWJ1eDBaekpuRHNSNm1MbXBUdVJabDdEODRvZDM0VUlXWWtSSnUzak16cmQ4ZUdkbVdOTnh3Qno0anNjcHItNVRvV0FnekZnLVh3ejJfdEd3SkpDUDFFaENsWGNrM3ZRTV9VOThkRXlWWUUtUVFmcEVDLWk1YkUyRTVtU2pIdEE5TTF1a1h1Uk1mMXZMLXE2QUNKNVN1S2s5UkRGZ2o3SGhENFphcHdGaDRLVXFscThXcjFCTXlzRHBiaTVWMFQ5eS1uNmRLNUhVWUdxd0FrUXI1M1dFU1Myb183QThSTWVOdw?oc=5
 
-- **LVMH, 3년간 주가 45% 하락… 유럽 증시 시가총액 Top 10에서 탈락** — BFM Bourse (2026-09-15T13:07:24Z)
-  세계 최대 명품 그룹 LVMH의 주가가 지난 3년간 45% 넘게 급락하면서 유럽 상장 기업 시가총액 순위 10위권 밖으로 밀려났습니다. 명품 소비 침체가 실적과 주가에 악영향을 미쳤습니다.
-  https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-avec-son-action-qui-plonge-de-plus-de-45-sur-trois-ans-lvmh-sort-du-top-10-des-plus-importantes-societes-europeennes-en-bourse-1170154.html
+- **파리 증시 내림세 속 로레알, LVMH 제치고 시총 1위 등극** — Zonebourse (2026-09-15T17:46:25.000Z)
+  파리 증시 주가 조정 속에서 로레알이 럭셔리 공룡 LVMH를 제치고 기업가치 상위 자리에 올랐습니다.
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJDaUtnNFcycFBJR3puQjhxU2pYVFZKN014dWo5LWt0LVM4a0l4bDdUeVpJY19WRlhBS2RUcDMxVklFbl9fU3lUd0VrS0VfeVhFOGxxS3hEYnM5WjlHT1FCR2pjOWtfNGo3MnhnQXNJUWg3NXZBNUVMWG9pakhJc1YyaEZXTGozeE9OVWlPZ2s5ekUyRE5YMzBab2Q3WjIwcEtN?oc=5
 
-- **프랑스 관광산업 호조 유지… 2026년 관광 수입 800억 유로 달성 전망** — franceinfo (2026-09-15T11:58:23Z)
-  프랑스 관광개발공사는 외국인 관광객 증가에 힘입어 2026년 프랑스의 관광 수입이 800억 유로에 도달할 것으로 예상했습니다. 다만 방문객들의 개별 지출 예산은 다소 감소한 것으로 나타났습니다.
-  https://www.franceinfo.fr/economie/tourisme/la-france-continue-d-attirer-les-touristes-internationaux-80-milliards-d-euros-de-recettes-attendues-en-2026-selon-atout-france_8193485.html
+- **파리, 올해 최고기온 25도 이상 기록 100일 돌파…역대 최장 기록** — BFM (2026-09-15T18:15:51.000Z)
+  파리의 낮 최고기온이 올해 들어 100번째로 25도를 넘어서며 기후변화 속 신기록을 경신했습니다.
+  https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVTFrMzM5Y18xQjR2N1BHc2pQMTQ0elZfckdWN1Z6SHJyMHJrcDNaNWQ0X2lsTFlZYzF0enlZSWRzQzlBcV94Rlp6ckQ0c3B6UlVVVVJLcjVEU2Vub1RmSDRTTkFmb2d1Ny1tb0ZSOHppYnR5clJRVk1rMWo0YUhsanVnZFp5QzNUUVlEcTJCUjU1c1BUdThNTldoVlp3MjBGblVkby05dDdWdGE4UmZoallPS19xZkdCdDRPUnlzR0s0eGRyVG9SaFVJYWVWSzg3eV9tZU5iZEZZY2twTzhxTV80UFJCamdFdldyVng5c0M?oc=5
 
-- **르노 신형 트래픽 전기차, 2027 '올해의 상용차' 수상** — 01net.com (2026-09-15T11:40:01Z)
-  르노의 신형 트래픽 전기 상용차가 하노버 IAA 트랜스포트 박람회에서 심사위원 만장일치로 '2027 올해의 상용차'로 선정되었습니다. 뛰어난 성능과 기술력으로 경쟁 모델들을 제쳤습니다.
-  https://www.01net.com/actualites/renault-coup-maitre-trafic-elu-vehicule-utilitaire-annee-2027.html
+- **브리지트 바르도 소장품 파리 드루오 경매장에 전시** — Boursorama (2026-09-15T15:48:09.000Z)
+  프랑스 영화계의 전설 브리지트 바르도의 개인 소장품 및 경매 물품들이 파리 드루오 경매장에서 경매를 앞두고 공개되었습니다.
+  https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1NUYkZNX3p1UEhoRmhsY3NRUkl2LWZhSTdQMGkzSkhfWjN2TjlnUzdfd3JhcmhYV2dibnhjQ3dra25rOGhic2RpS01qUXZIWGZzUDJrLV9ld1BWbWZKbFhCWGNGMms2ZVhvTktCb0ZrMG1KZTcxczZNdnBXbV93ZGpLcjRiWFVBbGxVVWpKeUtlWGp3OU1HVUNiRjA1R2laRXhucERGUkhjcS1tcGZmUVUwckV4c080eHlweG53NWNlYjRtNTAybWhHRGVGaVNycmItSEVlRExuTGJqanI4bDBB0gHnAUFVX3lxTE0yNmxYNUVyZEhOTWpOeml0Smw2WVl1SXh2OUtEd01pVmjsR0pzV1lEMVAzVS1PQzZjVFdtd2hWMXJZa2gtY05aYW9WZXF5MTVWN1owUG1jLTlHR08zS3BSVm1MbUNNRzhqczV2MGVJUVcyU1V3Z3BhaUpNZEMyU295MjZMZFBYR3R6REU3cjhiUHJqQUZwUklnT25ILW9sVTZXcE96Y2tuSFBTdWFoUlQteVl4RUlvV2hjbHFmMW5MZWc0TjhZYTJiWElGSVQ9VEVQa0xodFF1TTdaZjFLM01fbEd5MmlsQQ?oc=5
 
-- **수학자 세드릭 빌라니 "학생들의 생성형 AI 사용 금지… 과정이 결과보다 중요"** — Le HuffPost (2026-09-15T12:27:11Z)
-  유명 수학자 세드릭 빌라니는 라디오 인터뷰에서 문제 해결 과정의 중요성을 강조하며 학생들의 AI 활용에 반대한다는 입장을 밝혔습니다. 단순한 결과물 도출보다 직접 사고하는 과정이 핵심이라고 지적했습니다.
-  https://www.huffingtonpost.fr/tech-futurs/article/le-chemin-plus-que-le-resultat-pourquoi-cedric-villani-refuse-a-ses-etudiants-l-usage-de-l-ia_325004.html
+- **오아시스, 파리 공연 앞두고 우애 회복…재결합 무대 기대감 승화** — Radio France (2026-09-15T11:00:00.000Z)
+  전설적인 록밴드 오아시스의 파리 내한 무대를 앞두고 갤러거 형제의 화해 소식이 팬들의 기대감을 높이고 있습니다.
+  https://news.google.com/rss/articles/CBMilAJBVV95cUxQZTJ3OHc2UmI5THprUWJhZjZoVVd5WGJnaElaWnE5YW1uY2laNUNqWjlLZzFtbzMxR0plYXRrVDVEYmRNekxDNUNiSTJrTXRuN1ZCMFV2anZ3bWJNSDMzTjJRNkNlMnlCRTJ1TUtYdEZqQWFXZTJhVlFWNDVMQ1NQQ2wxbmVtT3Z0MUQxV216ZkhYSnYtaUZ2MEI3YWhFaXN5MEJ3d3VLZTFIMFpsZWkyeGw0UnltLWRMd0I3OU5obEh0cUFHZlpiRFhLczhjNHQwQW9XcnNLbmFOREtLNl9qRmc3TmUxZFlvVjlMTzc3WVBjN09oLW1JS3ZfNmJ1R0ZiVmxvY1ZUOVNFYVI1dnFSQUVBZkk?oc=5
 
-- **핀테크 기업 레볼루트 해킹 피해… 고객 개인정보 유출 파문** — 20 Minutes (2026-09-15T11:47:00Z)
-  인터넷 전문은행 레볼루트가 해킹 공격을 받아 고객들의 여권 정보와 계좌번호 등이 유출되었습니다. 해커 그룹은 유출된 데이터를 빌미로 회사 측에 몸값을 요구하고 있습니다.
-  https://www.20minutes.fr/high-tech/4245547-20260915-passeports-rib-codes-neobanque-revolut-piratee-centaines-clients-concernes
+- **트레니탈리아, 파리 출발 연말 티켓 예매 개시…SNCF보다 앞서 승부수** — Le Parisien (2026-09-15T16:58:34.000Z)
+  이탈리아 철도청 트레니탈리아가 프랑스 국유철도(SNCF)보다 2주 앞서 파리 출발 연말 열차 승차권 판매를 시작합니다.
+  https://news.google.com/rss/articles/CBMingJBVV95cUxNakt2dk1RSTE1cFZrenhIcEFmUG5oMTJTWW1MZkNPd3ZnVFBZSGZUTHExRTFaaGVJckxMMW5QNWlJQ1BzblV4NEpwcjhxNUc3T0VNdjljLWUyMmRXU28xcFcyMjg2REZtdFlBV3otX3M5Q01WM3NNN1RBUzlOR0Q0ZERka3p2dWxPME1aVF9mblE1a25DQWVsTkhNR0IyY2RYbUxHd2RPZms1eDdMMGV1U21tb3NDb1ctQm1ObkxyNV9pYXBGdjdHQ3VIc0w1UHFGLXVVM3E4WFQxREIwN0N0WEhVdjBqRXFncjZJNktRejl0SXhpeUkwMGw2VDF6aVZ0VFZGVmh3NzhyeDlPNGlFMkJDeVpRVkF5ZzU1cENn?oc=5
 
-- **프랑스 록 음악의 전설 카트린 랭제 별세… 각계 추모 물결** — lefigaro.fr (2026-09-15T12:46:49Z)
-  밴드 '레 리타 미츠코'의 리드보컬 카트린 랭제가 68세를 일기로 세상을 떠났습니다. 마크롱 대통령과 주요 문화계 인사들은 독보적인 록 음악가를 향해 애도를 표했습니다.
-  https://www.lefigaro.fr/musique/benjamin-biolay-clara-luciani-leurs-adieux-a-catherine-ringer-punk-inimitable-et-irremplacable-20260915
+- **파리 고급 부동산 시장, 경기 둔화 속에서도 호조세 유지** — Presse Agence (2026-09-15T14:00:00.000Z)
+  파리의 최고급 주택 및 프리미엄 부동산 시장이 일반 부동산 시장의 침체에도 불구하고 견조한 거래세를 유지하고 있습니다.
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2lBdWxWQjlyNlJOa2NRMmdneGVuMVJsc0ptTWRoemh1VE9vM2pEYTVBT3FYWFRRWXVzaDhjM2ptc2JrZUw4SkNEX2pzMm92aWF0dVA1NGNNYlFqNzE0RDA0NUJhU0xxbzhnNFZZZzJTTjdoOUdFXzVaYW5LOEdQanhKUm1nRC04RzdJOTJ1MGgtbFZyQm5sRm1EcnN5eVUtU3FQVQ?oc=5
 
-- **일론 머스크 다큐멘터리 베니스 영화제서 공개… 머스크 신화 파헤쳐 화제** — 01net.com (2026-09-15T10:26:18Z)
-  알렉스 기브니 감독이 제작한 4시간 분량의 일론 머스크 다큐멘터리가 영화제에서 뜨거운 반응을 얻었습니다. 머스크 측은 명예훼손이라며 강하게 반발하고 있습니다.
-  https://www.01net.com/actualites/pres-de-quatre-heures-contre-elon-musk-le-documentaire-choc-qui-detruit-le-mythe-autour-du-milliardaire.html
+- **교황 파리 방문 앞두고 콩코르드 광장 일대 교통 전면 통제** — Le Parisien (2026-09-15T10:03:03.000Z)
+  교황의 파리 방문 일정에 맞춰 콩코르드 광장을 비롯한 주요 도로의 차량 통행 및 주차가 엄격히 제한됩니다.
+  https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWTJ6djBVUnQ1NHRPTXd1ZTZrYzBuaEpKUms4bjF3ekZYRGZWQWpTWVRFTXJXb2pGay1FRTdOU1ZIVFEwVVl5c18ycllJQ1Z0UW8xbFA2UHFPOXRZWk54dTh4dVg5YTJ5b0VmWmk3eDBFQmtJOG43VTVrNnlmV1pYbC1EYkZJcXlJNDFyZWo3MGFlZjVGZ2cyOE1CdDk5aTVOTzdkTXQ4QVQxUjYtdGgzckgyMlJKWFUzQ0o0RnYydHUwNFJWYjZENlAwWnB4NU0yVmFHcnlzYW5WTzFBT056TE95NHlOd0VVall4T3VLLXpqTkVGM0ItRw?oc=5
 
-- **스타 셰프 앙소피 픽 "주방 내 다문화와 다양성은 요리의 핵심 창의성"** — melty.fr (2026-09-15T13:00:01Z)
-  프랑스를 대표하는 스타 셰프 앙소피 픽이 미식 문화에서 지역 전통의 존중과 함께 주방 구성원의 다양한 성별·문화적 융합이 필수적이라고 강조했습니다.
-  https://www.melty.fr/people/attachee-au-terroir-et-a-la-france-et-ses-valeurs-anne-sophie-pic-evoque-la-mixite-en-cuisine-je-la-defends-car-cest-une-source-de-creativite-2347225.html
+- **리유즈 어드바이저, 파리서 순환 경제용 AI 솔루션 선보여** — Presse Agence (2026-09-15T05:00:00.000Z)
+  재활용 기업 리유즈 어드바이저가 자원 재활용 생태계 참여자들을 분석하고 지형도화하는 AI 플랫폼을 출시했습니다.
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VUbUdubkt6Qzl1YWJ2Z0V4MFo1QmM1eTFJUVRISGdKZkdfZWhZUUZkOWNvYWswN08zNk1zaUFHSFhmcVdVYUx6RnpTbmU1TnhJNWExM2kyX0FRZkxkREFiVnFHVmt0QUJfS0lNSk9ncTRNZVpfVllyVzZaNWs0aG5lcEx1UG43S2MzWWdiRjVjWWJaOXFkdkltMFlKcGQ1VkVzelBWczZ6dDlkaGdyOXpjNTlqRnI3NVVHTQ?oc=5
 
 ## 오스틴
 
-- **오스틴 '크럭스 사우스' 실내 클라이밍 짐, 모던 커뮤니티 공간으로 탈바꿈** — ArchDaily (2026-09-15T12:00:00Z)
-  텍사스주 오스틴에 새로 개장한 크럭스 사우스 클라이밍 센터가 기존 자갈 부지를 주민들을 위한 세련된 운동·문화 공간으로 변모시켰습니다.
-  https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio
+- **오스틴 다운타운에 텍사스 최고층 빌딩 '워터라인' 모습 드러내** — KUT (2026-09-14T19:00:00.000Z)
+  오스틴 중심가에 들어서는 텍사스주 최고 높이의 마천루 '워터라인'의 내부 구조와 시설이 공개되었습니다.
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTNqVW42SzNNZmw5c2R4RWFPeWQ4S2lzNTQ3RGNyUF9uVmhBbDlxX25fd2R2UDBPaGwwa1lIdnBLem9SWmxNMFpnZGdjS0ZwSDF6dnRIMzVyRTA0VzNUaF8wS2drejZMNU5waHZ1UFJZSTZWY052bmxBYXZTb1J0WkFzU3ByWTBqenJCYnZMUUxUZw?oc=5
 
-- **전미 대학 풋볼 랭킹 1위 오른 텍사스대 "방심 없이 시즌 끝까지 전력 다할 것"** — WTOP (2026-09-14T20:36:28Z)
-  텍사스 대학교 롱혼스 풋볼팀이 대학 랭킹 1위에 등극했습니다. 선수단과 스티브 사키시안 감독은 정점에 오른 성과에 안주하지 않고 남은 일정에 집중하겠다고 다짐했습니다.
-  https://wtop.com/college-sports/2026/09/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/
+- **에어비앤비, 오스틴에 첫 주택 공급 액셀러레이터 투자 진행** — Airbnb Newsroom (2026-09-14T10:03:53.000Z)
+  에어비앤비가 서민 주택난 해소를 위해 텍사스주 오스틴을 첫 번째 주택 액셀러레이터 프로젝트 지역으로 선정했습니다.
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUEEzdkpJSWxDd3h0d2RmaHFld3ZpYVZXV013d1M4alNJOVpJUnl4NXZUdkhCX2FfeXNrc1I1NXVTdG5mdTJBUjZZb2U3cERlcTJFc1BJUEJxX1NJSHRqYUc4Wl9fRHFyanA0ckRn?oc=5
 
-- **텍사스 철도위원회 후보 보 프렌치, 텍사스대 학생 사진 관련 SNS 게시글로 초당적 비판** — CBS News (2026-09-14T17:20:07Z)
-  텍사스 철도위원회 위원장에 출마한 보 프렌치가 텍사스대 오스틴 학생들의 사진을 올리며 인종 관련 발언을 해 공화당과 민주당 정치인 모두에게서 거센 반발을 사고 있습니다.
-  https://www.cbsnews.com/texas/news/bo-french-x-post-criticism-9-14-2026/
+- **텍사스 공화당 간부의 UT 오스틴 아시아계 학생 게시물 인종차별 논란** — reuters.com (2026-09-15T19:28:54.000Z)
+  텍사스 공화당 의장이 오스틴 텍사스대(UT Austin) 아시아계 학생들을 겨냥한 SNS 게시물을 올렸다 인종차별 비판을 받고 있습니다.
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWJDODNidTFITllJbVRhUGJmNENWTVpVX0dVMGVwYmUzTW5aQ2ZJWUEzRk5BQ2NLMFM0RFg1NXltdlBMSmRxcEtsZm10OUdmYUtBcTZlWGlxcmJlOGwySFgzbFpQbjFVVF8zRHNIaS1TWnF6UEdfNlU4RTZNMGJJLTFvOG5kUmxUSWdfQWVJbEczY3VTTXA1VGR4RDV3MXNkNGdOczZDcGhLcHdYZm5MNC16bUdtMFE0RHdF?oc=5
 
-- **오스틴 기업 발표 보고서 "AI 신약 개발 시장, 2033년까지 138억 달러 성장 전망"** — The Kingston Whig-Standard (2026-09-14T14:07:31Z)
-  인공지능 기술이 바이오 및 제약 산업 전반으로 대폭 확대됨에 따라 AI 신약 개발 시장이 2033년까지 급격하게 성장할 것이라는 분석이 나왔습니다.
-  https://www.thewhig.com/press-releases/pr-newswire/ai-drug-discovery-market-projected-to-reach-13-8-billion-by-2033/
+- **텍사스 롱혼스 쿼터백 아치 매닝, AI 가짜 영상 논란 사과** — localmemphis.com (2026-09-15T22:40:00.000Z)
+  오스틴 텍사스대 쿼터백 아치 매닝이 감독과 리포터가 등장하는 생성형 AI 딥페이크 영상에 웃었다는 지적에 공식 사과했습니다.
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGFfSVM3X3JZOU5mSmswcUVJc3VOS2xlZ2pmZnBMTnBpTFdUbUFHV25ObzRpN29mNDlhTndZbmpqRW9FMjZBSVdkRktCTkhCNmUzY2htaFNPUk50WmdXVW51Z1BHWjE3RUIxRmxOc3o5R1lzWVBHMjNnOHNsRVNIdmNiMm0waU5DdURWaFoyQjZTN0xMVVpVRXY4cHhSQmpjckg5d2phYU54X2FlNHYwVWFfV1haVVYzSUMzeWNqY1EyQTh1UlE?oc=5
 
-- **오스틴 매니지엔진 조사 "해킹 사고 후 사이버 보안 상시 유지 기업은 8% 불과"** — The Kingston Whig-Standard (2026-09-10T13:19:07Z)
-  텍사스 오스틴의 정보보호 솔루션 업체 매니지엔진 조사 결과, 기업의 80%는 해킹 피해 후 불과 1~6개월만 보안 조치를 강화할 뿐 장기적 보안 체계를 구축하는 비율은 8%에 그쳤습니다.
-  https://www.thewhig.com/press-releases/business-wire/only-8-of-organizations-make-cybersecurity-a-permanent-priority-after-a-breach-manageengine-finds/
+- **오스틴 주택 매매 중위가격 56만 달러로 하락** — KVUE (2026-09-15T18:50:00.000Z)
+  매물이 줄어드는 가운데 오스틴 지역 아파트 및 주택의 매매 중위 가격이 56만 달러 선으로 하락했습니다.
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG8Oc3FqTFRhTFJSN3JfdTJWN1lGOVNGb0FGaGp5STh2UGE1NDAwdjFEZnU5cEd5ekVDbVk3eWQ4b1lJTFRyQUduaDNWS2N0enJOOVl1eERCZ0wybXViN3JNLW94eTl5bVNqcno0ODY3MkRNLVloZnVjZndxblZfQWoyN2hETkl0U3dtTi1ucUtvb01oX3NZXzVmNllBU1NJVkczbFFtRWZGQW9CTmJ5Vld3R2k0YVhPSGVndA?oc=5
 
-- **테슬라, 오스틴서 운전대 없는 '사이버캡' 운행 하루 만에 미국 당국 안전 조사 착수** — Times of India (2026-09-05T04:18:00Z)
-  텍사스주 오스틴 시내 도로에서 테슬라의 무인 자율주행 택시 사이버캡 운행이 본격화되자마자 미국 도로교통안전국이 조사를 시작했습니다. 안전 표준 충족 여부가 핵심쟁점입니다.
-  https://timesofindia.indiatimes.com/business/international-business/teslas-wheel-free-cybercabs-face-us-safety-probe-just-a-day-after-launch/articleshow/133787079.cms
+- **오스틴에 본사를 둔 오라클, 추가 감원 단행** — KVUE (2026-09-15T02:59:00.000Z)
+  텍사스주 오스틴에 본사를 둔 테크 기업 오라클이 또 한 차례 인력 감원에 착수했습니다.
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEZ3c1N4VlJfc0RSY3E3SE5zWFl0WmgyamRYaGtvS0RKbWFTdUlCV2FqV1cxbTJYbWxmbXZ2SGJKNk05T2VWeUhMMEF0Z2RUWDdySHR2b0ZaTGZWaVB6SnExa3owWnlFYzI4N21NcEp6S0dQUXdUaTZsRU1oMmhJOXR6bXBBaGd4Yk5tNkpWdXhGQXBRTkRQYjBZcElRM2o2aUFlYlMxLU1oUVdpaktZVGxnTQ?oc=5
 
-- **텍사스대 오스틴 연구진 "장문의 온라인 리뷰, 해커의 표적 공격에 악용 위험"** — Phys.org (2026-08-30T15:00:02Z)
-  텍사스 주립대 오스틴 맥콤 경영대학원 연구팀은 소비자가 남긴 상세한 온라인 리뷰가 개인 인맥 정보를 노출시켜 사이버 사기 범죄의 표적이 될 수 있다고 경고했습니다.
-  https://phys.org/news/2026-08-length-online-scammers-friends.html
+- **중부 텍사스 시 당국, 차량 번호판 자동 인식 카메라 도입 현황 공개** — Austin American-Statesman (2026-09-14T10:06:04.000Z)
+  오스틴을 비롯한 중부 텍사스 치안 당국의 번호판 판독 카메라(ALPR) 설치 지역 지도가 공개되어 주목받고 있습니다.
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkxSN3ZGOVhaNFVXbkZDbmwyc0Z2SjIxNlBPV3Jpc3RsU1d3ZWJYTkNsR1NDdFRDcC1QTGE5ZkhZbnJyZ0Q3Zktrb3c1NUhTejFab0xleUM2RUhlRzZRSTZ5M2VpUHRrZGhqX2FHVkdBRVFpQ3M1SXNUQ0FyemdfTTNzMUJJQnk1bHRYeXBFNHVnN1l2?oc=5
 
-- **오스틴 비영리단체, 인디 뮤지션 위한 건강보험 지원 프로그램 운영** — KFF Health News (2026-09-09T09:00:00Z)
-  라이브 음악의 도시 오스틴에서 비영리단체와 지자체가 협력해 소득이 불투명한 미자립 음악가들의 건강보험료를 보조하는 민관 협력 지원책을 전개하고 있습니다.
-  https://kffhealthnews.org/insurance/musician-healthcare-insurance-nonprofit-assistance-austin-texas/
+- **텍사스 고고학 페어, 오스틴에서 고대 인류 역사 체험 행사 개최** — cbsaustin.com (2026-09-15T20:01:06.000Z)
+  오스틴에서 열린 텍사스 고고학 축제에서 지역 주민들과 청소년들이 인류 역사 탐구 체험 활동에 참여했습니다.
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxNU09JbzZvQTkxbDg3TndYLTNtQTNLUnBlRmFFUmk0cEwtaTRuVUhGbjBjLWxjVklHN1E3QzJ2Yzh5aDE2clQ3OU9nMFdFcXkyYUpuNldWd3BWLUo1VDBIVkdBRkZwdVVxYnN1N2diaWJkZkV6VGVKc3BWd1VEZ2tlLWVfOFIzRHgwUTFLSVhXeHNJVWVienQybXhuUnlsQ2I5NGZxRWZNVXQ1NXlIMTBJRFhQUWlqVW1CREN4RXFMTTFkb0t4?oc=5
 
-- **오스틴의 풍성한 가을 축제… F1 그랑프리부터 ACL 음악 페스티벌까지 잇따라 개최** — The Manila Times (2026-09-01T17:36:51Z)
-  텍사스주 오스틴에서 대학 풋볼 경기를 비롯해 세계적인 오스틴 시티 리미츠(ACL) 음악 페스티벌, F1 미국 그랑프리 등 다채로운 대형 행사들이 가을철 내내 펼쳐집니다.
-  https://www.manilatimes.net/2026/09/02/tmt-newswire/globenewswire/turn-up-the-fall-sec-rivals-acl-beats-and-f1-engines-headline-austins-ultimate-season/2416458
+- **오스틴 어린이 병원, U.S. 뉴스 선정 텍사스 최우수 병원 선정** — austin.culturemap.com (2026-09-15T14:46:00.000Z)
+  오스틴 소재 어린이 전문 병원이 U.S. 뉴스 앤 월드 리포트 조사에서 텍사스 최고의 의료기관 중 하나로 인정받았습니다.
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzhmWTJRaFlRdzJsSXB0Yjl1VVd4c1BpS3pWZDA1WHdiVDdOZlh0ZEV4N0RfOEVldHJVaUx2NHQyRFRSTDBWT0xabnNScXdHY2xOZVNaT1BYMHhaMFB4d0swMEJOZ242eHVZZzM2TnhHME1JeFVhYmtmYkZDeWM5UkVJWVF5NmNNQXdUUA?oc=5
 
-- **오스틴 SXSW 2027, 팟캐스트 페스티벌 신설 및 지역 주민 전용 혜택 확대** — Variety (2026-08-18T15:00:00Z)
-  세계적인 융합 예술 축제 SXSW가 2027년 텍사스 오스틴 행사에 팟캐스트 전용 페스티벌 항목을 도입하고 오스틴 현지 주민을 위한 전용 혜택을 대폭 늘리겠다고 발표했습니다.
-  https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/
+- **텍사스 북 페스티벌 설립자 캐롤린 오스본 92세로 별세** — Austin American-Statesman (2026-09-14T13:56:05.000Z)
+  오스틴 대표 문화 행사인 텍사스 북 페스티벌의 기틀을 다진 소설가 캐롤린 오스본이 향년 92세로 세상을 떠났습니다.
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDFIeGh5Qm1kU3RoJnpremhEOS0xYng1WEdVNmhoQkNtMm45MzZ6QmpyNGFfdnBZc3pGdC04NHQxaW00bHVwWFRUc25YZU5yT1gzMC1jQW5MbmhBd1ZHTHNYLUdNcmxXaTQ1M05HbWhIczBnVTZ0QnZMclBjY0U0TzNsUVlhUE11eW0zVnN3?oc=5
 
