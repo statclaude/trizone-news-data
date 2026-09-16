@@ -21,7 +21,6 @@ jobs:
 
       - name: Fetch & curate news
         env:
-          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/update-news.mjs
 
