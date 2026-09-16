@@ -120,17 +120,19 @@ async function collectAustinCandidates() {
 }
 
 // ---------- Gemini 큐레이션 (선별 + 한국어 제목/요약 직접 작성) ----------
+// REST API(fetch 직접 호출)에서는 type 값이 대문자 enum(STRING/OBJECT/ARRAY)이어야 함
+// — SDK를 쓰면 SDK가 알아서 변환해주지만, 우리는 raw REST 호출이라 직접 맞춰야 한다.
 function articlesSchema() {
   return {
-    type: 'array',
+    type: 'ARRAY',
     items: {
-      type: 'object',
+      type: 'OBJECT',
       properties: {
-        title_ko: { type: 'string' },
-        summary_ko: { type: 'string' },
-        source: { type: 'string' },
-        url: { type: 'string' },
-        publishedAt: { type: 'string' },
+        title_ko: { type: 'STRING' },
+        summary_ko: { type: 'STRING' },
+        source: { type: 'STRING' },
+        url: { type: 'STRING' },
+        publishedAt: { type: 'STRING' },
       },
       required: ['title_ko', 'summary_ko', 'source', 'url', 'publishedAt'],
     },
@@ -139,7 +141,7 @@ function articlesSchema() {
 
 async function curateWithGemini(candidatesByCity) {
   const schema = {
-    type: 'object',
+    type: 'OBJECT',
     properties: {
       seoul: articlesSchema(),
       paris: articlesSchema(),
