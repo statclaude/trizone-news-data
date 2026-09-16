@@ -175,21 +175,34 @@ ${JSON.stringify(candidatesByCity)}`;
   };
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
-  });
-  if (!res.ok) {
+
+  // 503(일시적 과부하)·429(요청 제한)는 재시도, 그 외 오류는 바로 던진다.
+  let lastErrorText = '';
+  for (let attempt = 0; attempt < 4; attempt++) {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+      if (!text) {
+        throw new Error('Gemini 응답에서 text를 찾을 수 없음: ' + JSON.stringify(data).slice(0, 500));
+      }
+      return JSON.parse(text);
+    }
     const t = await res.text().catch(() => '');
-    throw new Error(`Gemini 호출 실패: status=${res.status} body=${t.slice(0, 500)}`);
+    lastErrorText = `Gemini 호출 실패: status=${res.status} body=${t.slice(0, 500)}`;
+    if ((res.status === 503 || res.status === 429) && attempt < 3) {
+      const backoff = 8000 * (attempt + 1);
+      console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/3)`);
+      await sleep(backoff);
+      continue;
+    }
+    throw new Error(lastErrorText);
   }
-  const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) {
-    throw new Error('Gemini 응답에서 text를 찾을 수 없음: ' + JSON.stringify(data).slice(0, 500));
-  }
-  return JSON.parse(text);
+  throw new Error(lastErrorText);
 }
 
 // ---------- 사람이 읽는 기록용 Markdown ----------
