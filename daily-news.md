@@ -2,127 +2,127 @@
 
 ## 별내
 
-- **범여권 내분 격화…검찰개혁 둘러싼 설전 감정싸움으로 치달아** — 경향신문 (2026-09-15T12:19:00Z)
-  검찰개혁 방향을 둘러싼 더불어민주당과 조국혁신당 등 범여권 내 이견이 거친 표현으로 치달으며 감정싸움 양상을 보이고 있습니다.
-  https://www.khan.co.kr/article/202609152119005
+- **서울 시내버스 노사 협상 결렬… 16일 첫차부터 파업 우려** — 경향신문 (2026-09-15T13:09:00Z)
+  서울 시내버스 노조가 임금 협상 차질로 막판 조정에 실패하며 파업을 선언했습니다. 이에 따라 16일 새벽 첫차부터 시내버스 운행이 차질을 빚을 전망입니다.
+  https://www.khan.co.kr/article/202609152209001
 
-- **정경심 재판 위증 혐의 최성해 전 동양대 총장, 검찰 송치** — MBC 뉴스 (2026-09-15T12:12:05Z)
-  정경심 전 교수의 재판에서 거짓 증언을 한 혐의를 받는 최성해 전 동양대 총장이 경찰 수사를 마치고 검찰에 넘겨졌습니다.
-  https://imnews.imbc.com/news/2026/society/article/6852031_36918.html
+- **여권 내 김지용 중수청장 후보자 사퇴론 분출… 청와대 선택 주목** — 한겨레 (2026-09-15T11:36:00Z)
+  검찰 출신 초대 중대범죄수사청장 후보자를 둘러싸고 여권 내부에서 사퇴를 요구하는 목소리가 커지고 있습니다. 청와대가 추가 검증을 거쳐 어떠한 결정을 내릴지 관심이 쏠립니다.
+  https://www.hani.co.kr/arti/politics/assembly/1277937.html
 
-- **이형일 부총리 후보자 "실거주 1주택자 보호와 거주 중심 주택 문화가 목표"** — 한겨레 (2026-09-15T11:26:00Z)
-  이형일 부총리 겸 재정경제부 장관 후보자가 정부의 부동산 세제개편안과 관련해 실거주자 중심의 보호와 과세 차등이 목표라고 밝혔습니다.
+- **이형일 재경부 장관 후보자 "거주 중심 주택 보호 목표… 재건축 시 실입주 예정"** — 한겨레 (2026-09-15T11:26:00Z)
+  이형일 부총리 겸 재정경제부 장관 후보자가 정부의 부동산 세제개편안이 실거주 1주택자 보호를 목표로 한다고 설명했습니다. 본인 소유의 과천 아파트 재건축 완료 후 실입주 계획도 밝혔습니다.
   https://www.hani.co.kr/arti/economy/economy_general/1277911.html
 
-- **삼성전자, 미국 테일러 파운드리 가동…테슬라 AI 칩 시제품 생산** — 서울경제 (2026-09-15T12:37:38Z)
-  삼성전자가 텍사스주 테일러 공장에서 테슬라의 인공지능 칩 생산을 위한 시제품 가동에 조기 착수했습니다.
+- **한국-카자흐스탄, 17년 만에 글로벌 포괄적 전략 동반자 관계 격상** — 대한민국 정책브리핑 (2026-09-15T11:23:25Z)
+  이재명 대통령이 방한한 카자흐스탄 대통령과 정상회담을 열고 양국 관계를 미래지향적 전략 동반자 관계로 격상했습니다. 공급망과 에너지 분야 협력도 대폭 강화하기로 했습니다.
+  https://www.korea.kr/news/policyNewsView.do?newsId=148971950
+
+- **삼성전자 테일러 팹 본격 가동… 테슬라 최신 AI 칩 시제품 생산 돌입** — 서울경제 (2026-09-15T12:37:38Z)
+  삼성전자가 미국 텍사스주 테일러 파운드리 공장에서 테슬라의 인공지능 칩 시제품 생산을 시작했습니다. 빅테크 기업들의 AI 반도체 수요 폭증에 발맞춰 당초 계획보다 조기 가동에 나섰습니다.
   https://www.sedaily.com/article/20091221
 
-- **물가 상승에 등장한 '반줄 김밥'…가성비 찾는 소비자들** — 농민신문 (2026-09-15T11:43:00Z)
-  점심 물가가 급등하면서 한 끼 식사 비용을 줄이려는 소비자를 겨냥한 소용량·가성비 상품이 주목받고 있습니다.
-  https://www.nongmin.com/article/20260915500272
-
-- **애플 아이폰 한국 출하량 폭증…세계 최고 성장률 기록** — v.daum.net (2026-09-15T12:42:00Z)
-  올 2분기 국내 애플 아이폰 출하량이 전 세계 최고 성장세를 보이며 폴더블폰 출시를 앞두고 삼성전자와의 경쟁이 심화되고 있습니다.
+- **애플 아이폰 국내 출하량 급증… 폴더블 '아이폰 듀오' 출시 앞두고 흥행 기대** — v.daum.net (2026-09-15T12:42:00Z)
+  올해 2분기 한국 시장 내 애플 아이폰 출하량이 글로벌 최고 수준의 성장률을 나타냈습니다. 다음 달 첫 여권형 폴더블폰 출시를 앞두고 프리미엄 폰 시장 경쟁이 더욱 격화될 것으로 보입니다.
   https://v.daum.net/v/20260915214212162
 
-- **앤트로픽 AI '페이블 5.1', 370년 된 암호 난제 44분 만에 해독** — AI타임스 (2026-09-15T09:47:47Z)
-  17세기부터 해결되지 않던 역사적 암호문을 앤트로픽의 인공지능 모델이 불과 44분 만에 풀며 성능을 입증했습니다.
+- **앤트로픽 AI '페이블 5.1', 370년간 풀리지 않은 암호 44분 만에 해독** — AI타임스 (2026-09-15T09:47:47Z)
+  17세기부터 풀리지 않던 역사적 암호문 난제를 앤트로픽의 최신 AI 모델이 44분 만에 풀었습니다. 인공지능의 뛰어난 복잡성 해독 능력이 다시 한번 입증되었습니다.
   https://www.aitimes.com/news/articleView.html?idxno=215301
 
-- **카카오게임즈, 소셜카지노 업체 미투온 980억 원에 인수** — 연합인포맥스 (2026-09-15T11:29:47Z)
-  카카오게임즈가 경영권 확보를 위해 미투온 지분 39.56%를 인수하며 신임 대표 체제 이후 첫 대형 M&A를 성사시켰습니다.
-  https://news.einfomax.co.kr/news/articleView.html?idxno=4435038
+- **SK하이닉스 계약학과 열풍… 대기업 계약학과 수시 지원 역대 최고 기록** — 농민신문 (2026-09-15T10:58:00Z)
+  SK하이닉스 실적 호조에 힘입어 관련 대기업 계약학과 대입 수시 지원자 수가 전년 대비 27% 이상 대폭 늘어났습니다. 반도체 등 첨단 기술 분야에 대한 인재들의 선호도가 더욱 커졌습니다.
+  https://www.nongmin.com/article/20260915500280
 
-- **'학폭 논란' 배우 지수, 한국 활동 중단 후 필리핀서 근황 공개** — 헤럴드경제 (2026-09-15T12:00:00Z)
-  과거 학교폭력 논란으로 국내 연예계를 떠난 배우 지수가 필리핀에서 배우 활동을 이어가고 있는 소식이 전해졌습니다.
-  https://biz.heraldcorp.com/article/10874511
+- **구교환, 웹예능 '살롱드립' 출연해 동료 배우 신승호와의 호흡 자랑** — v.daum.net (2026-09-15T10:55:00Z)
+  배우 구교환이 웹예능 프로그램 살롱드립에 출연하여 신승호와의 끈끈한 친분과 남다른 호흡을 전했습니다. 영화 '부활남: 더 레드' 개봉을 앞두고 다채로운 비하인드 에피소드를 공개했습니다.
+  https://v.daum.net/v/20260915195530975
 
-- **재일동포 4세 배우 나카무라 유리, 암 투병 끝 별세** — 경향신문 (2026-09-15T11:20:00Z)
-  아이돌과 배우로 활약했던 재일동포 4세 나카무라 유리가 향년 44세를 일기로 세상을 떠나 팬들의 애도가 이어지고 있습니다.
-  https://www.khan.co.kr/article/202609152020015
+- **오연수, 둘째 아들과의 경주 여행기 공개하며 깊은 애정 드러내** — v.daum.net (2026-09-15T11:30:00Z)
+  배우 오연수가 유튜브 채널을 통해 둘째 아들과 함께 다녀온 경주 여행 영상을 공개했습니다. 아들과 소중한 추억을 나누며 행복한 근황을 전했습니다.
+  https://v.daum.net/v/20260915203048846
 
 ## 파리
 
-- **음모론자 레미 다이에 일당 재판, 파리서 개막** — lefigaro.fr (2026-09-15T12:37:33Z)
-  미아 양 납치 사건 및 쿠데타 모의 혐의를 받는 극우 음모론자 레미 다이엘과 15명의 일당에 대한 재판이 파리에서 시작되었습니다.
-  https://www.lefigaro.fr/actualite-france/enlevement-de-la-petite-mia-projet-de-coup-d-etat-le-proces-de-remy-daillet-et-son-groupuscule-conspirationniste-s-est-ouvert-a-paris-20260915
-
-- **마크롱, 신규 자원 군 복무제 첫 기수 명칭으로 레지스탕스 영웅 선정** — lemonde.fr (2026-09-15T12:36:30Z)
-  에마뉘엘 마크롱 프랑스 대통령은 새로운 자원 군 복무제의 1기 명칭을 16세에 처형당한 레지스탕스 영웅 앙리 페르테의 이름을 따 지었다고 발표했습니다.
+- **마크롱 대통령, 신규 군 복무제 첫 기수 명칭으로 저항운동가 '앙리 페르테' 발표** — lemonde.fr (2026-09-15T12:36:30Z)
+  에마뉘엘 마크롱 프랑스 대통령은 자발적 군 복무 제도의 첫 기수 이름을 16세에 총살당한 저항운동가 앙리 페르테의 이름을 따서 명명한다고 발표했습니다. 청년층의 애국심 함양과 국민 통합을 도모한다는 목적입니다.
   https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html
 
-- **안 이달고 전 파리 시장, 방과 후 활동 폭력 파문에 "집단적 실패" 해명** — Le Monde.fr (2026-09-15T12:18:42Z)
-  파리 시 방과 후 프로그램 아동 학대 실태 상원 청문회에 출석한 안 이달고 전 시장이 시스템적 집단 실패라며 단독 책임을 거부했습니다.
+- **파리 방과 후 활동 폭력 논란… 안 이달고 전 시장 "집단적 실패" 책임 언급** — Le Monde.fr (2026-09-15T12:18:42Z)
+  안 이달고 전 파리 시장이 상원 청문회에 출석해 방과 후 교실 내부 폭력 사태에 대한 시스템적 부실을 인정했습니다. 다만 자신에게만 책임을 물을 수는 없으며 집단적 실패라고 해명했습니다.
   https://www.lemonde.fr/politique/article/2026/09/15/violences-dans-le-periscolaire-parisien-anne-hidalgo-renvoie-a-un-echec-collectif_6774417_823448.html
 
-- **프랑스 관광 수입 호조…2026년 800억 유로 달성 전망** — franceinfo (2026-09-15T11:58:23Z)
-  외국인 관광객 호조로 2026년 프랑스 관광 매출이 800억 유로에 달할 전망이지만 내국인 관광객의 지출 축소 경향도 관찰됩니다.
+- **LVMH, 3년간 주가 45% 하락… 유럽 증시 시가총액 Top 10에서 탈락** — BFM Bourse (2026-09-15T13:07:24Z)
+  세계 최대 명품 그룹 LVMH의 주가가 지난 3년간 45% 넘게 급락하면서 유럽 상장 기업 시가총액 순위 10위권 밖으로 밀려났습니다. 명품 소비 침체가 실적과 주가에 악영향을 미쳤습니다.
+  https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-avec-son-action-qui-plonge-de-plus-de-45-sur-trois-ans-lvmh-sort-du-top-10-des-plus-importantes-societes-europeennes-en-bourse-1170154.html
+
+- **프랑스 관광산업 호조 유지… 2026년 관광 수입 800억 유로 달성 전망** — franceinfo (2026-09-15T11:58:23Z)
+  프랑스 관광개발공사는 외국인 관광객 증가에 힘입어 2026년 프랑스의 관광 수입이 800억 유로에 도달할 것으로 예상했습니다. 다만 방문객들의 개별 지출 예산은 다소 감소한 것으로 나타났습니다.
   https://www.franceinfo.fr/economie/tourisme/la-france-continue-d-attirer-les-touristes-internationaux-80-milliards-d-euros-de-recettes-attendues-en-2026-selon-atout-france_8193485.html
 
-- **프랑스 다쏘와 독일 OHB, 유인 우주 비행선 '볼텍스' 개발 추진** — BFM (2026-09-15T11:41:11Z)
-  양국 우주항공 기업들이 차세대 유인 우주 비행체 개발을 위해 협력을 강화하고 있습니다.
-  https://www.bfmtv.com/economie/entreprises/industries/l-allemand-ohb-affirme-que-l-avion-spatial-vortex-fabrique-avec-le-francais-dassault-est-tout-a-fait-prevu-aussi-pour-le-vol-habite_AD-202609150473.html
+- **르노 신형 트래픽 전기차, 2027 '올해의 상용차' 수상** — 01net.com (2026-09-15T11:40:01Z)
+  르노의 신형 트래픽 전기 상용차가 하노버 IAA 트랜스포트 박람회에서 심사위원 만장일치로 '2027 올해의 상용차'로 선정되었습니다. 뛰어난 성능과 기술력으로 경쟁 모델들을 제쳤습니다.
+  https://www.01net.com/actualites/renault-coup-maitre-trafic-elu-vehicule-utilitaire-annee-2027.html
 
-- **프랑스 우체국 전국적 전산 장애…우편·택배 서비스 마비** — Linternaute.com (2026-09-15T10:45:00Z)
-  소프트웨어 업데이트 오류로 인해 프랑스 전역 우체국 지점의 우편 접수와 통신 판매 관련 서비스가 차질을 빚었습니다.
-  https://www.linternaute.com/actualite/societe/11302831-panne-nationale-a-la-poste-courriers-colis-quels-sont-les-services-impactes/
+- **수학자 세드릭 빌라니 "학생들의 생성형 AI 사용 금지… 과정이 결과보다 중요"** — Le HuffPost (2026-09-15T12:27:11Z)
+  유명 수학자 세드릭 빌라니는 라디오 인터뷰에서 문제 해결 과정의 중요성을 강조하며 학생들의 AI 활용에 반대한다는 입장을 밝혔습니다. 단순한 결과물 도출보다 직접 사고하는 과정이 핵심이라고 지적했습니다.
+  https://www.huffingtonpost.fr/tech-futurs/article/le-chemin-plus-que-le-resultat-pourquoi-cedric-villani-refuse-a-ses-etudiants-l-usage-de-l-ia_325004.html
 
-- **AI 열풍에 그래픽카드 가격 폭등…권장가의 23% 웃돌아** — Frandroid (2026-09-15T13:00:51Z)
-  인공지능 메모리 수요 증가로 그래픽카드 핵심 부품이 부족해지면서 올해 유럽 시장 내 최신 그래픽카드 가격이 급등했습니다.
-  https://www.frandroid.com/produits-android/3247343_prix-des-cartes-graphiques-ce-comparateur-cartographie-la-flambee-des-rtx-50-et-rx-9000-en-2026
+- **핀테크 기업 레볼루트 해킹 피해… 고객 개인정보 유출 파문** — 20 Minutes (2026-09-15T11:47:00Z)
+  인터넷 전문은행 레볼루트가 해킹 공격을 받아 고객들의 여권 정보와 계좌번호 등이 유출되었습니다. 해커 그룹은 유출된 데이터를 빌미로 회사 측에 몸값을 요구하고 있습니다.
+  https://www.20minutes.fr/high-tech/4245547-20260915-passeports-rib-codes-neobanque-revolut-piratee-centaines-clients-concernes
 
-- **AI 합성 곰팡이 사진으로 빵집서 환불받으려던 남성 적발** — 20 Minutes (2026-09-15T12:32:00Z)
-  프랑스 르랭시의 한 베이커리에서 고객이 생성형 AI로 만든 곰팡이 핀 파이 사진으로 환불을 요구하다 사기 혐의로 고소당했습니다.
-  https://www.20minutes.fr/faits_divers/4245521-20260915-raincy-cree-ia-fausses-tartes-moisies-etre-rembourse
-
-- **프랑스 전설적 록 밴드 '레 리타 미체코'의 카트린 랭제 68세로 별세** — lefigaro.fr (2026-09-15T12:46:49Z)
-  프랑스 록의 상징인 카트린 랭제의 사망 소식에 대통령과 전 세계 뮤지션들의 추모 물결이 이어지고 있습니다.
+- **프랑스 록 음악의 전설 카트린 랭제 별세… 각계 추모 물결** — lefigaro.fr (2026-09-15T12:46:49Z)
+  밴드 '레 리타 미츠코'의 리드보컬 카트린 랭제가 68세를 일기로 세상을 떠났습니다. 마크롱 대통령과 주요 문화계 인사들은 독보적인 록 음악가를 향해 애도를 표했습니다.
   https://www.lefigaro.fr/musique/benjamin-biolay-clara-luciani-leurs-adieux-a-catherine-ringer-punk-inimitable-et-irremplacable-20260915
 
-- **2026 에미상 시상식, 공포 시리즈 '위도우스 베이' 14관왕 신기록** — Télérama (2026-09-15T12:52:36Z)
-  미국 LA에서 열린 에미상 시상식에서 드라마 '위도우스 베이'가 14개 부문을 싹쓸이하며 역대 단일 시즌 최다 수상 기록을 새로 썼습니다.
-  https://www.telerama.fr/series-tv/emmy-awards-2026-un-record-de-prix-pour-widow-s-bay-et-tous-les-gagnants-7032894.php
+- **일론 머스크 다큐멘터리 베니스 영화제서 공개… 머스크 신화 파헤쳐 화제** — 01net.com (2026-09-15T10:26:18Z)
+  알렉스 기브니 감독이 제작한 4시간 분량의 일론 머스크 다큐멘터리가 영화제에서 뜨거운 반응을 얻었습니다. 머스크 측은 명예훼손이라며 강하게 반발하고 있습니다.
+  https://www.01net.com/actualites/pres-de-quatre-heures-contre-elon-musk-le-documentaire-choc-qui-detruit-le-mythe-autour-du-milliardaire.html
+
+- **스타 셰프 앙소피 픽 "주방 내 다문화와 다양성은 요리의 핵심 창의성"** — melty.fr (2026-09-15T13:00:01Z)
+  프랑스를 대표하는 스타 셰프 앙소피 픽이 미식 문화에서 지역 전통의 존중과 함께 주방 구성원의 다양한 성별·문화적 융합이 필수적이라고 강조했습니다.
+  https://www.melty.fr/people/attachee-au-terroir-et-a-la-france-et-ses-valeurs-anne-sophie-pic-evoque-la-mixite-en-cuisine-je-la-defends-car-cest-une-source-de-creativite-2347225.html
 
 ## 오스틴
 
-- **텍사스 철도위원회 후보, UT 오스틴 학생 사진 관련 인종차별적 게시물로 논란** — CBS News (2026-09-14T17:20:07Z)
-  텍사스주 공직 후보자가 UT 오스틴 학생들의 사진을 두고 인종적 발언을 해 여야 양측 모두로부터 거센 비판을 받고 있습니다.
-  https://www.cbsnews.com/texas/news/bo-french-x-post-criticism-9-14-2026/
-
-- **테슬라, 오스틴서 운전대 없는 사이버택시 시범운행 시작 직후 당국 조사 착수** — Times of India (2026-09-05T04:18:00Z)
-  텍사스 오스틴 도로에 투입된 테슬라의 무인 자율주행 택시가 운행 개시 하루 만에 당국의 안전성 조사 조치를 받게 되었습니다.
-  https://timesofindia.indiatimes.com/business/international-business/teslas-wheel-free-cybercabs-face-us-safety-probe-just-a-day-after-launch/articleshow/133787079.cms
-
-- **텍사스주, 7월 민간 부문 고용 호조 속 일자리 1,600개 증가** — FOX 4 News (2026-08-25T01:03:23Z)
-  오스틴, 댈러스, 휴스턴 등 주요 광역시의 고용 증가세에 힘입어 텍사스 전체 민간 일자리가 지속해서 확대되고 있습니다.
-  https://www.fox4news.com/news/texas-adds-1600-jobs-july-private-sector-employment-grows
-
-- **UT 오스틴 연구진 "온라인 후기 글 작성, 사이버 공격 표적 될 위험성 높아"** — Phys.org (2026-08-30T15:00:02Z)
-  텍사스대 오스틴 경영대학원 연구팀은 작성한 온라인 리뷰 데이터가 사기범들의 친구 관계망 파악 및 해킹에 악용될 수 있다고 경고했습니다.
-  https://phys.org/news/2026-08-length-online-scammers-friends.html
-
-- **오스틴 AI 신약 개발 시장, 2033년까지 138억 달러 규모 성장 전망** — The Kingston Whig-Standard (2026-09-14T14:07:31Z)
-  인공지능 기술이 신약 탐색과 개발의 중심축으로 이동하면서 오스틴을 거점으로 한 관련 시장이 급격한 성장세를 보일 것으로 예측됩니다.
-  https://www.thewhig.com/press-releases/pr-newswire/ai-drug-discovery-market-projected-to-reach-13-8-billion-by-2033/
-
-- **대학 풋볼 1위 올라선 UT 텍사스 롱혼스 "방심 없이 우승 목표"** — WTOP (2026-09-14T20:36:28Z)
-  개막 2연승으로 전미 랭킹 1위에 오른 텍사스대 롱혼스 축구팀이 장기전 시즌을 앞두고 집중력을 유지하겠다고 다짐했습니다.
-  https://wtop.com/college-sports/2026/09/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/
-
-- **오스틴에 새로 문을 연 크럭스 사우스 클라이밍 짐 건축 디자인 눈길** — ArchDaily (2026-09-15T12:00:00Z)
-  미국 텍사스주 오스틴의 자갈 부지가 지역 사회의 중심이 되는 커뮤니티형 실내 암벽등반 공간으로 재탄생했습니다.
+- **오스틴 '크럭스 사우스' 실내 클라이밍 짐, 모던 커뮤니티 공간으로 탈바꿈** — ArchDaily (2026-09-15T12:00:00Z)
+  텍사스주 오스틴에 새로 개장한 크럭스 사우스 클라이밍 센터가 기존 자갈 부지를 주민들을 위한 세련된 운동·문화 공간으로 변모시켰습니다.
   https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio
 
-- **오스틴 비영리단체, 지역 음악가 건강보험료 지원 사업 확대** — KFF Health News (2026-09-09T09:00:00Z)
-  음악의 도시 텍사스 오스틴에서 비영리 단체가 예술가들의 건강보험 부담을 줄여주기 위한 보조금 지원 체계를 구축하고 있습니다.
+- **전미 대학 풋볼 랭킹 1위 오른 텍사스대 "방심 없이 시즌 끝까지 전력 다할 것"** — WTOP (2026-09-14T20:36:28Z)
+  텍사스 대학교 롱혼스 풋볼팀이 대학 랭킹 1위에 등극했습니다. 선수단과 스티브 사키시안 감독은 정점에 오른 성과에 안주하지 않고 남은 일정에 집중하겠다고 다짐했습니다.
+  https://wtop.com/college-sports/2026/09/top-ranked-texas-likes-the-view-from-no-1-but-is-focused-on-long-season-ahead/
+
+- **텍사스 철도위원회 후보 보 프렌치, 텍사스대 학생 사진 관련 SNS 게시글로 초당적 비판** — CBS News (2026-09-14T17:20:07Z)
+  텍사스 철도위원회 위원장에 출마한 보 프렌치가 텍사스대 오스틴 학생들의 사진을 올리며 인종 관련 발언을 해 공화당과 민주당 정치인 모두에게서 거센 반발을 사고 있습니다.
+  https://www.cbsnews.com/texas/news/bo-french-x-post-criticism-9-14-2026/
+
+- **오스틴 기업 발표 보고서 "AI 신약 개발 시장, 2033년까지 138억 달러 성장 전망"** — The Kingston Whig-Standard (2026-09-14T14:07:31Z)
+  인공지능 기술이 바이오 및 제약 산업 전반으로 대폭 확대됨에 따라 AI 신약 개발 시장이 2033년까지 급격하게 성장할 것이라는 분석이 나왔습니다.
+  https://www.thewhig.com/press-releases/pr-newswire/ai-drug-discovery-market-projected-to-reach-13-8-billion-by-2033/
+
+- **오스틴 매니지엔진 조사 "해킹 사고 후 사이버 보안 상시 유지 기업은 8% 불과"** — The Kingston Whig-Standard (2026-09-10T13:19:07Z)
+  텍사스 오스틴의 정보보호 솔루션 업체 매니지엔진 조사 결과, 기업의 80%는 해킹 피해 후 불과 1~6개월만 보안 조치를 강화할 뿐 장기적 보안 체계를 구축하는 비율은 8%에 그쳤습니다.
+  https://www.thewhig.com/press-releases/business-wire/only-8-of-organizations-make-cybersecurity-a-permanent-priority-after-a-breach-manageengine-finds/
+
+- **테슬라, 오스틴서 운전대 없는 '사이버캡' 운행 하루 만에 미국 당국 안전 조사 착수** — Times of India (2026-09-05T04:18:00Z)
+  텍사스주 오스틴 시내 도로에서 테슬라의 무인 자율주행 택시 사이버캡 운행이 본격화되자마자 미국 도로교통안전국이 조사를 시작했습니다. 안전 표준 충족 여부가 핵심쟁점입니다.
+  https://timesofindia.indiatimes.com/business/international-business/teslas-wheel-free-cybercabs-face-us-safety-probe-just-a-day-after-launch/articleshow/133787079.cms
+
+- **텍사스대 오스틴 연구진 "장문의 온라인 리뷰, 해커의 표적 공격에 악용 위험"** — Phys.org (2026-08-30T15:00:02Z)
+  텍사스 주립대 오스틴 맥콤 경영대학원 연구팀은 소비자가 남긴 상세한 온라인 리뷰가 개인 인맥 정보를 노출시켜 사이버 사기 범죄의 표적이 될 수 있다고 경고했습니다.
+  https://phys.org/news/2026-08-length-online-scammers-friends.html
+
+- **오스틴 비영리단체, 인디 뮤지션 위한 건강보험 지원 프로그램 운영** — KFF Health News (2026-09-09T09:00:00Z)
+  라이브 음악의 도시 오스틴에서 비영리단체와 지자체가 협력해 소득이 불투명한 미자립 음악가들의 건강보험료를 보조하는 민관 협력 지원책을 전개하고 있습니다.
   https://kffhealthnews.org/insurance/musician-healthcare-insurance-nonprofit-assistance-austin-texas/
 
-- **음악 축제부터 F1 레이싱까지…가을철 대형 이벤트로 뜨거워지는 오스틴** — The Manila Times (2026-09-01T17:36:51Z)
-  오스틴 시티 리미츠 뮤직 페스티벌과 F1 그랑프리 등 이번 가을 텍사스 오스틴에서 10여 개의 대형 스포츠·문화 행사가 개최됩니다.
+- **오스틴의 풍성한 가을 축제… F1 그랑프리부터 ACL 음악 페스티벌까지 잇따라 개최** — The Manila Times (2026-09-01T17:36:51Z)
+  텍사스주 오스틴에서 대학 풋볼 경기를 비롯해 세계적인 오스틴 시티 리미츠(ACL) 음악 페스티벌, F1 미국 그랑프리 등 다채로운 대형 행사들이 가을철 내내 펼쳐집니다.
   https://www.manilatimes.net/2026/09/02/tmt-newswire/globenewswire/turn-up-the-fall-sec-rivals-acl-beats-and-f1-engines-headline-austins-ultimate-season/2416458
 
-- **오스틴 SXSW 페스티벌, 팟캐스트 부문 신설 및 주최 행사 개편 발표** — Variety (2026-08-18T15:00:00Z)
-  내년 3월 오스틴에서 열리는 사우스바이사우스웨스트(SXSW)가 팟캐스트 페스티벌 신설 및 지역 주민을 위한 혜택 확대를 발표했습니다.
+- **오스틴 SXSW 2027, 팟캐스트 페스티벌 신설 및 지역 주민 전용 혜택 확대** — Variety (2026-08-18T15:00:00Z)
+  세계적인 융합 예술 축제 SXSW가 2027년 텍사스 오스틴 행사에 팟캐스트 전용 페스티벌 항목을 도입하고 오스틴 현지 주민을 위한 전용 혜택을 대폭 늘리겠다고 발표했습니다.
   https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/
 
