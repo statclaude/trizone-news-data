@@ -9,7 +9,9 @@
 
 const GNEWS_API_KEY = process.env.GNEWS_API_KEY;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = 'gemini-2.5-flash';
+// gemini-2.5-flash는 신규 API 키에는 더 이상 제공되지 않음 (실제 404 응답에서 확인,
+// Google이 gemini-3.6-flash 사용을 안내함).
+const GEMINI_MODEL = 'gemini-3.6-flash';
 
 if (!GNEWS_API_KEY) {
   console.error('GNEWS_API_KEY 환경변수가 없습니다 (저장소 Settings > Secrets and variables > Actions 에 등록 필요)');
