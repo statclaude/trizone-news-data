@@ -22,7 +22,20 @@ jobs:
       - name: Fetch & curate news
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/update-news.mjs
+        run: |
+          # 스크립트 내부에도 503(과부하) 재시도가 있지만(최대 약 3분),
+          # 수요 폭증이 그보다 길게 이어지는 경우를 대비해 전체 스크립트 단위로
+          # 한 번 더 재시도한다(5분 간격, 총 3회 시도).
+          for i in 1 2 3; do
+            node scripts/update-news.mjs && break
+            if [ "$i" -lt 3 ]; then
+              echo "스크립트 실행 실패 — 5분 대기 후 전체 재시도 ($i/3)"
+              sleep 300
+            else
+              echo "3회 모두 실패 — 종료"
+              exit 1
+            fi
+          done
 
       - name: Commit and push news.json
         run: |
