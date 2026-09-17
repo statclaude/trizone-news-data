@@ -348,8 +348,11 @@ ${mustIncludeJson}`;
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
 
   // 503(일시적 과부하)·429(요청 제한)는 재시도, 그 외 오류는 바로 던진다.
+  // 과부하가 몇 분 이어지는 경우도 있어(2026-09-17 실측), 재시도 횟수를 늘리고
+  // 지수 백오프를 60초까지 늘려 총 대기 시간을 넉넉히 확보한다.
+  const MAX_ATTEMPTS = 6; // 최초 시도 1회 + 재시도 5회
   let lastErrorText = '';
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
     const res = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -365,9 +368,10 @@ ${mustIncludeJson}`;
     }
     const t = await res.text().catch(() => '');
     lastErrorText = `Gemini 호출 실패: status=${res.status} body=${t.slice(0, 500)}`;
-    if ((res.status === 503 || res.status === 429) && attempt < 3) {
-      const backoff = 8000 * (attempt + 1);
-      console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/3)`);
+    if ((res.status === 503 || res.status === 429) && attempt < MAX_ATTEMPTS - 1) {
+      // 8s, 16s, 32s, 60s, 60s (지수 증가 후 60초로 상한)
+      const backoff = Math.min(8000 * Math.pow(2, attempt), 60000);
+      console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${MAX_ATTEMPTS - 1})`);
       await sleep(backoff);
       continue;
     }
