@@ -350,14 +350,39 @@ ${mustIncludeJson}`;
   // 503(일시적 과부하)·429(요청 제한)는 재시도, 그 외 오류는 바로 던진다.
   // 과부하가 몇 분 이어지는 경우도 있어(2026-09-17 실측), 재시도 횟수를 늘리고
   // 지수 백오프를 60초까지 늘려 총 대기 시간을 넉넉히 확보한다.
+  // 또한 fetch 자체가 실패(네트워크 오류·응답 헤더 타임아웃 등, 예:
+  // UND_ERR_HEADERS_TIMEOUT)하는 경우도 있어(2026-09-17 실측) — 이런 경우는
+  // res.status로 판단할 수 없으므로 fetch 호출 자체를 try/catch로 감싸서
+  // 같은 재시도 로직을 태운다. 또 요청이 무한정 걸려있지 않도록 90초
+  // 타임아웃을 명시적으로 건다.
   const MAX_ATTEMPTS = 6; // 최초 시도 1회 + 재시도 5회
   let lastErrorText = '';
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body),
-    });
+    let res;
+    let networkError = null;
+    try {
+      res = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(90000),
+      });
+    } catch (err) {
+      networkError = err;
+    }
+
+    if (networkError) {
+      const code = networkError?.cause?.code || networkError?.code || networkError?.name || 'unknown';
+      lastErrorText = `Gemini 호출 실패(네트워크): ${code} - ${networkError?.message || networkError}`;
+      if (attempt < MAX_ATTEMPTS - 1) {
+        const backoff = Math.min(8000 * Math.pow(2, attempt), 60000);
+        console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${MAX_ATTEMPTS - 1})`);
+        await sleep(backoff);
+        continue;
+      }
+      throw new Error(lastErrorText);
+    }
+
     if (res.ok) {
       const data = await res.json();
       const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
