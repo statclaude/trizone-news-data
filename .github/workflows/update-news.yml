@@ -4,7 +4,13 @@ on:
   schedule:
     # 매일 UTC 01:00, 13:00 = KST 10:00, 22:00 (하루 2회)
     - cron: '0 1,13 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Gemini 호출 없이 뉴스 후보 수집만 테스트 (무료 할당량 안 씀)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,6 +28,10 @@ jobs:
       - name: Fetch & curate news
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # 예비 키(다른 Google 계정) — 저장소 Secrets에 등록해두면 첫 키의 무료 할당량이
+          # 소진됐을 때 스크립트가 자동으로 이 키로 전환해서 쓴다. 등록 안 해놔도 무해함.
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
         run: |
           # 스크립트 내부에도 503(과부하) 재시도가 있지만(최대 약 3분),
           # 수요 폭증이 그보다 길게 이어지는 경우를 대비해 전체 스크립트 단위로
