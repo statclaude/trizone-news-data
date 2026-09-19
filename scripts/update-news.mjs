@@ -8,21 +8,34 @@
 //   2) Gemini(무료 티어)에게 후보를 넘겨 "도시별 10개(지역성+분야 다양성) / 국가별 10개(주요도+분야
 //      다양성)" 기준으로 선별시키고, 원문 언어와 무관하게 한국어 제목/요약을 직접 작성하게 함
 //      (→ 번역 API가 따로 필요 없어짐: GitHub Actions에서 비공식 구글 번역이 막히는 문제를 우회)
+//      — (2026-09-19 개선) 각 후보에 짧은 id를 매겨 Gemini에는 id/title/source/publishedAt만
+//        보내고(url은 빼서 프롬프트 크기를 줄임), Gemini는 선택한 id + title_ko/summary_ko만
+//        돌려주면 스크립트가 로컬 후보 목록에서 원본 url/source/publishedAt을 그대로 붙인다.
+//        url을 Gemini가 다시 "타이핑"할 일이 없어져 속도·정확성이 함께 좋아진다.
 //   3) news.json(앱이 fetch) + daily-news.md(사람이 저장소에서 읽는 기록용) 둘 다 저장
 //      — news.json 키: seoul/paris/austin(도시 지역 뉴스), korea/france/usa(국가 주요 뉴스)
 //
-// 필요한 저장소 Secrets: GEMINI_API_KEY
+// 필요한 저장소 Secrets: GEMINI_API_KEY (필수), GEMINI_API_KEY_2 (선택 — 예비 키, 다른 Google
+//   계정으로 발급받아 등록하면 첫 키의 무료 할당량이 소진됐을 때 자동으로 전환해서 씀)
 // (GNEWS_API_KEY는 더 이상 사용하지 않음 — 저장소 Secrets에 남아있어도 무해하며, 지워도 됨)
+//
+// DRY_RUN=true 로 실행하면 뉴스 후보 수집(구글 뉴스 RSS)까지만 하고 Gemini 호출과
+// news.json/daily-news.md 쓰기는 건너뛴다 — 워크플로/수집 로직만 확인할 때 무료 할당량을 안 쓰게 함.
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 // gemini-2.5-flash는 신규 API 키에는 더 이상 제공되지 않음 (실제 404 응답에서 확인,
 // Google이 gemini-3.6-flash 사용을 안내함).
 const GEMINI_MODEL = 'gemini-3.6-flash';
 
-if (!GEMINI_API_KEY) {
+// 여러 계정의 API 키를 등록해두면(GEMINI_API_KEY, GEMINI_API_KEY_2 ...) 첫 키가
+// 할당량 소진(429)으로 실패할 때 다음 키로 자동 전환한다 (아래 curateWithGemini 참고).
+const GEMINI_API_KEYS = [process.env.GEMINI_API_KEY, process.env.GEMINI_API_KEY_2].filter(Boolean);
+
+if (GEMINI_API_KEYS.length === 0) {
   console.error('GEMINI_API_KEY 환경변수가 없습니다 (저장소 Settings > Secrets and variables > Actions 에 등록 필요)');
   process.exit(1);
 }
+
+const DRY_RUN = process.env.DRY_RUN === 'true' || process.env.DRY_RUN === '1';
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
@@ -158,6 +171,21 @@ function toCandidate(a) {
   };
 }
 
+// 후보마다 짧은 id를 매긴다(지역 prefix + 순번, 예: "s0", "p3"). 이 id로 Gemini와
+// 주고받아서, url처럼 긴 값을 Gemini가 다시 타이핑하지 않아도 되게 한다.
+function assignIds(candidates, prefix) {
+  return candidates.map((c, i) => Object.assign({}, c, { id: `${prefix}${i}` }));
+}
+
+// Gemini 프롬프트에 실제로 보낼 축약형 — url(가장 긴 필드)과 빈 description은 빼서
+// 프롬프트 크기를 줄인다. url/source/publishedAt은 결과를 받은 뒤 로컬 후보 목록에서
+// id로 다시 찾아 붙인다(아래 resolvePicked 참고).
+function toPromptCandidate(c) {
+  const o = { title: c.title, source: c.source, publishedAt: c.publishedAt };
+  if (c.id) o.id = c.id;
+  return o;
+}
+
 async function collectCandidates(queries, hl, gl, ceid) {
   let all = [];
   for (const q of queries) {
@@ -259,49 +287,105 @@ async function collectMustInclude(cityKey) {
 // ---------- Gemini 큐레이션 (선별 + 한국어 제목/요약 직접 작성) ----------
 // REST API(fetch 직접 호출)에서는 type 값이 대문자 enum(STRING/OBJECT/ARRAY)이어야 함
 // — SDK를 쓰면 SDK가 알아서 변환해주지만, 우리는 raw REST 호출이라 직접 맞춰야 한다.
-function singleArticleSchema() {
+// (2026-09-19) Gemini가 url/source/publishedAt을 다시 타이핑해서 돌려주는 대신, 후보의
+// id만 골라 돌려주도록 스키마를 단순화했다 — 원본 값은 스크립트가 로컬에서 id로 찾아 붙인다.
+function pickedItemSchema() {
+  return {
+    type: 'OBJECT',
+    properties: {
+      id: { type: 'STRING' },
+      title_ko: { type: 'STRING' },
+      summary_ko: { type: 'STRING' },
+    },
+    required: ['id', 'title_ko', 'summary_ko'],
+  };
+}
+
+function pickedListSchema() {
+  return { type: 'ARRAY', items: pickedItemSchema() };
+}
+
+// extras(필수 포함 항목)는 후보가 이미 "이 기사다"로 정해져 있어 id로 고를 필요가 없다 —
+// Gemini는 한국어 제목/요약만 새로 작성해서 돌려주면 된다.
+function extraItemSchema() {
   return {
     type: 'OBJECT',
     properties: {
       title_ko: { type: 'STRING' },
       summary_ko: { type: 'STRING' },
-      source: { type: 'STRING' },
-      url: { type: 'STRING' },
-      publishedAt: { type: 'STRING' },
     },
-    required: ['title_ko', 'summary_ko', 'source', 'url', 'publishedAt'],
+    required: ['title_ko', 'summary_ko'],
   };
 }
 
-function articlesSchema() {
-  return { type: 'ARRAY', items: singleArticleSchema() };
+// 선택된 id 목록을 받아 로컬 후보 목록(candidateById)에서 원본 url/source/publishedAt을
+// 찾아 붙인다. Gemini가 존재하지 않는 id를 돌려주는 경우(드물게 있을 수 있음)는 조용히
+// 건너뛴다 — url을 임의로 지어내는 것보다 그 기사 하나가 빠지는 쪽이 훨씬 안전하다.
+function resolvePicked(picked, candidateById, label) {
+  const out = [];
+  for (const item of picked || []) {
+    const cand = candidateById.get(item.id);
+    if (!cand) {
+      console.warn(`${label}: 알 수 없는 id "${item.id}" — 건너뜀`);
+      continue;
+    }
+    out.push({
+      title_ko: item.title_ko,
+      summary_ko: item.summary_ko,
+      source: cand.source,
+      url: cand.url,
+      publishedAt: cand.publishedAt,
+    });
+  }
+  return out;
+}
+
+// extras 항목 하나를 resolvePicked와 같은 형태로 만든다 — id가 아니라 mustIncludeCandidates
+// 쪽에 이미 있는 원본 값을 그대로 쓴다.
+function resolveExtra(extraFromGemini, mustIncludeCand) {
+  if (!extraFromGemini || !mustIncludeCand) return null;
+  return {
+    title_ko: extraFromGemini.title_ko,
+    summary_ko: extraFromGemini.summary_ko,
+    source: mustIncludeCand.source,
+    url: mustIncludeCand.url,
+    publishedAt: mustIncludeCand.publishedAt,
+  };
 }
 
 async function curateWithGemini(candidatesByRegion, mustIncludeCandidates) {
   const schema = {
     type: 'OBJECT',
     properties: {
-      seoul: articlesSchema(),
-      paris: articlesSchema(),
-      austin: articlesSchema(),
-      korea: articlesSchema(),
-      france: articlesSchema(),
-      usa: articlesSchema(),
+      seoul: pickedListSchema(),
+      paris: pickedListSchema(),
+      austin: pickedListSchema(),
+      korea: pickedListSchema(),
+      france: pickedListSchema(),
+      usa: pickedListSchema(),
       // extras: 10대 뉴스와 별도로 "반드시 포함" 키워드 후보가 있는 도시만 채워지는 부가 항목.
       // 최상위 required에 넣지 않고, extras 내부도 required를 두지 않아 — 후보가 없는 도시는
       // Gemini가 해당 필드를 만들지 않아도 스키마 위반이 되지 않는다.
       extras: {
         type: 'OBJECT',
         properties: {
-          paris: singleArticleSchema(),
-          austin: singleArticleSchema(),
+          paris: extraItemSchema(),
+          austin: extraItemSchema(),
         },
       },
     },
     required: ['seoul', 'paris', 'austin', 'korea', 'france', 'usa'],
   };
 
-  const mustIncludeJson = JSON.stringify(mustIncludeCandidates || {});
+  // 프롬프트에는 url을 빼고 id/title/source/publishedAt만 보낸다(프롬프트 크기 축소).
+  const promptCandidatesByRegion = {};
+  for (const key of Object.keys(candidatesByRegion)) {
+    promptCandidatesByRegion[key] = candidatesByRegion[key].map(toPromptCandidate);
+  }
+  const promptMustInclude = {};
+  for (const key of Object.keys(mustIncludeCandidates || {})) {
+    promptMustInclude[key] = toPromptCandidate(mustIncludeCandidates[key]);
+  }
 
   const prompt = `당신은 일간 뉴스 큐레이터입니다. 아래 두 그룹의 후보 기사에서 각각 정확히 10개씩 선별하세요.
 후보는 이미 최근 ${MAX_ARTICLE_AGE_HOURS}시간 이내로 필터링되어 있으니, 그 안에서는 최신순을 특별히 더
@@ -318,24 +402,22 @@ async function curateWithGemini(candidatesByRegion, mustIncludeCandidates) {
 
 공통 규칙:
 4. 후보가 부족한 곳은 있는 만큼만 선택해도 됩니다 (억지로 10개를 채우지 마세요).
-5. title_ko(한국어 제목)와 summary_ko(한국어로 1~2문장 요약)를 직접 작성하세요. 원문이 프랑스어/영어여도 반드시 자연스러운 한국어로 작성합니다.
-6. source, url, publishedAt은 후보 기사에 있는 원본 값을 그대로 사용하세요 (임의로 만들어내지 마세요).
+5. 선택한 기사는 후보 JSON에 있는 "id" 값을 그대로 반환하세요 (새로 만들어내지 마세요).
+6. title_ko(한국어 제목)와 summary_ko(한국어로 1~2문장 요약)를 직접 작성하세요. 원문이 프랑스어/영어여도 반드시 자연스러운 한국어로 작성합니다.
 
 필수 포함 항목(extras 필드, 아래 "필수 포함 후보" JSON 참고):
-7. "필수 포함 후보"에 도시가 존재하면(예: paris, austin), extras.<도시>에 그 후보를 기반으로
+7. "필수 포함 후보"에 도시가 존재하면(예: paris, austin), extras.<도시>에 그 후보 기사를 기반으로
    title_ko/summary_ko를 새로 작성해 넣으세요 — 이 항목은 위 10대 뉴스 선별 기준(분야 다양성 등)과
-   무관하게 무조건 포함하는 별도 항목입니다. source/url/publishedAt은 후보의 원본 값을 그대로 쓰세요.
+   무관하게 무조건 포함하는 별도 항목입니다.
 8. "필수 포함 후보"에 없는 도시는 extras에 그 도시의 키 자체를 만들지 마세요(빈 값도 넣지 말고 생략).
-9. extras 항목이 10대 뉴스 중 하나와 같은 기사(같은 url)라면, 그래도 extras에는 그대로 포함하세요
-   (중복 제거는 이후 별도로 처리되니 신경 쓰지 않아도 됩니다).
 
 응답은 주어진 JSON 스키마만 따르세요. 다른 설명 텍스트는 포함하지 마세요.
 
-후보 기사 (JSON, 키: seoul/paris/austin/korea/france/usa):
-${JSON.stringify(candidatesByRegion)}
+후보 기사 (JSON, 키: seoul/paris/austin/korea/france/usa, 각 항목은 id/title/source/publishedAt):
+${JSON.stringify(promptCandidatesByRegion)}
 
-필수 포함 후보 (JSON):
-${mustIncludeJson}`;
+필수 포함 후보 (JSON, 각 항목은 title/source/publishedAt):
+${JSON.stringify(promptMustInclude)}`;
 
   const body = {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
@@ -345,64 +427,77 @@ ${mustIncludeJson}`;
     },
   };
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-
-  // 503(일시적 과부하)·429(요청 제한)는 재시도, 그 외 오류는 바로 던진다.
-  // 과부하가 몇 분 이어지는 경우도 있어(2026-09-17 실측), 재시도 횟수를 늘리고
-  // 지수 백오프를 60초까지 늘려 총 대기 시간을 넉넉히 확보한다.
-  // 또한 fetch 자체가 실패(네트워크 오류·응답 헤더 타임아웃 등, 예:
-  // UND_ERR_HEADERS_TIMEOUT)하는 경우도 있어(2026-09-17 실측) — 이런 경우는
-  // res.status로 판단할 수 없으므로 fetch 호출 자체를 try/catch로 감싸서
-  // 같은 재시도 로직을 태운다. 또 요청이 무한정 걸려있지 않도록 90초
-  // 타임아웃을 명시적으로 건다.
-  const MAX_ATTEMPTS = 6; // 최초 시도 1회 + 재시도 5회
+  // (2026-09-19) 여러 키를 등록해뒀으면 순서대로 시도한다. 503(일시 과부하)·네트워크
+  // 오류(타임아웃 등, 2026-09-17 실측)는 같은 키로 몇 번 재시도할 가치가 있지만,
+  // 429 RESOURCE_EXHAUSTED(무료 티어 하루 할당량 소진)는 같은 키로 아무리 재시도해도
+  // 절대 안 풀리므로 — 예전처럼 5번씩 재시도하며 시간을 버리지 않고 즉시 다음 키로
+  // 넘어간다(키가 하나뿐이면 그대로 실패). 이게 2026-09-19 발견된 "정기 실행조차 첫
+  // 시도부터 429로 죽는" 문제의 핵심 원인이었다 — 재시도 자체가 이미 바닥난 할당량을
+  // 계속 헛되이 두드려서, 워크플로 레벨 재시도(5분×3회)까지 전부 낭비하고 있었다.
+  const RETRY_ATTEMPTS_PER_KEY = 3; // 503/네트워크 오류 전용 — 키당 최초 1회 + 재시도 2회
   let lastErrorText = '';
-  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
-    let res;
-    let networkError = null;
-    try {
-      res = await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body),
-        signal: AbortSignal.timeout(90000),
-      });
-    } catch (err) {
-      networkError = err;
-    }
 
-    if (networkError) {
-      const code = networkError?.cause?.code || networkError?.code || networkError?.name || 'unknown';
-      lastErrorText = `Gemini 호출 실패(네트워크): ${code} - ${networkError?.message || networkError}`;
-      if (attempt < MAX_ATTEMPTS - 1) {
+  for (let keyIndex = 0; keyIndex < GEMINI_API_KEYS.length; keyIndex++) {
+    const apiKey = GEMINI_API_KEYS[keyIndex];
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+    const keyLabel = `키#${keyIndex + 1}/${GEMINI_API_KEYS.length}`;
+
+    for (let attempt = 0; attempt < RETRY_ATTEMPTS_PER_KEY; attempt++) {
+      let res;
+      let networkError = null;
+      try {
+        res = await fetch(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+          signal: AbortSignal.timeout(90000),
+        });
+      } catch (err) {
+        networkError = err;
+      }
+
+      if (networkError) {
+        const code = networkError?.cause?.code || networkError?.code || networkError?.name || 'unknown';
+        lastErrorText = `Gemini 호출 실패(네트워크, ${keyLabel}): ${code} - ${networkError?.message || networkError}`;
+        if (attempt < RETRY_ATTEMPTS_PER_KEY - 1) {
+          const backoff = Math.min(8000 * Math.pow(2, attempt), 60000);
+          console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${RETRY_ATTEMPTS_PER_KEY - 1})`);
+          await sleep(backoff);
+          continue;
+        }
+        break; // 이 키는 포기 — 다음 키로
+      }
+
+      if (res.ok) {
+        const data = await res.json();
+        const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (!text) {
+          throw new Error('Gemini 응답에서 text를 찾을 수 없음: ' + JSON.stringify(data).slice(0, 500));
+        }
+        return JSON.parse(text);
+      }
+
+      const t = await res.text().catch(() => '');
+      const isQuotaExhausted = res.status === 429 && /RESOURCE_EXHAUSTED|free_tier_requests/i.test(t);
+      lastErrorText = `Gemini 호출 실패(${keyLabel}): status=${res.status} body=${t.slice(0, 500)}`;
+
+      if (isQuotaExhausted) {
+        console.warn(`${lastErrorText} — 무료 할당량 소진으로 판단, 이 키는 재시도하지 않고 다음 키로 전환`);
+        break; // 같은 키로 재시도해봐야 소용없음 — 바로 다음 키
+      }
+      if (res.status === 503 && attempt < RETRY_ATTEMPTS_PER_KEY - 1) {
         const backoff = Math.min(8000 * Math.pow(2, attempt), 60000);
-        console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${MAX_ATTEMPTS - 1})`);
+        console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${RETRY_ATTEMPTS_PER_KEY - 1})`);
         await sleep(backoff);
         continue;
       }
-      throw new Error(lastErrorText);
+      break; // 그 외 오류(429지만 할당량 문제가 아닌 경우 등)도 이 키에서는 더 시도할 이유 없음
     }
-
-    if (res.ok) {
-      const data = await res.json();
-      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-      if (!text) {
-        throw new Error('Gemini 응답에서 text를 찾을 수 없음: ' + JSON.stringify(data).slice(0, 500));
-      }
-      return JSON.parse(text);
+    if (keyIndex < GEMINI_API_KEYS.length - 1) {
+      console.warn(`${keyLabel} 실패 — 다음 키로 전환합니다.`);
     }
-    const t = await res.text().catch(() => '');
-    lastErrorText = `Gemini 호출 실패: status=${res.status} body=${t.slice(0, 500)}`;
-    if ((res.status === 503 || res.status === 429) && attempt < MAX_ATTEMPTS - 1) {
-      // 8s, 16s, 32s, 60s, 60s (지수 증가 후 60초로 상한)
-      const backoff = Math.min(8000 * Math.pow(2, attempt), 60000);
-      console.warn(`${lastErrorText} — ${backoff}ms 후 재시도 (${attempt + 1}/${MAX_ATTEMPTS - 1})`);
-      await sleep(backoff);
-      continue;
-    }
-    throw new Error(lastErrorText);
   }
-  throw new Error(lastErrorText);
+  throw new Error(lastErrorText || 'Gemini 호출 실패: 알 수 없는 오류');
 }
 
 // ---------- 사람이 읽는 기록용 Markdown ----------
@@ -442,12 +537,12 @@ function buildFinalArticles(top10, extra) {
 
 async function main() {
   const [seoulCandidates, parisCandidates, austinCandidates, koreaCandidates, franceCandidates, usaCandidates] = [
-    await collectSeoulCandidates(),
-    await collectParisCandidates(),
-    await collectAustinCandidates(),
-    await collectKoreaCandidates(),
-    await collectFranceCandidates(),
-    await collectUsaCandidates(),
+    assignIds(await collectSeoulCandidates(), 's'),
+    assignIds(await collectParisCandidates(), 'p'),
+    assignIds(await collectAustinCandidates(), 'a'),
+    assignIds(await collectKoreaCandidates(), 'k'),
+    assignIds(await collectFranceCandidates(), 'f'),
+    assignIds(await collectUsaCandidates(), 'u'),
   ];
 
   console.log(
@@ -470,6 +565,24 @@ async function main() {
   if (austinMustInclude) mustIncludeCandidates.austin = austinMustInclude;
   console.log('필수 포함 후보:', JSON.stringify(mustIncludeCandidates));
 
+  if (DRY_RUN) {
+    console.log('DRY_RUN 모드 — Gemini 호출 및 news.json/daily-news.md 쓰기를 건너뜁니다.');
+    return;
+  }
+
+  // id로 원본 후보를 다시 찾기 위한 로컬 맵(Gemini에는 안 보냄).
+  const candidateById = new Map();
+  for (const c of [
+    ...seoulCandidates,
+    ...parisCandidates,
+    ...austinCandidates,
+    ...koreaCandidates,
+    ...franceCandidates,
+    ...usaCandidates,
+  ]) {
+    candidateById.set(c.id, c);
+  }
+
   const curated = await curateWithGemini(
     {
       seoul: seoulCandidates,
@@ -484,12 +597,12 @@ async function main() {
 
   const extras = curated.extras || {};
   const articlesByRegion = {
-    seoul: buildFinalArticles(curated.seoul, null),
-    paris: buildFinalArticles(curated.paris, extras.paris),
-    austin: buildFinalArticles(curated.austin, extras.austin),
-    korea: buildFinalArticles(curated.korea, null),
-    france: buildFinalArticles(curated.france, null),
-    usa: buildFinalArticles(curated.usa, null),
+    seoul: buildFinalArticles(resolvePicked(curated.seoul, candidateById, 'seoul'), null),
+    paris: buildFinalArticles(resolvePicked(curated.paris, candidateById, 'paris'), resolveExtra(extras.paris, mustIncludeCandidates.paris)),
+    austin: buildFinalArticles(resolvePicked(curated.austin, candidateById, 'austin'), resolveExtra(extras.austin, mustIncludeCandidates.austin)),
+    korea: buildFinalArticles(resolvePicked(curated.korea, candidateById, 'korea'), null),
+    france: buildFinalArticles(resolvePicked(curated.france, candidateById, 'france'), null),
+    usa: buildFinalArticles(resolvePicked(curated.usa, candidateById, 'usa'), null),
   };
 
   const now = Date.now();
