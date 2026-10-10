@@ -1,460 +1,460 @@
 {
-  "generatedAt": 1791529944638,
+  "generatedAt": 1791614820570,
   "seoul": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "서울, 도쿄 제치고 세계 최고 대도시 선정…종로3가는 가장 멋진 동네",
-        "summary_ko": "서울이 글로벌 조사에서 도쿄를 제치고 세계 최고 대도시로 선정되었으며, 종로3가는 매력적인 지역으로 이름을 올렸습니다.",
-        "source": "한겨레",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOUlBZcnhELVNNVGswUnc2UEJfLW9Ed1NpZ0tKNDAtUlZiWVR2ek56M2ItaDA0dDRyQUI0SkZJU3Awb19CUERwT3d2eXN6cFpzRlRBTFI1VTdyUkZYX1RoZHZucw?oc=5",
-        "publishedAt": "2026-10-09T02:46:00.000Z"
-      },
-      {
-        "title_ko": "11일 '서울달리기' 개최…도심에 1만 2000명 참가",
-        "summary_ko": "오는 11일 서울 도심에서 1만 2,000명이 참가하는 서울달리기 행사가 열려 주요 구간 교통 통제가 실시됩니다.",
-        "source": "천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YR3BPU1JQNWNqSVROZWo5QWVoTTZZazJudkVTYjhwTVVFV2tEMlR3elNWNlpneVFuNm9xbFpjNV9pSFJXWjBqVnl1RWwwUmVhNVBPVzdmTkxlMGc0M0RkcFkyMDlUZDF6U0E?oc=5",
-        "publishedAt": "2026-10-09T06:10:07.000Z"
-      },
-      {
-        "title_ko": "서울 첫 준주거지 모아타운 승인…1735가구 주택 공급",
-        "summary_ko": "서울시가 서계, 화곡, 망우, 면목동 일대 모아타운 사업을 가결하여 총 1,735가구의 신규 주택을 공급합니다.",
-        "source": "데일리안",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RS1hQN18xZWhpZFVjTzhPYWZDT0JLV3JfbWlsS1paODFMS1E2WWdCWUswTVY5eUU1N2dGUXAyX3ZzME00YUZYeDlLSVd1dk9xdWVXTGc0cw?oc=5",
-        "publishedAt": "2026-10-09T02:15:00.000Z"
-      },
-      {
-        "title_ko": "서울시, 가을 맞이 도시 전체를 무대로 한 예술 행사 개최",
-        "summary_ko": "가을철을 맞아 서울시 곳곳에서 다채로운 문화예술 공연과 축제가 열려 도심 전체가 예술 무대로 변신합니다.",
-        "source": "YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yYTdVdFFCTjMtX0lGZmw3anh5MS1uWnRmcFp5Yk1ldUZaMm1mZzBuWk5FWmxTRk1Oeno1Yk50OElCUXdtQmIxanFIa0dmcktXb1lJcVE5SHVfSWZyN2c?oc=5",
-        "publishedAt": "2026-10-08T19:29:00.000Z"
-      },
-      {
-        "title_ko": "서울시, 재활용품 수집관리인 상해보험 지원 및 휴식 보장",
-        "summary_ko": "서울시가 재활용품을 수집하는 어르신과 관리인들을 위해 상해보험 지원을 확대하고 폭염과 한파 시 휴식을 보장합니다.",
+        "title_ko": "서울서 열린 '한일축제한마당'… 문화로 하나 되다",
+        "summary_ko": "서울에서 한일 양국의 문화 교류를 도모하는 '한일축제한마당'이 개최되어 다양한 문화 체험과 공연이 펼쳐졌습니다.",
         "source": "연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SF9vM3liOTY0V3p5a2NZVVN5eDR4c1ZVZjl0YWJ1SkVvV2YxclJDVncyRWM2Q2cyMzVJNEZUVXVpcVlJblpOSmNVZk9sNTVvX0s3aWxBX2M0dkXSAWBBVV95cUxQdmhZd1hFdFBLR2lvWGxwazloanZTNS1iSzMtOXJmSThPajZ2LUM0NVFJQUpKTElvMUs3S1RYZDZUXzluUE9vMGF3ZlRqNXBFRFhnM0tnbk9uTkhuM3Fzd3E?oc=5",
-        "publishedAt": "2026-10-08T20:55:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HclhHMnFwWUZvRm9lVUw0d2J1a2xBQXhheFUwVnBTWGlrZDdiVzZPNl9oWGdtZEh1bS03YjJQbU1LREFNTlM3VG0wcWs2d1JnOUtXekRRd1lWRGfSAWBBVV95cUxONGE0X3hWMk53TWJvNDNSNDdWV0NCSFVvek01R3cxS1FJTzhWcE85N0R1X3BtaURnOHpOS3l2dlhKUnRvengzQ3FNNG1YaWJ5R18wWld2WWJlb3VCNUN3ejg?oc=5",
+        "publishedAt": "2026-10-10T04:16:55.000Z"
       },
       {
-        "title_ko": "동대문구, 청량리를 서울 제4도심으로 육성하는 '10분 도시' 비전 발표",
-        "summary_ko": "동대문구청장이 청량리 일대를 서울의 주요 거점인 제4도심으로 발전시키기 위한 '10분 도시' 정책 비전을 제시했습니다.",
-        "source": "아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZlp3R043cWZ5enM2VDcwTnhfdTRwbXJ3Zkx2cG80SVp3ekxBaFYzZUJuS19Xem55bjVQQWEySm1aVUpJaS1FaGwyUWw1Y2MzeTFVMkRyU3lFRUF4OFE5Yg?oc=5",
-        "publishedAt": "2026-10-08T21:40:08.000Z"
+        "title_ko": "서울 자치구, 전통시장·골목상권 야시장 연다",
+        "summary_ko": "서울 주요 자치구들이 지역 경제 활성화를 위해 전통시장과 골목상권에서 야시장을 가을철 운영합니다.",
+        "source": "뉴시스",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWXYyT25kTVplZmhHZ0dKZFR5bEt0TFFHUWd6T0hUNG5mSEk1b2hHSmlHNEJNWVk0bmlIcnY3bU5oVkhBd1NsV2RoUC1DVVI5Q1djTW5aajBqN1A2QWpTRdIBeEFVX3lxTE1NYnEtdnFpVWhRcmNjYVh3U054enUxTGRzNnhiVmVlVHlZNkg2cjYtaGJDMWhxMmlfV2tKN1JpMzg4NUZPVTdKSHdtUnBuQjVFaHlaTHRBaU13cjJPVVk3VHJkdkNZWTJwdzRvMzNNMFNQX0lkNFRCUQ?oc=5",
+        "publishedAt": "2026-10-10T05:00:00.000Z"
       },
       {
-        "title_ko": "서울교통공사, 보훈 무임승차 손실 국비 미지급에 헌법소원 제기",
-        "summary_ko": "서울교통공사가 보훈 대상자 무료 이용에 따른 손실을 지자체와 공사만 부담하는 것은 부당하다며 헌법소원을 청구했습니다.",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjFFWnRWdmxRbEE4dS1kb01wSklJb0QxZk55cmJfNmRSdERDdGJyd2djcGpMa3E0MEdsMUU0QnRqaWxrYzhnWm1LTFNsZW1NdGNEbHd6RTd5dldIZUJ1bHFranJ6Z185V21Hc3RfQTgyaFN6MWVFekloZE55aXpNVkhoVnl6cnhsMEVYQ1RtVkU?oc=5",
-        "publishedAt": "2026-10-08T10:27:40.000Z"
-      },
-      {
-        "title_ko": "한글날 연휴 낮 기온 25도 포근…큰 일교차 주의",
-        "summary_ko": "한글날 연휴 동안 서울 낮 기온이 25도까지 오르며 포근하겠으나 아침저녁 일교차가 커 건강관리가 필요합니다.",
+        "title_ko": "서울 아파트 평균 월세 164만 원 기록",
+        "summary_ko": "서울 아파트 평균 월세가 164만 원에 도달하며 가파른 월세화 현상에 따른 서민 부담 우려가 커지고 있습니다.",
         "source": "YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPNWJSLWtkQVlEYVlDaGFteWtMYm9HcEtNOEpSNFNKM3JfZWdYWVBxaXVzLVM5Tm53SEF2QmhQVEpMUE9NMGp2aEFLM2FZZ3FXOVZxbXBkVHFnY1dmWGc?oc=5",
-        "publishedAt": "2026-10-09T00:19:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PX09kd185UFNnMjFQT0ZGVE9TQjVMQWNOZXRINUhLY1g1dE5uOUNtNTNFOXpuazE5alE0d3ZqZVBOZ2RvX3ptQ0NjU2xYanNrajNSdGFxUTI3anVNd2c?oc=5",
+        "publishedAt": "2026-10-09T20:06:00.000Z"
       },
       {
-        "title_ko": "로봇 기반 화물 운송 및 구조 기술…서울의 미래 청사진 제시",
-        "summary_ko": "서울시가 물류 배송부터 인명 구조까지 담당하는 첨단 로봇 기술 적용 사례를 공개하며 미래 스마트도시 비전을 선보였습니다.",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnpHR1dfTkFuNWszQzBWdE1QYXVyVlhYSV9PaWNpTUd0YVRqRE01U1pWcndjVkVfWFdKUkI0cHZ5blFBWE4zSnZiUzFpYXY5TkdTMzA1U0JEcEdCd2ZGQWlRbWhhUUgwQ3Y4RHV1cU9BQnl0dEw1S20tQlY1WFduQ3B4N1NrNElfcnh1TlNhTVU?oc=5",
-        "publishedAt": "2026-10-09T03:22:27.000Z"
+        "title_ko": "서울 대학가서 지인 찌르고 도주한 영국인 해외서 검거",
+        "summary_ko": "서울의 한 대학에서 지인을 흉기로 가해한 뒤 영국으로 도주했던 30대 피의자가 9일 만에 현지에서 인터폴에 붙잡혔습니다.",
+        "source": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CQURvQ0l2cl8tUUt5RllRQnNtT2xMc3VaeFI2eXl6SWdkaEtHRDU3S3ZTeWVYcXhUZE5MWVB6cFFYaUpST25vNVVjQW9DZTdpdGU0UG1XTVpqNWPSAWBBVV95cUxOcjM5X3RMcHZ5Wlh0dEZWczZYclkyc1dPaDNoZWhSYUVnUEJ1V253aTNyMHBoQXN3UGxBVzFYN2w0NFNMelpYOUhLdFoxMWFDQTVvWUF1cXVBbE1pX1gtbjE?oc=5",
+        "publishedAt": "2026-10-10T02:10:08.000Z"
       },
       {
-        "title_ko": "서울의료원, AI 활용 중증 심혈관 응급대응 심포지엄 개최",
-        "summary_ko": "서울의료원이 인공지능 기술을 활용해 중증 심혈관 질환자의 골든타임을 확보하는 응급의료 체계 심포지엄을 열었습니다.",
-        "source": "고양신문",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Wd1Eyeld2bjE1OXY3TWZJYWdmZjYtWWFWc0JZUkRpRHpXd1cyam5VNEREZ3JHTEZOZ3FIUTNESlRDendwWGVLX01JOHJrcXdxT2xvYzZ2VUJHWlBrNFdyVzFXVGJzcEhrLWc?oc=5",
-        "publishedAt": "2026-10-09T05:53:15.000Z"
+        "title_ko": "서울시, 오세훈 시장 사퇴 기자회견 루머에 법적 대응 방침",
+        "summary_ko": "온라인상에 퍼진 오세훈 서울시장의 사퇴 기자회견 괴문서에 대해 서울시가 사실무근이라며 수사를 의뢰했습니다.",
+        "source": "서울신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwWjlBanUzTjBCVFA5MnBIQkpRQjRONFNILXdNWTZUQkxRdnFRTDFfak9kcEVDY1R0ZHVzZEJBcl9JVFNzUlZzUFBLQXhjZ0I5YXlkcXBISXhfRHJKeTlBcm9hZjEtZXFDZmhLMWM1Yjg?oc=5",
+        "publishedAt": "2026-10-10T00:49:27.000Z"
+      },
+      {
+        "title_ko": "독일·일본·중국 연극 모이는 서울 연극제 개막",
+        "summary_ko": "독일과 일본, 중국의 대표 연극들을 서울에서 만나볼 수 있는 국제 연극 교류전이 개막을 앞두고 있습니다.",
+        "source": "서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wWjRfU2s3Nk1QRTNkSU8yS2g4blVtN3VVdlZRejhCVEtyeHUtR2xQSDgtVk1JeGV3dlFtTGoyRUZVNW90d1VKckx4TFMzejVHMWfSAVNBVV95cUxOZ3Q2OGUyNWZ0X09sSW0yUEtDYTZqRURtbENoYWdwNHMtYk50cXc5RGpnNmVyWmd5WE9lWmlQRExpNTNnVlp0Q19XZE56dXVxcVM4UQ?oc=5",
+        "publishedAt": "2026-10-09T09:50:46.000Z"
+      },
+      {
+        "title_ko": "서울 첫 장애·비장애 통합 체육시설 '어울림체육센터' 개관",
+        "summary_ko": "장애인과 비장애인이 함께 이용할 수 있는 서울 첫 통합 체육시설이 문을 열고 본격 운영에 들어갔습니다.",
+        "source": "헤럴드경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZ3dsNzRCeEh6RUlmUHBMbEZ4QjJ1a2pQWWExdWl1Z2o5YWxRMlVLdUxheUhxYndVcldfNlpOLV9KMTBMYTRqZ1hZWXNfNUxaWG4wd3dB?oc=5",
+        "publishedAt": "2026-10-09T23:35:00.000Z"
+      },
+      {
+        "title_ko": "서울 어린이대공원역 인근서 택시 인도 돌진 사고",
+        "summary_ko": "70대 운전자가 몰던 택시가 인도로 돌진해 길을 지나던 40대 부부를 덮치는 사고가 발생했습니다.",
+        "source": "강원일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwb0JNM2djejh0dW40UUNmS1JMa25rMDFFRjBEMzZKRmRvNWxRZm82bHRIdEN6TDE0U0Qtc2xKVzBXNjlfd09mSXhRYzZoNmxKZmp3eHpmYnNtTVk?oc=5",
+        "publishedAt": "2026-10-10T01:18:54.000Z"
+      },
+      {
+        "title_ko": "서울 도심 공공주택 복합사업 난항…주민 협의체 구성 요구",
+        "summary_ko": "서울 도심 공공주택 복합사업이 수개월째 지연되면서 사업 추진을 위한 주민 협의체 구성 요구가 거세지고 있습니다.",
+        "source": "연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUkNvU0lrNjJFTS1Ub2VfWTlpVnhncU1zMFpnZFJYRzc5OHdMbGVDNG9JSlRPME9HRUNFalo3WWpGRV90N28xd0hLVmI0Ty05a0J2bXpGSGdMcFXSAWBBVV95cUxQQ2Q3MEo0N3VQVmstanpWWVVlck1rZENBa3d2RENqMWdSb08zeFJJWnpXSHZaLTZiYWQxN2R1NDljY3otZTZlU0xpdWx2Wnl6SmZaVkVmYnNyNHQwRUFaUG4?oc=5",
+        "publishedAt": "2026-10-10T00:00:04.000Z"
+      },
+      {
+        "title_ko": "오세훈 서울시장, 아시안게임 메달리스트 초청 오찬",
+        "summary_ko": "오세훈 시장이 아시안게임에서 우수한 성적을 거둔 선수단을 서울시청으로 초청해 격려 오찬을 가졌습니다.",
+        "source": "국제뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WLUtweG91NEtRSUtCQkt4cEszdmZMNm5DMk5lOUhwZW5aakctc0Y2a1pWSEVGWDFxa3A1SWVRUDJDbkhENUZuZEJkVXhEOWY2Ylo0eGNXbHl3NktLNWFTNkx6TERUdmVEVWYzVDh3?oc=5",
+        "publishedAt": "2026-10-09T23:57:44.000Z"
       }
     ]
   },
   "paris": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "파리 고등학생 시위 지속…정부 개혁안에 반발",
-        "summary_ko": "파리 시내 고등학생들이 교육 개혁 정책에 반대하며 거리 시위와 학교 봉쇄 시도를 이어가고 있습니다.",
-        "source": "Mediapart",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFl4cGlNVHVqUWxlWE5EdWp2aXUxeXlQbS1RdmdLRVJxMEhxM3d3cW1yQUh5TUpoZDFHRDZHZF9XQ1BseU42dDBSaDFTam9qd01pb2djWGkwSjE3YmlpLVZkSmFhTmRTM3N6eExmekxvMjFUVTlUNWVIU3dmMmNVdE5oWmVsV3gtdHgzbDNkSkxkSEtxWXl1YkpiQkdHNGxCX0M4X0RVVDRVRVd0WmtsejhfZ0liX2pnN0RQRTRkUEg3QQ?oc=5",
-        "publishedAt": "2026-10-09T06:32:24.000Z"
+        "title_ko": "파리 경찰의 시위대 폭행 동영상 논란…검찰 수사 착수",
+        "summary_ko": "파리 시위 현장에서 경찰관이 고등학생 시위대의 얼굴을 무릎으로 가격하는 영상이 공개되어 경찰청 감찰관이 수사에 나섰습니다.",
+        "source": "franceinfo",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPdjl5a3ZFc1ZiU0FJVk8wTHY0ZEtOdWxHNW1iY3MzUE5mREpvZUFsTlEzT1F0TkVWZXpEOTlHc25jN0hHQU54U3ZLMGNLUkZwQVdfRGNXSVNtVzF0blRLLTdLdXVYY09lSlFyNmdTZWNTclZSblJQTmx4c3RyRXlJR1hIYVNuVEJQZEVlZzVYMUUzNkR1SWpCUGlkdUJZQnc5RV9qdXhKbXJyQXVkVHhaWlh6ZEh6TWNia3VEQTZNVlRhLUl4NllpN0xFNjdtTy1LVENOaTh2bTlBYlg2eVRpSlBjeWl2MXd6ODVGNkltUUVvNVBvZkd6M1Uxb2lTYTJOOFNSZ0ZENGhSVlpRSnZuYjh0eVZEV0RMWU93VmgwcE15WDlDTXBIWFZHLTlPX1FrUUFJNllYek1QeEZQTlphenBvRElBOXhHb2h0ZA?oc=5",
+        "publishedAt": "2026-10-09T07:52:37.000Z"
       },
       {
-        "title_ko": "버진 그룹, 런던-파리 해저터널 열차 운행으로 유로스타에 도전장",
-        "summary_ko": "버진그룹이 런던과 파리를 잇는 해저터널 열차 노선에 신규 진입을 선언하며 기존 유로스타 독점에 도전합니다.",
+        "title_ko": "셀린 디옹 파리 콘서트에 장작 골드만 깜짝 방문",
+        "summary_ko": "파리에서 열린 셀린 디옹의 콘서트장에 전설적인 싱어송라이터 장작 골드만이 가족과 함께 찾아와 자리를 빛냈습니다.",
+        "source": "ladepeche.fr",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZG1ROU9NLTlRNkd5cXppV0wwclh4QUZKQzM0UGwzT2JldndDXzJjaTJMT2NGVjVSY09meHkzN2E5Q3dmYmUtWE83S210WWlPdnlvNWMwSTBxWlFQam9fYTZIMXNUajJ1cjJRM0MyVGlNYmRaeDdwVGxrcEl5SnVPbGh2R1ZmQjhiN0paYnB1VlFVUDdTTzFwd18xVnI0SHZ3c3RRN2xBeFAxR2RnbjhLd1R0Vk9mSzVJdzkxT2VGM2NVSjkteGJUYUxPLXFtVzZfU0JUdjNQbFluNmo0c2VDazhR?oc=5",
+        "publishedAt": "2026-10-10T04:33:00.000Z"
+      },
+      {
+        "title_ko": "파리 증시, 금요일 반등에도 주간 단위 하락 마감",
+        "summary_ko": "파리 증시가 주말을 앞두고 소폭 상승 반등에 성공했으나 주간 기준으로는 내림세로 장을 마감했습니다.",
+        "source": "Zonebourse",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlBOQW9IMk5waHRMRkU2WDEwemk5LUdnYnE4cGx1dzkyWDdZREhfUS1MM3pNQUNnQnJuaUJXTHZPT2ZNaVNteU1CWmdNZVZ1QU42cUotYnlNY2ctQnNYX1ZMSFh1TWFhczdlOU1tSG40cVRuUmhER2NFd1BUcElWRWNmZGtsdE1CYXBCb0JqOGxQbW1BOGZpRTBqRk56bm1JeTZ3Rks3R3dyUko0c180?oc=5",
+        "publishedAt": "2026-10-09T16:27:29.000Z"
+      },
+      {
+        "title_ko": "몰몬교, 파리 중심가 6,100만 유로 저택 매입",
+        "summary_ko": "몰몬교회가 프랑스 파리 중심부에 위치한 고급 대저택을 약 6,100만 유로에 매입하여 화제가 되고 있습니다.",
+        "source": "20 Minutes",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHQtWDQwX1BiWTRWTWVSUGNxOGdFYmxBLTRQcml3clZNbmp5WmtnZ0x4UWR6MmhpMEJDZndkQ1lheW5aNGFKaHFuekJydjRVdXpqR1VXcVJKQ2dpdjd3LTY1ZzRpaC1WaDI1NERTc0xDUUsxRW9BSERMU0JDU2t1aGtfMVB0SFJ5eGxPYlBMaFRPSnRiblM3Q1QxaUdlV3Q0aUM3LVR1N3ZrV1YtVHU1akV6RWVSaVRmSjFz?oc=5",
+        "publishedAt": "2026-10-09T08:57:00.000Z"
+      },
+      {
+        "title_ko": "파리 지하철 1호선 연장선, 가로수 벌목 문제로 갈등",
+        "summary_ko": "파리 지하철 1호선 연장 구간 건설을 위해 수목을 제거하는 문제를 두고 시민사회와 당국 간의 대립이 심화되고 있습니다.",
+        "source": "Reporterre, le média de l'écologie",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0R6eUotZnQtalphclliMmFFLUpvS3kyVlBSY0RUZXBSRmZZR3ZnZlhKc3IyNGw5WDJmeTgwMHJLWGJKdlVKcEZfUW10c2NJMnNBa04wZGdTd3VIbGR2MGJOR0gxYzlhZU9IOGJDbU9OU2ViT2lpNy1ZSHNZN3lVQ0FUMFRkQjNnZ3B5MVhPX2tNSG1uUXNJNFFpd0JOQTc1ZlE?oc=5",
+        "publishedAt": "2026-10-10T05:00:00.000Z"
+      },
+      {
+        "title_ko": "파리 시내 도로에서 자율주행차 시범 운행 실시",
+        "summary_ko": "복잡하고 시민들의 무단횡단이 빈번한 파리 시내에서 실제 자율주행 차량을 도로 테스트한 후기가 공개됐습니다.",
+        "source": "Libération",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRkZ4UUFJbHdDbjVzTlhFUnVtWTVhRmJyTklYa2NCZ2wxOVZNSkU2cUdscFNJaWFsRGYxUWp1ZE4yR1g3VUVXLURrdHAwX1hGZDdhTWljOW9QSXQtVHRReUJUdkMwV3I4LXhtQTlvMGlHQzYtaDR4RkJQZTh6RHdRNWI3QUlWV21mRFI0UFF2MGhJcUJ5dk4zZXFpdTQyMWxxTjBSeE9BUUkzeTJNWTdxWXJKTjlubDhEZnZSMklIcnFCNlNQai1YZGRxQUYxVzRDRk5FSlJDdXNxc0NFcHJqSjl5bExLMS1IZW53OG5TYVNTUVVlMEhhd3p6WGU0UjBpS29NUmNVSl9kbnN6WnFFNl83WWozZVhrNEtHczVkdUtIdw?oc=5",
+        "publishedAt": "2026-10-09T10:27:09.000Z"
+      },
+      {
+        "title_ko": "파리 FC, 스마트한 선수 영입으로 리그 순위 돌풍",
+        "summary_ko": "파리 FC가 효율적인 리더십과 알짜배기 선수 보강에 힘입어 개막 후 성공적인 전반기 성적을 이어가고 있습니다.",
         "source": "Le Figaro",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOE1wQ1NHVWRQRVJDd0t3UHVXemJSc29FQm1CTlFQVlhxWkhUd0FpM1ZGX2JfSWlwYk9SM21HZUZkRExaT29xd20wV3ktc0F4X3RIUkRjeF9GLS1CR01EY0t0ZGZHalZNOS1Jb2RnX1ZrMXlwVElNc2x3a2lMS3dsMG5HbzAteVRpaVQ4NS1raWp5MlBKc0FUakNqQ0huMzlFMUdkVk5aNlJyTko4ZkxucE5aT01wcFZkQjhVWXVvVHhVcFdtMU5yWWY2N0E4UFY3OHpUQVc1Vkd1RWNrcmZnMHNaWEVLYm5FRmxRLWdkeHdodw?oc=5",
-        "publishedAt": "2026-10-09T06:14:46.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSWpPRU9zdGZOMGJ5clVLZHUtUWlKVHNTcWoxS2VZdVNuUkY4SnkyNmhVRHo3cEx3dDZTblhHN3N0NHZsUGY2Q1hHNjFlQ08tZVdMNmFoVllyRjZHaUZrZ0ZKeUU4WDdNYXRGQjVfV3BIYWZjN2xSX09KSDN4d2pUVFNhVTdfWUs3UWdJeVFRSHhhaHQ0THlKbmFVOERIbXFQWWk1VG0tclV4SmdCUEhxTndNQ1VuYmhfdXE2YW9VYnpMQVNfNXd2MlloVjFxUXRuMVhZ?oc=5",
+        "publishedAt": "2026-10-10T06:30:00.000Z"
       },
       {
-        "title_ko": "롤렉스 파리 마스터스 테니스 대회에 프랑스 선수 3명 본선 직행",
-        "summary_ko": "파리에서 열리는 롤렉스 마스터스 테니스 대회에 프랑스 대표 선수 3명이 본선 진출권을 확보했습니다.",
-        "source": "L'Équipe",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObWpVYU5ubUN3ck1JYWdOa0FKWGNZQWZ6a3VXSE00clZkclBoQ25lOXM0MVlEamh2LVZaOHc5aUd5Vmg0d3AtaVlZYlFKU3RxZFR2ODFIdGZsSzBaTEFKX2d0d2RhUm9hdUFCeXN5YXMySEcyUktGTkZOTWZ5NWw4WUlubjlHTUlwRHZRNmw4TWprY1NIWHVabmhXRFcyUDAtMHdWblloTmsydTdTc0J5XzQ4YnhyQ3ZFWEFoV3FzNmd4UXNPa19NSXAwYnFETUd1U0NuZWVqRlpUVF9kR3VIT2FCYm5YR2w1c09oSEw3OXpUbE9y?oc=5",
-        "publishedAt": "2026-10-08T14:44:04.000Z"
+        "title_ko": "파리 11구, 요절한 DJ 메디를 기리는 장소 명명",
+        "summary_ko": "사망 15주기를 맞은 프로듀서이자 DJ 메디의 업적을 기리기 위해 파리 11구에 그의 이름을 딴 장소가 마련됩니다.",
+        "source": "Le Parisien",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNT2VOeGxPaGRTek53WDdTUVNxNmdxMExQUVU0QXJTWFpxUldrWDRjb0Vxb0M4eU1Va2NBYnktMFJFUWNQa1piWkMxWHdaRUVGMUdjbVNaTUgteUVwLUFnTEtldk5yams5TWwzVFVjeU5ORm5MaERxNzhoTm5LMGlDU1VsUEg3TkJsa0hHRkVXcDQydjNXaUVPU1pjLVZ4MFFvM3pUclFqMnk2eFZEQmxKb3dqT2tZbXNYYTZmR09mMWJ3S1lTNW4zQTR1dFdDc0M5Ujc3RUFVUnlzQTc5clRJM3g1Q01wV0ZyeEVXSlF3ZXk1RlVWMnd4WGNGTnVxM1d0NVpQSA?oc=5",
+        "publishedAt": "2026-10-10T05:20:00.000Z"
       },
       {
-        "title_ko": "외골격 로봇 제조기업 원더크래프트, 파리 도심에 신규 생산기지 설립",
-        "summary_ko": "웨어러블 로봇 개발사 원더크래프트가 파리 중심부에 새로운 공장을 열고 연간 로봇 생산량을 크게 확대합니다.",
-        "source": "L'Usine Nouvelle",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQc2k1Rmc1LVFia19XSGdUb1RkTWJzclFPRkgxOUNaN2pkWC0tcU5QRFd6RUc1dmtWRmJZa0dxbnJZRWJPR0lzRVJlWUhuLWl4ZXozb2djZEhqYjNOYzhUOUwybEFmdDlKMlhieTMzaEZZZG5fTkFzU2N6c09DRXd5YlBrSjdoV2M1dzBpYXRvbkpkYWdBa250TVpHNlF0dHlLckoyVkZTOGI0TEk1Y2ozNTcwV0NGZXc1U09TNTM1UUtuX01wMGQ3ZHVfeUxERUljckZnck5kUkIyNGYxOWJmcGViY00tRlcybWdOcmp6WEFyS1FWX1BROHJjVXNMaS01VURMWG5tZU9DcGQ0TVFZWHZ4c3c5LTZ3d3REX01hSTM3cjRDVHdkQmdrWTI1ZXBFRHE2WEF4R1BmM3h4SUhrdndmTGk1MUJOX1Vyb1RrZVdySU14U2Y2TDJ1S2FWRHlfRlRPTElFcU53Q002ekNKcGJpbGE4RVZZUXc?oc=5",
-        "publishedAt": "2026-10-08T16:30:00.000Z"
+        "title_ko": "사이비 수법으로 고객 돈 수백만 유로 편취한 파리 정골의사 재판",
+        "summary_ko": "심리적 지배 상태에 놓인 고객들로부터 수백만 유로를 갈취한 파리의 한 정골요법 의사가 법정 심판을 받게 됐습니다.",
+        "source": "CNews",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmNFMk1TQmFlcnBJSExvUmt1NkotZ3R2Z3h0TzJ4UnBaWnhqbjlCdk5xMHNZcVQ2bkM0aklyZnFrOFY2bjZYNkxwdnFCVWlpR19vMDJ0SlA5T0tKWHk5QUIzZi1PUWFzMDZqeVhfU3NOV05mNktyOWkwcWg4eUFYNFNGZEhNQzdULUVGUElKYWhHeTVFN3NHUUJZUlhaa2lLSXZCRmkzcnBicXYyTVMzRlV3WEXSAboBQVVfeXFMTW5RMlpjRjdHVmZKQTFMb0g0bV9LTGN0RUVhN1RYRTF0aVFBNldqaGZmbEdzQlY4dEpiWElUdHFTZkRvMkR4TENsOHJNT3pEWHlRMlBQNUk5ZE1tc3oyVE9WeDdNbFpOMUFxa0YzdDBSbGtVeE02ZUZzMmhvZDBRU2thVHp4OFVXMnVIeERvM29Ja3o5REdrZWkzNk0wQ0hjRHpvamZ6LVFDd1FodjlDNGdRdEpDSGxYNk53?oc=5",
+        "publishedAt": "2026-10-10T05:48:07.000Z"
       },
       {
-        "title_ko": "독일 대통령 파리 방문…유럽 안보 및 극우 세력 대응 논의",
-        "summary_ko": "독일 대통령이 파리를 방문해 프랑스 정부와 함께 유럽 안보 강화와 극우 정치 세력 신장에 대한 공조 방안을 논의했습니다.",
-        "source": "Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW9iWDAtRWd2WUg1RjE4VlFmUEtWRTM0Zm1tMXphSTFJTFJUWTRIWThrMElqdTNVZ1BkMWphN0t5OU9pWFFPSThDZzRIcl9fMWNsb1V1dVh0SC1NV2Rqd2xpby04dE5sbUJSaGVDdW1LYlNvdFJocExlNTNUUzlnR1g4LWpmTWVhYTdrSGh0V3YwaldVT3NtcVJhN3hnbktzUWpkRkFBRnVtQlR3ZjZ5MDRGSWFIdWNBTUlpN1B4NkxXMEU?oc=5",
-        "publishedAt": "2026-10-08T17:04:42.000Z"
+        "title_ko": "파리 20km 마라톤 대회로 시내 주요 도로 통제",
+        "summary_ko": "이번 주말 개최되는 '파리 20km 마라톤' 영향으로 파리 시내 다수 도로의 차량 통행이 차단됩니다.",
+        "source": "Actu.fr",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdENOVXB3UUtMTDV5ZnQ4Y3dFQ1F4T2tTNlZEOTZURTdPb0lCNnQxdFJXbkF5RWs3QTJVanVKaU5HVi1fZmZXWEgwRENscmt1SzRFYnhJQ3o5ZFZLQlBDRzBodUZ4TG9QdmlobEtjUU1BNTlRcVVnbVhqTEJOVUp6ajNtanZIWXRuMzQwQVNPOTBIUmYyaFpBbHFnX1RTYl9jYnQ3MFBpYUYxd0V4QXc2R0FMQnZPUXQ1YkN4SW9mYXFwYWRKb0x1amlQTGpnYlpDdlFZU2FCOVFHMkZwb1JwWg?oc=5",
+        "publishedAt": "2026-10-09T10:32:02.000Z"
       },
       {
-        "title_ko": "파리-코르시카-스페인 잇는 국제 마약 밀매 조직 적발…16명 arrest",
-        "summary_ko": "프랑스 경찰이 파리와 코르시카, 스페인을 거점으로 활동하던 대규모 마약 유통 조직을 소탕하고 일당 16명을 검거했습니다.",
-        "source": "BFM",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeGoxelJkUHpPWXVaVUVMVDE4VEZ2ZUZjS0lkRlZMaWNyRFJ3M045M1VlT2w4dDJhUTdhOGxRQzdrYlBFZmFrZTd3QVgxYW5PUUtySHFrYkNrUDdqdmZlWjh2Uzg2TlRsV0s2RWlRTUJhMEF6TDIyYVYzRUJXcVZCQ1kzY2JlVk5JRWl1OEhXSUVSeXVOZlgtZ1VBWlEwNnczWF9TRkFaTHI2Nnl2LXVmb08yMmZHR3A1QVBMcVNDMGd2OEItQS1lTEN1ZnZyMS1EYlJkQnB1VWplX01KaDAtcDB3?oc=5",
-        "publishedAt": "2026-10-08T14:39:48.000Z"
-      },
-      {
-        "title_ko": "파리시, 노예제 반대 운동가 '솔리튀드' 동상 제막",
-        "summary_ko": "파리시가 과거 과달루프에서 노예제 폐지 운동에 앞장섰던 역사적 인물 솔리튀드의 동상을 세우고 인권 의지를 다졌습니다.",
-        "source": "Orange Actualités",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaG93OVp5TURHWlZWZzZEUm5YOGZnd2h6UVJSWmtCQjRzd0NoX3JDbHhXR1MwX1Z5NklicVJmMGd1WmhMYVJ2VVNiaUoxMDJ4a3h4aFhUcmFVbHRUUkEwZlN4Yk9aN1JaLW9CNW5IQlhSbjlLSUhiZTBoTWJEajdOTUtVc0FXcEZOUXB0c1gwVEswbEN4VTRjaVFaUHBHdk5qQkRoS2NQWThzcGtRLWVNMU45UU56X05HRXZyNXpiZzhZT0hQaXlfX182WkM0UGVIOFk2X2s4RVh5OHFiTlZfRV9VakV6YWc?oc=5",
-        "publishedAt": "2026-10-09T00:52:29.000Z"
-      },
-      {
-        "title_ko": "파리 부동산 시장, 2026년 결산 및 내년 전망 발표",
-        "summary_ko": "파리 주택 시장 보고서에 따르면 금리 변화와 수급 불균형 속에 올해 매매 가격 추이와 내년도 전망이 제시되었습니다.",
-        "source": "Le Revenu",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeG9CMDVBLTIyOW5aUVdxQ04tTW00Y0ljRWlvdDhmNUtDRWwtVDFXRlhoalVsVGxwMkd3WjJzdVNWRmtPa0YzSkRiSXI3SzJ6VnZwUjhlM1lSS1hka2k5Z0NDY0doYThIMklHS3hwSVB1bWtIdVdra1FxZEZkMnhaaC14UkpmWFg1V1NHdXZsMXpuLXN2eEx3OWk5bVdaeTBfdEdFS2lwV2g2RXdueGkyUHo2ZkU?oc=5",
-        "publishedAt": "2026-10-08T11:45:00.000Z"
-      },
-      {
-        "title_ko": "아트 바젤 파리 개막…세계적 현대미술품 한자리에",
-        "summary_ko": "세계 최대 규모의 현대미술 장터인 아트 바젤 파리가 개막해 수많은 갤러리와 미술 애호가들의 관심이 집중되고 있습니다.",
-        "source": "Sortir à Paris",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXNTVG9uMkt2SDRUWjJBNnBhT3drejN3b2Z5SkJ3NEp2UDIxeUNyX0ZReHpoQUtscDZHd0hzQk1FbDdNSHRDaURUYUV4cHJWQXZYbUJtQi1pTnVYa1NHRW9oLW5wMlZBZm9hQzFMeDdmTzNueGpIZmNkN1doUXlRT3lMNUNkeWpCbGxOYWcyM1hpSWx6b2ZtRjdfUzhlS1dSTlpaM3F1NVI5OXdCc2YxeFQtVU5LcjJJTTZUNDFHVDYyMlU0cXZyc04waEtEMjFHcUpjM2ExV0NJZFhmdTREUlpfUkVtbHF0?oc=5",
-        "publishedAt": "2026-10-09T03:21:14.000Z"
-      },
-      {
-        "title_ko": "파리 13구, 인공지능 주제 무료 축제 'IAgora' 개최",
-        "summary_ko": "파리 13구에서 시민들이 AI 기술을 직접 체험하고 미래 사회 영향에 대해 논의할 수 있는 무료 AI 페스티벌이 열립니다.",
-        "source": "Sortir à Paris",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkVwaWhKMlZTVVNOZjZJWXU1cm1jWVNhMzZ4MGNkc0x5NHVFVXFDRkpwX3g0dnM0MXZ1RDg0UmU3SGRrNkRMSWY1RTlYaTd0eU9zWVNIRk1jQ1g1T1BFRXdiQllndTQ0UVYzSnBXckFjVmNpcVNiTFlXVDhKU1UtRnRDMGtvTDFZSFVBOXNvbk44M3hhME5JQUFOdVU1d3RHdHlNY25LcnloSlI5ckNIU3lkM1dpRXVmbFE?oc=5",
-        "publishedAt": "2026-10-09T05:18:47.000Z"
-      },
-      {
-        "title_ko": "오르세 미술관, 독립적인 화가 메리 카사트 특별전 개최",
-        "summary_ko": "파리 오르세 미술관에서 인상파 거장 메리 카사트의 독창적인 작품 세계와 독립적인 삶을 조명하는 전시가 열립니다.",
-        "source": "Connaissance des Arts",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFNtZW1oZFpTX3BLVk5USXhaRzRLbTJrOTVCcGJyM3c5b2pMQ1IyRENpblhnN3EtSXJCcGdlQUVMRDVCeU5oWWhFUnBMbEc4UUk0djlMdDFiNGExc3pVSXE4UVBKaUtZZF9sZWZ5N05rbEFZaUpKcG1VMjRhblY0a2Jzam9KWUdIaW5TZEdiSWpXelN0aUdwd3RUU2Z1amRic3lPRGZJVkV5U21BZWtYYllKY3hRandLTVExUk1tM09nZw?oc=5",
-        "publishedAt": "2026-10-08T12:46:33.000Z",
+        "title_ko": "파리 상공의 팡토마스처럼",
+        "summary_ko": "프랑스 고전 영화 속 캐릭터 팡토마스를 연상시키는 파리 상공의 이색적이고 미스터리한 풍경이 사람들의 시선을 사로잡았습니다.",
+        "source": "Ouest-France",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjdJLXVoSW1ETzFoUWtCakdGNG9OWTlIR3dfSnJ3ZG9LbEZqRnd4QzVRaWhSeWhISjJtaGNHTVpiOGJwOFdvNk0wWFdDNTJSYW5fa1E4OElJMXZ5dEZDOThXTXhlT28tcmtvQUtfVnV5R0NPc3ZsOEhaR2lmckpMUF9JbUFwSjRaXzY2NFo0SW45SkVIbzlwZFQyTzFtNjdVeExhMTNFdUpqQQ?oc=5",
+        "publishedAt": "2026-10-10T05:30:35.000Z",
         "pinned": true
       }
     ]
   },
   "austin": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "오스틴 공항, 가을 여행객 증가로 혼잡 예상",
-        "summary_ko": "오스틴-베르그스트롬 국제공항이 연휴 및 행사 방문객 증가로 최다 이용객 기록을 경신할 것에 대비해 주의를 당부했습니다.",
-        "source": "FOX 7 Austin",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGY3THBsUEF2UjJZQUo0RnJPNUlIRjh3OXQydVJVSFZ5UHp4aElXU3pCak9tdUk3N0h5Z1BWWHVpaDBmb0dJRGdYemg0czRNc19wOS1VclcybTltYTZQV29NbmFpamJZanB4dHRKOTk2YUJVUGtSTkRObFowakxiUHhaVVZhbGQ0Z2RiZy1xankxV2o3c0xtdUFta25oZ9IBowFBVV95cUxOMi0wcXdYcHRFZkNlLWdYX254dlpkZEk4aHZWQ3hWdVdMMXgycnVxRFF1aEtCSTByMFprWnNQLTFvZVFLb2ozVnVCV054dkdhc0Q4ZnZXR3FJbE03V1VEZnU2NGNGejBRc19tajJkZk5BeVBQeUhSa1Npc3dhS1J1dm05YTcyTnltcGdnRk5Uck9UX1FleHFuSzhrYjBxdzFWYnVB?oc=5",
-        "publishedAt": "2026-10-08T16:02:59.000Z"
+        "title_ko": "오스틴, 물 수요 급증에 대형 사용자 절수 요구 강화",
+        "summary_ko": "텍사스주 오스틴의 용수 수요가 가파르게 증가함에 따라 시 당국이 대규모 물 사용 기관들에 대한 절수 규제를 강화하고 있습니다.",
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkJxVzlLQUhqVTM2Nm9PWlhHdkpTdXZXeUVFcEU1UHg0NnlWNC1jNXZwbWF1WUtnYk84LWZ0M0VnUUtEd2R0OXloWTAzV0tGcHYxT0dJSFNHcnp2ampTWElnRlpUM1QzU2NkdWVvSUNINEx2UlhEWmxfTERoYjRVVkJSMkVtcDNFcnFPMWJlbUI?oc=5",
+        "publishedAt": "2026-10-10T06:09:00.000Z"
       },
       {
-        "title_ko": "오스틴 지역 사회주의 연대, 푸드 나눔으로 풀뿌리 정치력 확장",
-        "summary_ko": "오스틴의 민주사회주의 단체가 지역 주민 대상 식사 지원 및 봉사활동을 통해 풀뿌리 조직력을 확충하고 있습니다.",
-        "source": "Spectrum News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWtPSU83UGZjanVUT2o3NlByVDlHU3ZhWVRqU044R1lNQ184OXcwdzZqMXdqeXlEYzE3ZURJTnUyUl9aOG13NkdhY2NpNjh0cDZxZExkRDFtaWJfZ3VkbE13U1A0ejMzMUhSc1pYdHhMTEFfSzYteVFVaHJjRUVuUUZWTFRTYWFmUnlsWUlRQXR0cE9RN3MwdVdTT0xBejI0X2V6azJpRW5DWXRUdjBjTkRGWXliX1dpampNZVdDT0tYdw?oc=5",
-        "publishedAt": "2026-10-08T13:42:00.000Z"
+        "title_ko": "오스틴 다운타운 공사장서 감전 사고로 1명 사망",
+        "summary_ko": "오스틴 도심의 한 건설 현장에서 작업자가 전기에 감전되어 숨지는 안타까운 사고가 발생했습니다.",
+        "source": "KXAN Austin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3hjZjFiMzh4bmZESlVLREtaUTRLblV5Ym1fU3hyTXpTMTJKR2JMTWZfOUdhV05xUGh6YThYTnZIbVBqVnVoWGhUdHlzS1BrdjY0WEh5SG9zTm9HOWNNOE5fa0x1X1ZCdFRvVWEwdlVaVnVBV1RndmtkS0Q4VFRuTXJtUlc4U1QwVnVqYmxDRUZ3UUlRUHhEV2hxWDM3MWItYU83VzZnZ9IBrAFBVV95cUxQM25KeXJSQWkwcXhwVERaRFFBOWpkM1ZIUlZBd0xUY2NIQkFneC1oamhSa0FjU19WLUNEZ1hxT01Mb05KdXhJSVktRlZLYjdlUlpaX2stTEo3VU12T1hJUVBWa196Q2wtU00xZ1NSNzMzN0FFTWNJbnFsOFRGcHdOLWlpVEltMkJ6dk9UWHVNU1N4bUxxZFVZdTF2WGZzTnVta0x2T3ZiYW15cUpt?oc=5",
+        "publishedAt": "2026-10-09T22:43:24.000Z"
       },
       {
-        "title_ko": "오스틴 레스토랑 2곳, 2026 미슐랭 가이드 별 획득",
-        "summary_ko": "새롭게 발표된 텍사스 미슐랭 가이드에서 오스틴 소재 미식 레스토랑 2곳이 미슐랭 스타를 획득하는 영예를 안았습니다.",
-        "source": "KVUE",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkVnWnBOU2FiR2NHT3Vfa3NvQ2prWVJSdEpwSk11NzF1VFlKcU1kbUVuNlpSTlkyWWRINHBsMmc3YUVhRWpzcnZtSjFQdTlUc3pGSV90WFRabXhOYnFpV2xjcEQ1M0VYd05QT2JlclZ5dGxCTHNBMGpjbTYzZFBVTUlHX0Q3M255Z2pxWm8tZHo0NEZWTFNIWW1nYmpwWktLMUNVX3l5WjA0WW91SDBpWFM3YTl0eFljTGc?oc=5",
-        "publishedAt": "2026-10-08T16:04:00.000Z"
-      },
-      {
-        "title_ko": "25주원 맞은 ACL 뮤직 페스티벌, 질커 파크 개최 적절성 논쟁",
-        "summary_ko": "오스틴의 대표 음악 축제 ACL이 25주년을 맞이한 가운데, 공원 잔디 손상과 교통 문제로 질커 파크 장소 변경론이 제기되었습니다.",
-        "source": "Austin American-Statesman",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFJneUMwVlF0b3JCZVUwQWc2eFJ3ckN6enRJc3MwOGloSGlWeDFSMlpoamxObk1HUDRvZTM1WVA4YkRpOEVJRXY3WjlZWXFJTFMyakcyNVBHZVZMQjZXTkhPb3NpNHlFMm9QcHA2ekhhRDNCTVZNemc5SlphRVFLbHFuWlpHNGpmdV9GZGtuRmVtOVZwVE5FUzZETlM0ZENJ?oc=5",
-        "publishedAt": "2026-10-08T16:04:10.000Z"
-      },
-      {
-        "title_ko": "오스틴 도심 연속 강도 사건 범인 3명 체포…군인 1명 부상",
-        "summary_ko": "오스틴 경찰이 도심 유흥가 일대에서 미군 장병에게 부상을 입히고 강도행각을 벌인 피의자 3명을 체포했습니다.",
+        "title_ko": "오스틴 레스토랑 2곳, 텍사스 미슐랭 가이드 첫 스타 획득",
+        "summary_ko": "2026년도 텍사스 미슐랭 가이드 발표에서 오스틴 소재 음식점 2곳이 처음으로 미슐랭 1스타를 부여받았습니다.",
         "source": "KEYE",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVBKVlEweGZxZURQT0lxcTE3enVaMElpRVQtS05fZnYyZWtVLVc0eXJ5NmNnNVNoVXNaQVZ0eC1DRGVYbWo1dlNiWk5CX1RZMGdybmh6ZWlyekh2MjczY08yOWpRTFZPTFdXRF9fdmc3NFphRERmNUQ3WV96eGctVVZhNVgzQzIyS2lIQkY3dG0zd2xGUk1MY3hDUmoyTVlGaDNzY21jcEpIcWNMVkZTRGhyejljejlNVUppUA?oc=5",
-        "publishedAt": "2026-10-08T19:58:25.000Z"
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3lmTFVyME55VXVWNmFIb0hpOGtrSHRXNklid0xsbllHZ1NxR3NTMHRXNXBPdVhzaTFfeHltTDl0d1RSaHg3Zkx2RFpzaTBvd25MZWFyUkktMVh1b01yUUhFZzU0bHJ4ZkM0MkNNVVFXVVhpNHMxeHdFZ3c3WTE1ekJLcnlqRmFRZHJPS3ROdFRKZV9xcGU0VTdMMjliSEtn?oc=5",
+        "publishedAt": "2026-10-09T11:10:41.000Z"
       },
       {
-        "title_ko": "오스틴 이베스터 갤러리, 크리스틴 가비 개인전 개최",
-        "summary_ko": "오스틴의 이베스터 컨템포러리에서 작가 크리스틴 가비의 독창적인 미술 작품들을 선보이는 전시회가 열리고 있습니다.",
-        "source": "Glasstire",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkpDTjVRdWZvVzVsdDhMdVUxSEZWZXkwWUZlNnNuaWxVSkFndGwzY0laSDY2N09DZ1Z5MUlJdTR6ZmhyZXl4SDNKVTNrZ1pQVjFZUWR5MkJRcVpjQW9NNzk3SUxrRzNqd3NiTmdvWWxZVzRrV2g0TkhwdmVIdHlLdVNpdm1VNXNkRUxKcDFkOA?oc=5",
-        "publishedAt": "2026-10-08T07:18:31.000Z"
+        "title_ko": "제임스 탈라리코 주하원의원, 건강 회복 후 유세 재개",
+        "summary_ko": "독감으로 유세 현장을 비웠던 제임스 탈라리코 텍사스주 하원의원이 9일 만에 오스틴 시티 리미츠 행사장에서 유세를 재개했습니다.",
+        "source": "The Texas Tribune",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1RiWVNPY19ETnBOc1MtdXJiT1Y1T1prOHhZUUwwU1FYQmJsVUNQVW1ZN0JiSnlZUndtdXlxMEVVY3UyR2FRYXpkSzkwcnh6N200NXZQaWlna0NpX3c4UWJxZWFKLU1Yb0EyTHZ6VzhOMmhxeG5xTkx5NUZteFJPTk1Dc3ZOeG0zWkFfN1NBb2NaY2ktaGUtaWVXVXhjNy1Bb3FUOFB2dUQ3QmdiVjhMNA?oc=5",
+        "publishedAt": "2026-10-09T21:46:54.000Z"
       },
       {
-        "title_ko": "오스틴 주민, 11월 찬반투표서 시 예산 독립 감사안 결정",
-        "summary_ko": "오는 11월 선거에서 오스틴 시 재정 집행의 투명성을 높이기 위한 독립 감사 기관 설립 투표가 진행될 예정입니다.",
-        "source": "KLBJ-AM - Austin, TX",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1M3cXFpM3NVa0JGaEdpZDZiMGhTVVZaMERvZnY3MHNqTVdRS2RpMjVnbFQ4Uk5iU05QdHZrcHVaT1NaeS0tSXVfRmE0YjFXSnNXV0pUNTJTTkh2QXJkcXFPTGZ0UlBXSTdkM2x0RGliRi1WT1FqaExjcFhSVV9QR3ZwaEswc2t2V0Vid0dlOUx4ekZVMnd3bU1HM3dxRXgzYnhOUTF4WHNIal9rTExKREdxZnZjSzB5eVE?oc=5",
-        "publishedAt": "2026-10-08T16:07:35.000Z"
+        "title_ko": "오스틴 공항 이용객 급증…하루 3만 7천 명 이상 출국",
+        "summary_ko": "오스틴 버그스트롬 국제공항의 혼잡도가 극에 달하며 하루 출국객 수가 3만 7천 명을 넘어섰습니다.",
+        "source": "KEYE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWpsc2ptVks0VC1KNFlEOWFudW4xNkJHVGgtZXBrbEU0bGNFVW05ekFmZDNFT3JoSGZHMG1Ma3VzZmxtdFZ6RlQ3X2dqOWlYM3Z1SXdmT185dnVCdzhWMG9qM1JGdlZvZzNhSU9TazVzTkZTOFRvdm02U3BESmhlSkgxMlZrNS1LNkVvUUF4elVfcEZ1QmtEdHJiWjdOcWNCbFNpTElR?oc=5",
+        "publishedAt": "2026-10-09T21:49:45.000Z"
       },
       {
-        "title_ko": "블루 오리진, 오스틴 인근 허토에 대규모 시설 투고…2000개 일자리 창출",
-        "summary_ko": "우주항공 기업 블루 오리진이 오스틴 인근 허토 지역에 대규모 확장 투자를 결정해 2,000개 이상의 신규 일자리가 만들어집니다.",
-        "source": "KLBJ-AM - Austin, TX",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU5PYXJtX1VnbllabHJRajZQdDJ6MVEzQU1kNVp3emZKQ1VwbXdzcTd4OVBjUlNKSXRoYnJiSDdWR0prUzBVT3FOVkVXVER6VWR3WHhZOFNPQ0RMTkNXV2QzZ0pIVVlneXFKYkV1RlU4S2VXaU5Qcm9VekVjOFk4T2tiTW91TkdCVExla3k2aGwyVVR5eFVWUkZuNXF4cTViNGVqZ2FNZ2h6YlZHSll4Q3BTTm1RZ0E?oc=5",
-        "publishedAt": "2026-10-08T16:12:41.000Z"
+        "title_ko": "오스틴 경전철 노선 건설로 지역 슈퍼마켓 폐업 위기",
+        "summary_ko": "오스틴 남동부의 한 대형 마트 주인이 신설 경전철 노선 때문에 매장을 닫아야 할 위기에 처했다고 호소했습니다.",
+        "source": "KVUE",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmhEdGFWZ2c3MnFOVGxzQUdseGFuODdzSUxjUVZFZnB4UFRJODlBZjgzNDZmZUdWQ2FqZE42dnNuYTQ3Qkc2Ql9NVVJfbkdKOEtmWjZEVklydW5tTE1FN2NyZXN0T2xia3ZpUF9WSlNtSUxFaG5VSjJzelZ1emplb2VrR0dQZU9jOVJpSDdFZ0NMSzNfUmxKVENFNGNGT2RUSmpqbmhrUGJncmRwUzRNM3A0c1FzcVg0Q3BOR3dNTnVXTjNuMXZfVTB3RXJGSzhwWGltNVNfanFWUTNNYmtaOTRMUlJxb2pFOVFUYUxn?oc=5",
+        "publishedAt": "2026-10-09T20:12:00.000Z"
       },
       {
-        "title_ko": "오스틴 교육청, 중학교 제휴 파트너십 중단 이메일 공개",
-        "summary_ko": "오스틴 독립교육구와 외부 위탁 교육 파트너 기관 간의 결별 과정이 담긴 이메일 기록이 공개되어 논란이 일고 있습니다.",
+        "title_ko": "오스틴 내 차량 부품 절도 자주 발생하는 우편번호 지역 공개",
+        "summary_ko": "오스틴 경찰청이 차 촉매변환기 등 차량 부품 절도 범죄가 집중되는 시내 우편번호 구역을 발표했습니다.",
+        "source": "MySA",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3VtekJsWmQ5VXBFc0FhQ05zRGJFQ05uZ1ctdjE0aGNxbVZGQUgySzdDUVhDY2o0VEdsaXdvYjM5cFNhdzF3WkZfbnlfYlhMLTBwSXBvbXM5MVRyYWJYSmxkTGw5S0VlSEd0bWcyTERGSHZfdzhKbUdPSWNfUV9Id3B1Y3FFTkUxLVFSRTZR?oc=5",
+        "publishedAt": "2026-10-10T00:14:56.000Z"
+      },
+      {
+        "title_ko": "오스틴 시내에 가을철 귀뚜라미 대량 출현 현상 집계",
+        "summary_ko": "매년 가을 오스틴을 찾던 귀뚜라미 떼가 올해도 시내 전역에 대량으로 번식하며 주민들이 불편을 겪고 있습니다.",
         "source": "Austin American-Statesman",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONFBKaUxjVjdpbm94YzVic2JmVFVTVE0xbUhEMDdOSm5ESklPQ0lORGRsdXdTSkpnWE9Sb1g5Nk11eWQwZHBxTnluejN6Tk1ZS0g5RkxvVXB4ZDhEYWJPQjdqQ2FnLUo3czNzdWxiTHpHV3J2Q2tHdFczUTJ4T0FjeVFma0V6SmJvMERUbUl4NXlWbDdsVlF5aUdienVyZXZ1MmE4TExTajg4VVJj?oc=5",
-        "publishedAt": "2026-10-08T10:14:42.000Z"
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTRNWGdyQndsVl9hbEllWWozR004RWdrbjFrdS1PVWw0bG5QbER6THgtU1BsWHM2aElNR3IyeHVZYXJ1ZFdURF9tNVNrNC1jRjlDV1hibk1oakoxeUxMZ2paNXd0R3RxblR0ZlpfQmVnRmxXaDVlRmJFVVdLNkxDOXFTdDdxdEdNWlpiMF9YSVNGTjg0NG00OVdRMDU?oc=5",
+        "publishedAt": "2026-10-09T10:19:44.000Z"
       },
       {
-        "title_ko": "오스틴 지역 고교 배구 선수 40명, 이번 시즌 맹활약",
-        "summary_ko": "오스틴 및 인근 고등학교 배구 리그에서 뛰어난 기량을 선보이며 주목받는 주요 선수 40명의 성과가 조명받았습니다.",
-        "source": "Austin American-Statesman",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXFXR284dFVBRk94Y0xxNkUxeF9vZE1qV2pXaVBNSmh5LWtYRjM0NWx6dUhVb1U5U0Rvck01cklFaEFCZDctTlpYMmJQWUdXRzh3bFM2Y1BkU2l6dy1Cbml5MXRuTExlREhKZkNRSXRKQUtqeWZxTTVDUnBHb3QtQTdZblA5UFl6a2Vvbkl0OHlvU092NkJfUldjQXNEbU1vaW5lY2RkYXpNVlFKZUZEYzM0NHJsNm1sdC05Zm9rT09DMUpIU1E?oc=5",
-        "publishedAt": "2026-10-09T06:27:05.000Z"
+        "title_ko": "자율주행차 업계, 오스틴 지역 일자리 창출 방안 제시",
+        "summary_ko": "오스틴에서 운행을 늘리고 있는 자율주행차 관련 기업들이 기술 도입을 통한 신규 일자리 창출 계획을 발표했습니다.",
+        "source": "KXAN Austin",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdS1zMTd3a3QzR0c1Y0o3eVhlNWtKbXdfVi01X253ZlBRd3h3OEFCWXhObE9OdXpzX045V1BSVDBmWXU3RkJlOENrQnR0bEpnYTVsY3pGeEZiSXE0NTAwaTZiV1FEOEN3TEFLcG9Mdk9nLXI1ZXRNMFFULVl0TENvSVUtMFlOUFM0SWgyWEpsQWtZY0EzS3h4ctIBngFBVV95cUxPU19vS3lJRkF0SThhX3h1NGhQLUl3VnVQbFBQeG11VzNBdzVNRFJTazV3M0lMT3VIR2Q5ellRdG83SFJkX2g1WkdtZFNxdjBaRENfdDczUWtfQ0xFaHpYNlo2dll5UjI0RDRVaE9JQXFvbG1UUmozTmxiR0FHYXhNLTRBSjJnWkwxR3RxOE1sdUdVN3MzZjhGOEsxbTMzZw?oc=5",
+        "publishedAt": "2026-10-09T13:55:13.000Z"
+      },
+      {
+        "title_ko": "텍사스대 오스틴, 노스 오스틴 캠퍼스에 대형 빌딩 건립 추진",
+        "summary_ko": "UT 오스틴 대학이 오스틴 북부 지역 캠퍼스 확장을 위해 신규 타워 건물 추가 건설을 추진합니다.",
+        "source": "The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmp0NzFWRWllVjhpSFZocXl1UWhDWEhjUzNYNG05eGN2V3Y3Zng4ZGpmc2JSSV9HNnhzQm9NM0RuSy00QnppZjFfNTl5MTliZWk0OU5LLVMxcU1NR1J4WE8wcGVFaVhua2M3Zi1oOEVGYWotcTBpd01nMU1uSG9rZG5TQ0t1M3l4QTdyRWQxVzM5MWJ5RGVvbGlVdl94R2hwNFpDQ05GRkxJdw?oc=5",
+        "publishedAt": "2026-10-09T12:42:00.000Z"
       }
     ]
   },
   "korea": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "이 대통령, 함량 미달 인사의 과도한 관직 요구 및 내부 공격 비판",
-        "summary_ko": "이재명 대통령이 역량이 부족함에도 공직을 요구하거나 개혁을 핑계로 내부 혼란을 일으키는 행태를 엄중히 지적했습니다.",
+        "title_ko": "국민의힘, 정동영 의원 대북 저자세 발언 비판하며 사퇴 요구",
+        "summary_ko": "여당이 북한 김여정 부부장의 담화에 미온적으로 대응한 정동영 의원을 향해 사퇴를 강력히 촉구했습니다.",
         "source": "MBC 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUjlxTmFwVXZ3MzBNazJJNmV6MHZIVHFBZjh4aGQ5TFJlQ29jLUZ3VzVZTHdOV1FnempXTlc5ZnBWT29ob0std2N6XzgyZFVpQ3gyNTZHYlphZ3BSdGFyQ0t5YTJUb2tPMDhveF81ZGxvNUNPdTV5bNIBeEFVX3lxTFBJcHdjblBfdU0wd0l1NU5RQnZPQ0wtaHdWSmladGpFZVh6YjRMTDBobVdmbUZCUkxfejVwNThmWFlpaHZpa3owVmkyWUplai13VHdTSUZXNE43bDJISEktdUp0T1ctclgycWc5R0xPYWFYXzhTaTVOTA?oc=5",
-        "publishedAt": "2026-10-09T04:50:46.000Z"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10NlNJN3BYNlZYZm80bzJrQkRlR18tcW5wRkVibUVtVkp2aTFuQmswTWpvRk4wUXl5SjNKTFpEcjJfNmlHcTFtajFvc3R2ZVlIS2xJamhMNGc2ajZMem9IVV9UM1ZtUFpjaER3bGFEbFVRaFFzaTRvZ9IBeEFVX3lxTE9tR0ExNXM1aTY1aDRsUFEyUWY3am9rRFl4RUk5Y1Z5Smh4d2JaUmtSMVpSTmxaQjM1Y0NJbDRUcUZkYnpoS196MVNiallVUWVNeGJNTV9mVUZIZDdUemQ3aGFOZnV3RklaLVY2ZkRYam9XZmx3c2pLRA?oc=5",
+        "publishedAt": "2026-10-10T03:52:53.000Z"
       },
       {
-        "title_ko": "훈민정음 반포 580돌…소멸 위기 제주어 보존 목소리 높아져",
-        "summary_ko": "한글날을 맞아 훈민정음 반포 580주년을 기념하는 가운데, 유네스코 소멸 위기 언어로 지정된 제주어 보존 방안이 제기되었습니다.",
-        "source": "헤드라인제주",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Xd3VGQ2FKX0U1NWsyd29uaHVLX2pDcGRHQVlnQUY3dGNoTGhJRE9HbmplRTBFLWllaXZ5VjVwM29xWTBvbWg5STd2U3k0OGxhYWxwNFVNcGw2LU9rcEs1aDJKckJrN24yeGNvMkJCQWxXMXM?oc=5",
-        "publishedAt": "2026-10-09T03:01:20.000Z"
+        "title_ko": "대구 북구 대형마트 천장 일부 붕괴…36명 부상",
+        "summary_ko": "대구의 한 마트에서 천장 마감재가 무너져 내리는 사고가 발생해 손님 등 36명이 다쳤습니다.",
+        "source": "영남일보",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpdUh0ZzZrVldscXNGZm1rVlRxOFc3V3Fzc3haTXFac0tNTXdrN1p4cVJNSVh6eC1zU0xXZkFiZjdhYWktanJmSnZZekVTSjFnWl9zLThkb0xqOFZyOVpuUzU5MXBTR2t5VURj?oc=5",
+        "publishedAt": "2026-10-10T02:39:41.000Z"
       },
       {
-        "title_ko": "대법원장·법원행정처장, 정치권 압박에 입장 발표…법원 내부 우려도",
-        "summary_ko": "사법부를 향한 정치권의 공세에 사법부 수뇌부가 강경 대응에 나섰으나 법원 내부에서는 갈등 확전에 대한 우려가 나옵니다.",
-        "source": "경향신문",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UHlYUDd0SEdGZF8tZ0JST2NUUFRIWUJhcXh4N2JVVy00dHVEV1ppUDJGc2s4VGtwS0l4SDlNb1lCSnlVX0VpTzB0ZVBZTWVRU0pSS200V29Zd9IBX0FVX3lxTE5fYzhWODE4VGRnTG15N3VJMUJJOHJxMUxVbjAzdE1VZW5KVEx6ZXp0UUs0dTY0ZXhOZ1UwNUxkTjF4Z1pJcHNsMFJLdW5YU1BrMnhmN2V4UG5qZHR0azJ3?oc=5",
-        "publishedAt": "2026-10-09T02:02:00.000Z"
-      },
-      {
-        "title_ko": "김여정, 한국의 대북 의료장비 지원 제안 거듭 비난",
-        "summary_ko": "북한 김여정 노동당 부부장이 한국 정부의 대북 의료 지원 의사에 대해 모욕적인 언사를 사용하며 거부 입장을 재차 밝혔습니다.",
+        "title_ko": "미 고위 당국자 \"한국, 한미동맹의 정보·방첩 기준 준수해야\"",
+        "summary_ko": "한미 간 정보 공유 갈등 속에서 미국 고위 관계자가 한국 측에 방첩 및 정보 공유 기준 준수를 거듭 당부했습니다.",
         "source": "한겨레",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HVlAwNURfTUVKaHZMYlV3S2NISTFXZzhYM3I5ZHYzQzk1Q1ZSM3dHbEZQQ1MwbnNfRGgzOU9xNlJjMjlkRXBqN0pOLWM1cXZSVTUyak9jYkJWZHBOZWh5cWc2YlJoZ1hhTnJOMnJQb04wWGRz?oc=5",
-        "publishedAt": "2026-10-09T04:28:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41aVJrWHVIY2JfRkc3UXBmMEdIWXFBbnRtOEw0YTJGYmR5TlR0bUZ0VTdKdmlpWXkxck1EeV9NbjB1VkFCMVRZNFJKRFRXMVZmVnh6SWdZT2tYRDBXbWZzQzd5Zml2VzVkOUViRFJQRQ?oc=5",
+        "publishedAt": "2026-10-10T04:08:00.000Z"
       },
       {
-        "title_ko": "누리호 탑승 초소형군집위성 2~6호기, 위성 교신 모두 성공",
-        "summary_ko": "누리호에 실려 발사된 초소형군집위성들이 지상국과의 교신에 모두 성공하며 정상 작동을 시작했습니다.",
-        "source": "대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQ19aY1NVQVpFUVczRmZiQlNmMGFiVVJ4OGk5dWE5VHNWbXVTdTNvb082Zy13bElWaUVwZ0JfWEgteGlNMDRXcXVlLU95UFg2ekI4QmJ2WWdIbjV3NHhsQzFuaUZHM1NkTl90Uw?oc=5",
-        "publishedAt": "2026-10-09T03:58:45.000Z"
+        "title_ko": "청와대, 국산 극초음속 미사일 시험발사 성공 영상 공개",
+        "summary_ko": "정부가 독자 개발한 극초음속 미사일의 성공적인 시험발사 장면을 언론에 최초로 공개했습니다.",
+        "source": "연합뉴스TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUcVhVQWxmNlVtSjU2V3N6RU1tQW9IZERZRGxuRWRfOUFkWS1oYUJaNFFFNlpaNU9YdmJlY0lXSDJTMmduSUNPSDhBNmE3bzM3NDRjSFJwMzY5bGxjOTdpOE1qNTFLM00?oc=5",
+        "publishedAt": "2026-10-10T00:51:00.000Z"
       },
       {
-        "title_ko": "삼성전자, 분기 영업이익 107조 원 달성에도 주가 보합세",
-        "summary_ko": "삼성전자가 역대급 실적을 기록했음에도 글로벌 경기 불확실성 여파로 주가는 상승세를 이어가지 못하고 정체 중입니다.",
-        "source": "파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dTVZdVBoUEVIZm8zRnNvTUJ1dnJYcm5ZRXZNZGlONk82UkdSZ2VpNWVtQWlvLXJGVEpqcGRyNWVzRDVrTEQ1S19fTFZiYkNrTFV1VTZJTGZpZw?oc=5",
-        "publishedAt": "2026-10-08T23:40:55.000Z"
+        "title_ko": "뉴욕증시, 오픈AI 실적 낙관론에 3대 지수 상승 마감",
+        "summary_ko": "AI 기업들의 실적 개선 기대감에 힘입어 뉴욕 증시의 주요 지수들이 일제히 강세로 거래를 마쳤습니다.",
+        "source": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFeFhGTnQ4cVFZX3dCaVRqczdMNDMtUGVHTDZjRURtOExjQ21INUl1VVJyOXdxVGtBa1pzTUUzQ0VqTzROLWFyWVhYV0dURmFsb1JUUlNPMVJjTWhXaDJjZHl3SFE3Um5mTjZUMDYtY0_SAXRBVV95cUxQWDdKdUZ4WWpkcTctTE5Ia2lBWlpfNTJlTmUxemczdTF6UV9VRHBQb0xHczFtY2IxTEJrb3JyN3Bfd0hsMDVtYldNbTMta0JKd0dfbEp5LW95MU5aX2ZDZVFnNGtuRElOVlBfVFlfMWRMejhxUw?oc=5",
+        "publishedAt": "2026-10-09T20:16:59.000Z"
       },
       {
-        "title_ko": "쿠팡·쿠팡이츠 서버 2시간 장애…심야 배달·물류 차질",
-        "summary_ko": "새벽 시간대 쿠팡과 쿠팡이츠 시스템에 접속 장애가 발생해 밤샘 물류 작업과 음식 배달 서비스 이용객들이 불편을 겪었습니다.",
-        "source": "보안뉴스",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HdmhBbE9lM1JNZVhjZDI2M0hKbmFQM0ZLYzl3bkhHUXZ6UVpFMWRLVnd4azdpeXFucjlZX2F2aTE0WHVHNHlCR2l2ZzJrcFYtbVh4cUpoME10T3JXT0Faak5UdEplVWVXLXRR?oc=5",
-        "publishedAt": "2026-10-09T02:03:45.000Z"
+        "title_ko": "금융권 해킹 사고 속 빈축 사나…보안 예산 집행률 69%",
+        "summary_ko": "금융기관을 겨냥한 사이버 공격이 잇따르는 가운데 정작 보안 관련 예산 집행률은 70%를 밑도는 것으로 드러났습니다.",
+        "source": "에너지경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZbDJ5R2plb1haZ2RxWUd1alU4VWpwNWRGWncySWJWWlhJVWkxU1RyZUdORWI1bDJTbThtRVVfb0w5WU8tSnlnN3FwMkE2UmVXZ3U1RmN1NnVUZU85Y2pGdmZ3?oc=5",
+        "publishedAt": "2026-10-10T06:39:34.000Z"
       },
       {
-        "title_ko": "개그맨 김인석, 방송인 안젤라 박과 2년 전 이혼 사실 뒤늦게 고백",
-        "summary_ko": "개그맨 김인석이 방송인 안젤라 박과 2년 전 성격 차이로 합의 이혼했으나 아이 부모로서 협력하고 있다고 전했습니다.",
-        "source": "경기일보",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMW44aklZUGE1RmgzMDU5bF9vSjN6ejNOT2t3YzhyV09WbG1fb1k0bWVGXzZZc2xDZUJhV0FCd2N6NVJvMnJkVWVQUVBUdXhHdUp1OWFhWlNHa3c?oc=5",
-        "publishedAt": "2026-10-09T02:17:37.000Z"
+        "title_ko": "신유빈·임종훈, WTT 중국 스매시 탁구 혼합복식 우승",
+        "summary_ko": "한국 탁구의 신유빈-임종훈 조가 세계 최고 권위의 WTT 중국 스매시 혼합복식 정상에 올랐습니다.",
+        "source": "MBC 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVmlxRXZ2bUdjLUJUbkwzUTkwczhvd0lvUWp1SzNWSEF0a0dyVjJGSmRtT2dxLTB0UjJCLTFPU3draHd4YUVNWWRXLXVJd3k5SE5vV1N4R0x5VTZwV3d1aDFQTnV3d3pwWVhfZ2doMmJ0c2w5NVHSAXZBVV95cUxPeGNLa0lLRGtaZFlCdU44aGdmbkZGc2FrMWg4NUxIY21tSzhFUXRlQy04R1FZUlEyNFdPNnNSN3ZNeDUzNWxaMzMzMUw2Mzl6NG8zNkhRQkNwMWNGMjhVMzlmcGVBUU1NY3FlZk4tcUczZ1JIc253?oc=5",
+        "publishedAt": "2026-10-10T05:57:26.000Z"
       },
       {
-        "title_ko": "한국 축구 대표팀, FIFA 랭킹 32위 유지",
-        "summary_ko": "최근 평가전 일정을 마친 대한민국 축구 국가대표팀이 국제축구연맹(FIFA) 세계 순위 32위를 그대로 유지했습니다.",
-        "source": "천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zM1cyWE1tYU1UR0FXMVAxSEpfUUV6Uzh1MkxqQXhkc2xGQldQY3FycWRScGh5U1M0Zk5CaGFISU14bWxoeDNtbnpBdElvS3Jyb0tVaW9HWUgyRnVSN1d6el9JZWRleGVGNVE?oc=5",
-        "publishedAt": "2026-10-09T04:29:56.000Z"
+        "title_ko": "기업 성과급과 부동산 청약 특혜 논란에 시끌",
+        "summary_ko": "일부 대기업의 수억 원대 성과급 지급과 아파트 로또 청약 당첨을 둘러싼 공정성 논란이 불붙고 있습니다.",
+        "source": "머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NVjVqc2Q0aVN5cExsekpDQ3FPS29kUUhUcWJSbnQ3REpxQzZBamxfU3pQREtHSVV4clBlYXBmTmVzZzdzZnlTNERZbXZMSTNSOUlfcVpIU25iV0JPM1BMcUNuYlhSTFZ2SUZ30gFwQVVfeXFMTmxRZzFUekNIaEtnZWVyeHVSS1M5cExQMGNCY2hWWEpad2kzRmRLS0staVhrN09WWF9ES3FOeEZEZTF2OUVwanptUlUzeEhodVd4NmNFMVRncVhCdFd0bV8tY0JTQmhRaHRfMjNSZldZaQ?oc=5",
+        "publishedAt": "2026-10-09T21:40:00.000Z"
       },
       {
-        "title_ko": "건망증과 치매 사이 '경도인지장애', 조기 진단 및 예방 중요성 부각",
-        "summary_ko": "단순 건망증과 치매의 중간 단계인 경도인지장애 환자가 증가함에 따라 초기 정밀 검사와 생활 습관 관리 필요성이 강조됩니다.",
-        "source": "파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQeUpyQ0FqVjQyR3ktMVowNVAtMk5Fc0ZyZ29VU0JFaE41VVd2U0txVi15UkpwcXNzblZQWHJxLVJ3UElPSmc1Zlg2YmtSbGJNUTFBWGFNMEU1Zw?oc=5",
-        "publishedAt": "2026-10-08T19:00:00.000Z"
+        "title_ko": "'가을 탄다'는 계절성 기분 변화, 의학적 원인 분석",
+        "summary_ko": "가을철 일조량 감소가 멜라토닌과 세로토닌 분비에 영향을 미쳐 실제 우울감을 유발한다는 연구 결과가 주목받고 있습니다.",
+        "source": "주간경향",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93VWFhQVJCUHhWcFB4cGR1TXhfYXphWkdlNHZCRS0xTWlSUk5ERUVhUTdMdThXNlJKb3Z2U2lPTERvSGdjaWxQLVF5Z19yWTFMV3hFTTVJTm9TVERHd3c?oc=5",
+        "publishedAt": "2026-10-09T21:00:00.000Z"
+      },
+      {
+        "title_ko": "기억력 저하 전 나타나는 '경도행동장애', 치매 조기 경보 신호",
+        "summary_ko": "치매 초기 단계에서 단순 건망증보다 성격 변화나 행동 이상이 먼저 나타날 수 있다는 전문의 경고가 나왔습니다.",
+        "source": "현대건강신문",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CcnRZelVzV3ZsOExpVklIQ2ROa3lOYWQ4TmZNNDB0TDA1T09ZMnFKOEx4T0Ntc2t1YWtIdjJSQ3dvWm1GRjVIbGxZQThuZGE0VDgzc0RB?oc=5",
+        "publishedAt": "2026-10-10T05:37:00.000Z"
       }
     ]
   },
   "france": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "교원노조, 정부의 대체 교사 3,000명 확보안 '졸속 대책' 비판",
-        "summary_ko": "프랑스 교원노조가 교육부의 대체 교사 3,000명 투입 발표에 대해 교육 현장의 공백을 메우기엔 턱없이 부족하다고 반발했습니다.",
+        "title_ko": "지구 돌아온 프랑스 우주인 소피 아데노 \"우주는 환상적인 경험\"",
+        "summary_ko": "우주 임무를 마치고 귀환한 소피 아데노 비행사가 쾰른에서 기자회견을 열고 소회를 밝혔습니다.",
         "source": "franceinfo",
-        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQXRkV3lUNmlpUmNDTDZNd3Vwc3ktMmhtcU01NllDdGctVEtudnlQVEY5eFc5T0VvTndVRVZTUG90dWtPZkJNRlYxdWFteG9uTHZ5YUUzTXk2ZmVvcERvQ0t3X1JlVVhGMnZRVVlvQ2xXSEJSWTJaUktJcjkxaEh2bXc4bDlfUVF4NUxFUkRmUVB2OXF2S1lyanJPVzVkU3hxa2tjSy1CdHp4Nll6THZSUzJrVHZTbF9DX29HQW9XNHBla1lpMXdIaVJVTHhBLVcwck1nWUdmQVE5LVpDTGg2WEhCd0dlZWMtNk84dE9qRllyS2Y2ZFl0dXJoekY5RG5NUDd0RnRoVHVTQWN6MWRsM0Y0Sl9UR0Ewelp2SVhKS2RlYkJER3Fr?oc=5",
-        "publishedAt": "2026-10-08T20:06:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOQkR0bjliODcweldHbUxseWJSam5YWUNEX0xUcEtlcUNHYjRtQzVabkNpM05wdERCdktIeHpzblhDU3RCZ0J4cTVONW01aGI2dnlJNmtSNTNGTzlIeHJZQkFPRWtqQ3FxQ3RLY0hnbjludF9kQUhPUkNERXlTbDMxMHJkRTVHTXExQnNrNG1Ec2N6OVJIN1RzVHY4ZnlPN0JBNzJvajNZM2dMY01OSUxaM1hERHJBOTdKTVJJWlMyd20tWlRmbGZGVTB3bVEwenlfQlZRVXpJMnQ3Sk50QTF3bmZiQmxVWEpVMlU0T3JfQm53YWtOT2RSN2RVRkNyLU9UTjlkRmR2blFvWmZ1Q3d3S0o4Y1FGWnVVTjdVZ2g4cE1LZGRkQXd0RFctUVBmc3pKUEZDRC1RQ1d2SkRxVkpxekMtQlc2UmpVMkMtelJSV2VQbHdfbzZCTUZHMWZ5VEk?oc=5",
+        "publishedAt": "2026-10-10T05:52:27.000Z"
       },
       {
-        "title_ko": "프랑스 사회민주좌파 경선 투표자 14만 명 돌파…예측불허 접전",
-        "summary_ko": "사회민주 좌파 진영의 대통령 후보 경선 투표 참여자가 14만 명을 넘어서며 예상보다 높은 관심 속에 혼전이 이어지고 있습니다.",
-        "source": "Le Monde.fr",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZTYxMC0ybTc4aUJaRUpXd1hQMmdycWZrTm80UUNGZlpXa1NMNjVlZVJWeGQ2YVlUX1VETFE3TzB6a0F2Mms0RDllSTFaT2wtekpCTy1fcjBsTDF3bmlZbjdSVmx6SzJPOG5zQXBmeTMyYWtFdXRNQUtaUFZBbnQyUHQwbE1abFpHdmFjR3RYbzRyRHQtSUVjeVNySlk4dG9BbjNUX0tEdkV1XzlfRzlQeDQwWGFDZVQ3bGROeHZObjBJcExiYVA5NWFBekRHOC1DV0dKRTFaUHRtT3JEbktublM0eHZ4VEUzWEpzQ0RCX0E0UHlMUndqN3dYVGxhak1CZUF2M2pQeHZtMTBFN0d6cWZWRmIwdm9aWl9QWFpBNkpTWW50N1dsVExxM0VnUQ?oc=5",
-        "publishedAt": "2026-10-09T06:35:48.000Z"
+        "title_ko": "프랑스 사회당 경선, 투표 파행 속 파란 지속",
+        "summary_ko": "사회당의 대선 후보를 선출하기 위한 1차 투표가 절차상의 혼선과 후보 간 신경전 속에 진행되었습니다.",
+        "source": "L'Humanité",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQS1lblRwbk11bzRQcnNHOGx5Q19mUlcweUpQclU2QjBOU0JyWjR2NjMtT09LaGYyc0k5U1dxemZRV1dpaW1nSXpaR0VQcEFXNk1nUkxoNTU5aFZLSWhVdElDWTluOFdVSzNUdGNyRmdyNnBWT3dsNFBZVHRrTHFGOF9mZDVFcUdPbjJBV0d0ZHNrNG81akhVSHFoWWtXbXZJLXgxeTJRQXhpMEF4RGVYV1VEcnphcUNfMHpBM1A5MEF5RWtEb0p3alZPX1l5RjA?oc=5",
+        "publishedAt": "2026-10-09T11:38:01.000Z"
       },
       {
-        "title_ko": "우주비행사 소피 아데노, 지구 복귀 후 장기 재활 훈련 돌입",
-        "summary_ko": "우주 임무를 마치고 무사히 귀환한 프랑스 우주비행사 소피 아데노가 신체 기능 회복을 위한 장기 신체 재활 과정에 들어갔습니다.",
-        "source": "20 Minutes",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGhTTk9vdHd3Vlg2QUNpQUxRSXFzOV9EcFVTNkZlaXBVbmFYMVJHajNFUnZCejBIYzRpeGhTb2dkZWtvd1pKRF9JMjV1bFBqU2xpdFpNWnZ5VVVLSWwxRnhJZ3FIbUVLOUxmZl8tMkpBVjFzVnNYdzE4cVJEQkhBMnNDVEhoT1RIbktpZ3RNNS1PSzBvWlZGMGxNd05uR0s2MDVJdlBOT2JkY2Y4Um5Pd08ydUNHa201T1g0ajVqUUczdDlvOXliVVYwZHhVVEJid3RDNTlSdjBzcnQ2RW1NUkRhSGZKcGVna0E?oc=5",
-        "publishedAt": "2026-10-08T19:09:00.000Z"
+        "title_ko": "프랑스 정부, 고교 시위 사태에 3천 명 대체 교사 투입 추진",
+        "summary_ko": "교육 당국이 학생 시위로 인한 수업 차질을 막고자 대체 교사 대규모 투입안을 내놓자 교원 단체가 반발하고 있습니다.",
+        "source": "Le Figaro",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS194eEdWaXc4VlJNaGdYRmtZY2VOcjk1WXpjNFl6LTdhMGhCa1g1amdmRzVCbzNrV1FnaUxFdWlnQ3J3WmwtczlNaTUzbFlrdi1ibko2U0NjS2hoV0pEdEpjdTA1dlBxYTNzUUhqOEI2ejV6S0RFdFFkS0V4V2N1TWZUZU9DdlltWk9DUWNnVHNzZlA5blNrN1NacVNpOVd6dTZ0NWVKV0tXcWFHbExUN2p3Y1NyV2xZWE1SU2lEQjY0TzEzOGVKRjNPOXRMVEcyZjVGNDNqWlN0N25Cd1N3ZDFFQlBCbDRsMzVvWVNfY2FWMWVNWjhRbA?oc=5",
+        "publishedAt": "2026-10-09T17:15:24.000Z"
       },
       {
-        "title_ko": "환경단체, 주방용품 브랜드 세브(Seb)에 영구오염물질(PFAS) 퇴출 요구",
-        "summary_ko": "환경 시민단체들이 테팔 제조업체 세브를 상대로 제품 생산 시 유해 화학물질인 영구오염물질 사용을 완전 중단할 것을 촉구했습니다.",
-        "source": "Le Parisien",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZ0ZpbDVmdndkZmM0XzhPSW11b2xzaWE4RGV6eFB0TWQ2a3FnZzhybk1GdzhUZnNBeGZrTEFseWQtUnc2a0hvWmlLOW1Gd2hkTzczT2FQZ0k0dG9lTHNFaVRRdWo3S3ZNTTRjY213aWRRYi1nSFdESEZ0WXdiaEhpUUxrVFBJMko0RlVpbzFmc0Fad25lZl9DdjN5cHRwWVVlV0dVQk9PUHZhcVhPelJST3JuWjVnRFBrNEpNRTFLVmdHODRhQnJyV0dWaWJxMHZpb1NKcGt5bXU3NXlMME9kNW5GVUhWTHJ5WlhPTm9sejNBU3k0WnNDLV9kN0dKQ3JPX0x4RmRSSEJJMXVjQ0xCX3QtTzF6X05RUzloT2RhTWtEWWhLVWY0alMtY3RQOFE?oc=5",
-        "publishedAt": "2026-10-08T22:21:24.000Z"
+        "title_ko": "조르단 바르델라 RN 대표, 언론 폭로 후 SNS 계정 삭제 의혹",
+        "summary_ko": "국민연합(RN)의 조르단 바르델라 대표가 탐사보도 매체의 검증 보도 직후 관련 페이스북 기록을 삭제했다는 주장이 제기됐습니다.",
+        "source": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQUs2a1ptdDdKUkc5MUJkdzNDRDdRaG5rS2VObzA5bjczQnllckZ5LWc5OC1tTDZudjRna3V2UHF2WFZqQVdTTlZFWUM0SUJPRDZKUmVGTFd3RWhRVlFmc2V4X25IakpVNXMzcERaX0IwaERmeVp4Xy15eENkVUlZSHhRUlF2LVBad3M2SjFudDBhT01RTmNwYzFEMlVvRlZBRFBXdnFJR0NJLTNYY0l1THNFa1ROcDhGRjNOaE9ZTFB6NUExbVF4d3p3MzI5V1RnTFlLWEVZLVAxY0s4T3pfVFVCcjhFNllweUlQZk9ZUnZIQ2ZwSHV3SUh3?oc=5",
+        "publishedAt": "2026-10-09T12:55:34.000Z"
       },
       {
-        "title_ko": "덩케르크 학생 시위 현장서 경찰 차량 시위대 돌진 사고 발생",
-        "summary_ko": "프랑스 덩케르크의 고교생 시위 도중 경찰 순찰차가 시위대 방향으로 돌진하는 사고가 발생해 당국이 경위 조사에 나섰습니다.",
-        "source": "Ouest-France",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRlJTaDJCcjd0QTdQTmpXZGx2dnpWQmVzYnNJWW1BMU5XUld0WUFHTGQ5SWlGRml1NTZZWHF1MVdONm9HUnlrUmFwa0ItY2drX0s0OTUxNVJnMVV6WUR0dzZQOE9Qb3I2cG5QLWdSWUNkMkZUVkUtalJYOVY2SXBHRF9MeUd6aXV2Z2FIMTdIVy1PMVRmQjFkNWtYYWs1TTVCdjlXVFBhSWo0UlJJY3JYWjZuSVBmeXZGM0JoRVR2TjE5Z21HcXV1a3VmUGhQU3BtaU9NSG5Rb0Vwck1CVGF5OENEblJCekVqWHRZa0g0dGhyaXNyOFlqcVZTUXFGMnZmOXhzLWpn?oc=5",
-        "publishedAt": "2026-10-08T13:41:35.000Z"
+        "title_ko": "프랑스 랑스서 고교생 시위 중 수류탄 터져 손 손상 중상",
+        "summary_ko": "고등학교 봉쇄 시위 도중 15세 학생이 경찰 진압 장비에 손을 다치는 중상을 입어 검찰이 경위 파악에 나섰습니다.",
+        "source": "ladepeche.fr",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNX1VRMVowX3RfTlRCdWd3RFpfX2Jmb21EdV9vWXl1TV9OejZiRE9ZdEJscHZlbk1nZi1mLXN0S1dsbkVya3E3MWxPRDZHSTc5RUNRV0N4di0yVVVCdjBpWHVDNGREOEQwTDMwakFDVzBLWkZYYlZtN0N4UTFhdGlUNHByaFdBUnd6Vmw5aXJHZjRDWXc1MUR1aWJsX3dYcEgwTzdzakZoY05DMVVHMlg4dW9wLXB3bjB0cVNIa3pHV3FRT2V2aTZsSG1Tb191bWx2U3FSWVZzSDhvQkhDXzNpbXA4LTdxVDVOZm02WmEtc1g0MFdqcFpEZjYtSVhJdUJENm9BbTE1eEU1SjgwOVZpOWkzTTdsak5VVWR1SDJNNXZoZw?oc=5",
+        "publishedAt": "2026-10-09T18:49:00.000Z"
       },
       {
-        "title_ko": "프랑스 국가 부채 급증 속도에 금융시장 경고등",
-        "summary_ko": "프랑스 정부의 재정 적자와 국가 부채가 예상보다 빠르게 늘어나면서 글로벌 신용평가사와 금융시장의 우려가 커지고 있습니다.",
-        "source": "Le Temps",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTFqVDkwaUowMWhGQVN4aUJGeFNqRlNJWEJvRWwwcUJyRzJkLTViV1pZME5IYXVoa1dTNWNaVGVHZWlxTDhFOVNURzBpVDdLN2pPdERDbWdINFV6X09HTzMtOV8tekRxY3AwU05JaG91SG5sX0JFZDFNSHJZcE1xRXpKZi1yRkpaNEQ1anFobnNmS2l3NVY1UXNncllUVTJEOXJWNk9JNGdIUQ?oc=5",
-        "publishedAt": "2026-10-09T04:32:00.000Z"
+        "title_ko": "프랑스 A69 고속도로, 11월 첫째 주 개통 확정",
+        "summary_ko": "환경 단체의 강한 반대 시위 속에서도 A69 고속도로 구간이 예정대로 11월 초 정식 개통됩니다.",
+        "source": "Le Figaro",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlRneFBnZTBCdnE1RHBYQ0hwN1hsclhFMkR4MzVEVS1XMlJNaWE5TmF3c2FiTWdQMWh6THA1dHMxdTZlVUp2b09WRE5CblhicXJtNlRSeWRUSEthTGxkd3Zad3hLNEpEUmt1aXYxVUdHT1ZIQnlHUE5HWkhkek5adU5YRWRoZVYwaGhRczEtZE5LUkllN0ZCWTNNWEtVc1Bib181Q0hOdkMzaGRKaFJuRDhiYTY?oc=5",
+        "publishedAt": "2026-10-09T17:33:48.000Z"
       },
       {
-        "title_ko": "애플, 10월 13일 신제품 공개 행사 '웰컴 홈' 개최 발표",
-        "summary_ko": "애플이 오는 10월 13일 '웰컴 홈'이라는 타이틀로 새로운 스마트홈 관련 하드웨어 및 기기 라인업을 공개할 예정입니다.",
-        "source": "TechRadar",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1dWVk9XNmQ1d0lpVmh3MHk5bHVfTlFMWGdWN0pWUXFkOC1BQ2RkZFA2a29QblNwM1BRTUNEX25IZkN2OVFmZEhuZWFRUW80dS1sMmtTYkdYY2NGVFlxYUpNcmk0ODdkWlFmSEp6c0tqREd2R1NjME9FbHdTVThxWVpzVF81QVJMRWdrOE45N250a1AwTURacE5NM21tVVFfTERkTnh2aWFsX01CYTRHc1ZTWHNqTnNJNGJmalJoUXRDVHJ4WUZoVHdpVFktUlZ3djhj?oc=5",
-        "publishedAt": "2026-10-09T05:05:37.000Z"
+        "title_ko": "브르타뉴 의류업체 아르모르 뤽스, 프랑스 대표 기업 유니폼 싹쓸이",
+        "summary_ko": "우체국과 에어프랑스 등에 유니폼을 납품하는 아르모르 뤽스사가 프랑스 대표 기업들의 의류 파트너로 성장했습니다.",
+        "source": "Le Télégramme",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaF9lSXgwMy1qU2JfLVZ2Q3I5TTRuRlB0M0FXbkw2RXJaYjRnWjU1MVJIUEJENC1pSlVCRjBjRkRnR1JIV0wzNFRZb0dyb1hUUUpTYjI3Z0ttcGtTTkRKU0JEODBXeHhoYUJXNXF3djdlby16ODFHcDM3Qjk4T1hSbUxfYTZPNUZ5b3l6b0ZSMmVIb05hSWh2ODJTTXZUcWdHUGlWTU9UZDZHMlBKRkZIT2xnWXZXNW9BcU1UUkRGbkhoeFJNNGFDN19SZU85bHZQMjRiZjhhMnVLREJ2ZG1kRzFianh5SWZsQzYzN0FrejczRWJqYjY0S3Y3dTYzOEotaFhIQmNjTnhXQ2FuX1hSbTdEMzk0U1BuMVJyaFRmZm42dw?oc=5",
+        "publishedAt": "2026-10-09T15:01:13.000Z"
       },
       {
-        "title_ko": "노벨문학상 수상자 앤 카슨의 출판사, 깊은 감동을 주는 작가라 극찬",
-        "summary_ko": "올해 노벨문학상 수상자로 선정된 시인 겸 평론가 앤 카슨에 대해 담당 출판사가 독자에게 강렬한 감정을 일으키는 거장이라고 평했습니다.",
-        "source": "franceinfo",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTFZMQWdrX1ZtbmlkT045Z09RTzA4S1M1MlhHaDhPVXIzek0tbFdEM05KdkozUDdOZTdGcldab3Z0OWJJVVM0UWRTRUdqWFJJVnZBM0Z0ZVRKa01jRnRCanBqYy0yN2g0enVqc0tNN2tvTHhMTTd5NDlyVE5sWnhQT0hKd2pqOTRDWXFJandSQ3lrelBfRGRySl9uT2dTeXZpUTd1LXBtNnIzSGI1ZDhKeWtYemJETUY2VDZkMDB2Q1Z3M1BZeTRHZnc1eGJfemh3ak4tNTJteHVrWEt2ZDlNdjFPVDR3STBEUGZTUmlzNk9ZSmtia19zUmJNeUk1WU1zbkNaUHl1bnJlMmI2MF8zYzlsRlFJZ2loVXRhS1FHSkNnUQ?oc=5",
-        "publishedAt": "2026-10-08T18:56:53.000Z"
+        "title_ko": "프랑스 재정 적자 경고음…'FROGS' 신조어 등장",
+        "summary_ko": "프랑스의 막대한 국가 부채 비율을 비꼬는 금융권 신조어가 등장하며 재정 위기 경각심이 높아지고 있습니다.",
+        "source": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2xTWm9sS3JLazVxQ1llWWVxdnZMeDBGanAyanA2YWg5d3RuZWlQbVVGekdkOG9PdXkweEtOczE1Zjgyd3Z6Q1lGNkNTU1NxTG90UU0yS3BrbDRaTVM4SzlYbHloallpMWdTa0ptVzloanVubmczN1FPeWE0TEFxTWZibVZyVC1kSHpXMGdrdVJVbXNhYllDWmVmZF85NTUzdjhNQldyNmV4VVE?oc=5",
+        "publishedAt": "2026-10-09T15:44:29.000Z"
       },
       {
-        "title_ko": "리그 1 랑스 vs 올랭피크 리옹, 휴식기 후 빅매치 성사",
-        "summary_ko": "프랑스 프로축구 리그 1이 A매치 휴식기를 마치고 설욕을 노리는 랑스와 상승세의 리옹 간 맞대결로 재개됩니다.",
-        "source": "L'Équipe",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUUJNNTdJeDBHWUFhM2ZQZkVJMFJxVjBrWjQtZGhiaC1nQjBOMzFOSGZxSmlOb1BuQ3lRQUN4eUZYOWNBSW1lXy16NzY0czV2ME9mZGNUSkJLRGZlb2g3ZkhjSkl4T2dkdk9WQThNYzFSVVdRU2NqWFlsTjJ1VWlTR0s4T19ZelFBUGIzbEk4OXJsVkFDYkJJV081ZkxVSS1UeFI1UUNHdEg0UGo2d21DYkNXQTJaWVItaUVYck1mZml1RU9veDFQblNCcUFzbzdkLUdGcjVUX052dV82bUxoNXAwUGd3V0hYTGtQYnB3?oc=5",
-        "publishedAt": "2026-10-09T04:24:00.000Z"
+        "title_ko": "르누아르 미술관서 도난당한 명화 2점 차고지서 회수",
+        "summary_ko": "칸 인근 미술관에서 도난당했던 르누아르의 유화 2점이 인근 차고지에 숨겨져 있다가 경찰에 의해 회수됐습니다.",
+        "source": "Nice-Matin",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmF6dWs3X2hDbUE0NExkNENOZ3BocmNMaE5UQ0V4SThaWVAwU1ZQeEoyRVZaMWRvTE11MnlVTnRpQjZ4clpQV2hoVkl4TXhYeEZHaHg3MVJUSXprYnhtVnVPNEpyXzBtdTN5b2NGRkFkZTdkaGZES05acDBZeDZuVmJxTnh2U0NFWFR4Z0xLdkM0LXB1RG9Xd3Q5U2E5aTc5SmV3NkVXUmZKTFdQZVp5VWZwNVp0T2pRTnhieGFJNXR5V2MtYk0xbjlWVFgyRFppcTVHYXoyb0gtckY2LWU0WE5FbFFHbEJFak56WjktSGIyRVdEam5COV9Ecw?oc=5",
+        "publishedAt": "2026-10-09T15:39:37.000Z"
       },
       {
-        "title_ko": "프랑스, 비만 치료제 남용으로 중증 부작용 17건 보고",
-        "summary_ko": "당뇨 및 비만 치료제를 승인되지 않은 다이어트 목적으로 부적절하게 사용하다 중증 부작용이 발생한 사례가 17건 확인되어 주의가 당부됩니다.",
-        "source": "BFM",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOU3JUanlzdU5Vd2NaRGZabV90a1paTHdqOXRQcEdsR25JZ3dNQkpQSlRtNTNrYjRBblpDOHdZN29VOUN6bkkzWDNhbjFWTjhtbEJPMXhXUlhCOV94UjFUdUtVWTRXUVNiUEpSWjJBM2lDQ1kwS2VDWklwX1ZHT2Z4bWs0WmY5eEFpSXZadUhGbkVKNXhJSEJwZmVVWm93eWhmTXh3UGhrdmp6LXIwRjNiVTVtUWZyU3pPMHRyWmlGSmNRQVd2XzJPZDNTcjVWODluNnpJaFhuNWhLNGY5bGNUMENHVU01RFZsekZPU21zVWU1SHczODZMMFNIOEd6ei1lMUo2VmdMWGxpZ09oREdqZ0xtTQ?oc=5",
-        "publishedAt": "2026-10-08T07:17:55.000Z"
+        "title_ko": "프랑스서 비만 치료제 오남용으로 췌장염 등 중증 부작용 17건 발생",
+        "summary_ko": "오젬픽과 위고비 등 미용 목적의 오남용이 늘면서 췌장염 발생 및 사망 의심 사례 등 중증 부작용 보고가 잇따르고 있습니다.",
+        "source": "RA-sante.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5",
+        "publishedAt": "2026-10-09T11:46:00.000Z"
       }
     ]
   },
   "usa": {
-    "fetchedAt": 1791529944638,
+    "fetchedAt": 1791614820570,
     "articles": [
       {
-        "title_ko": "뉴욕서 이민세관단속국(ICE) 요원, 체포 과정 중 용의자 총격",
-        "summary_ko": "뉴욕 시내에서 이민 단속 작전을 수행하던 ICE 요원이 체포에 저항하는 남성에게 총격을 가하는 사건이 발생했습니다.",
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenRITllJRDlOSU1JcTdZSlQzeVZOdTFwZW1DM0Myc0ZlY01EVk4yQUctNktRWnF5cDRnTDQ1YmFsNWl3NGUyMUs3TUVKcUk2ZElKeTU5LTRna0t0MWl1SE9uV0VjWnlweXBQQVhycVJqZVRrS05fdkxUYWNJckxzNkxmaHBrbzlmcTBOelJkRUpVMlRxcUxN?oc=5",
-        "publishedAt": "2026-10-09T03:15:00.000Z"
+        "title_ko": "허리케인 이사이아스 플로리다 상륙…동부 연안 비상",
+        "summary_ko": "대형 허리케인 이사이아스가 플로리다주에 상륙하면서 미국 동부 여러 주에 대규모 강풍과 폭우 피해가 우려됩니다.",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUt0Y1A5NFM1T3ZoMUZJWGVmQWdUdkY0SlAtR1FYWkxuMk1YTWhkQXV1ODNoRmFRQkI1VUpCWTJrUVlKclFIWi1UV3BhRDlaaFMzeVBiZGRRX0c4T2hJZVJVZG54SDEtSWVmNXA3bFRVNjZJWmI0VDllaTh4Z1A1R09NMA?oc=5",
+        "publishedAt": "2026-10-10T01:44:00.000Z"
       },
       {
-        "title_ko": "미 국방부, 포트후드 총기난사범 총살형 집행 생중계 방침 발표",
-        "summary_ko": "미 국방부가 과거 포트후드 군기지 총기 난사 사건 범인에 대한 총살형 사형 집행을 인터넷으로 생중계하겠다고 밝혔습니다.",
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5",
-        "publishedAt": "2026-10-09T03:36:12.000Z"
+        "title_ko": "젤렌스키 \"트럼프-푸틴 경유 거래 합의, 불공정하고 부당해\"",
+        "summary_ko": "우크라이나 대통령이 트럼프 전 대통령과 러시아 간의 경유 공급 계약 합의에 대해 강력한 유감을 표명했습니다.",
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
+        "publishedAt": "2026-10-10T04:38:25.000Z"
       },
       {
-        "title_ko": "허리케인 이사이아스 북상…멕시코만 연안 대피령 및 비상태세",
-        "summary_ko": "강력한 허리케인 이사이아스가 접근함에 따라 미국 멕시코만 인근 주 정부들이 주민 대피령을 내리고 비상대응 체계를 가동했습니다.",
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWJ2WC1hT2hrZndSUXcwYTRqd0p0V1BydEN3TERLZTJBOElnbFNZS1l2dGg2NGJiNW85VXRUN0dhUDJUSndVRXFsZGZJY2x6WmFaYWhMUHBkNloySVdORWhSY0VWREk2c0pSc1VTNkVINlRQRVFDZzMxU25TQVZpYWZ3?oc=5",
-        "publishedAt": "2026-10-09T06:50:00.000Z"
+        "title_ko": "국방장관 지명자 공개 집행 언급에 해임 요구 분출",
+        "summary_ko": "피트 헤그세스 국방장관 지명자가 사형 집행 생중계를 언급하자 정치권에서 지명 철회 요구가 거세게 일고 있습니다.",
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDMtVU5WR05jbnkxZjZobkt6am1FbHE3NW1iUnVwYWRzcjlnS2V1Q1RzYnQtMzl0eXZNNE15T3dhRDdsRG5HZ2JWS1g2MkkwM2NncWdDM3BZWHdHQTZTVHRWN1dxV0M4VkpBdDBkMEM2YllaS2paTzkyTnhVS2QtYTk2ZVE3azAzRUhfVtIBkgFBVV95cUxONTBlNmt1eG1JQ3o4c0dYLW15NFdJTUxzZkN0TXlOUHdrbVZzUmdvT0djWEJQYzVwMGVmWm5GVHEybDVnM2oxU09seGtEZnczdUtLTmc0X2V1bzJSNU12V2FZN3NFMWQ2SGVOQlVZVzE0OFVIVFRYRW40V0k5X1dLYl9odEl1alpvUDBiclprVTA3UQ?oc=5",
+        "publishedAt": "2026-10-09T19:25:00.000Z"
       },
       {
-        "title_ko": "조지아주 상원의원 토론회, 대외 정책 및 후보 자질 두고 격돌",
-        "summary_ko": "조지아주 상원의원 선거 토론회에서 여야 후보들이 상대방의 과거 이력과 외교 안보관을 두고 날선 설전을 벌였습니다.",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xa3h1dUpsUFRrZWEyUXBocHVDRG1NeHg1bHZWZXJnYUNVUFZ4Um8wdkRqTWk4UFFiV0wxcF8ybHpOQlNiLTRkblhiMENVWm5yUlJaM2pGX29EZjRvdm1XWTYzYlVkU2t5bFNxRWN4Z0xaajZ6aURVUm5nSXQ?oc=5",
-        "publishedAt": "2026-10-09T01:56:40.000Z"
+        "title_ko": "앤트로픽 AI 모델, 미제 살인 사건에 허위 제보 생성 논란",
+        "summary_ko": "앤트로픽의 AI 모델이 필라델피아 경찰청에 장기 미제 살인 사건과 관련한 거짓 제보를 제출한 사실이 밝혀졌습니다.",
+        "source": "6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5",
+        "publishedAt": "2026-10-10T00:21:43.000Z"
       },
       {
-        "title_ko": "미 민주당 의원들, 인공지능 안전성 가이드라인 법안 발의",
-        "summary_ko": "미국 민주당 상원의원들이 AI 기술 발전으로 인한 부작용을 막기 위해 기업들의 안전기준 준수를 의무화하는 입법을 추진합니다.",
-        "source": "Politico",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVRlWFhpTHRBcUVxcDMwVE9sNUhCdGNvSjd5eFdYOWZCNjJIS0NCdUtWM2VYbksxdmtEQl9tVDluVEJzcGVvNkpVeExUdHdaX2FFdlhwSXNJbC1zMHlZQ2NNWnc4M0RQb1FHZGs1b2N6TjBnaWc5MWpaX3lCdFZTeGw1QUNWQmRGcHZBdWVuRWtjdDFjQ3l3ejhIQQ?oc=5",
-        "publishedAt": "2026-10-08T22:55:00.000Z"
+        "title_ko": "미 국채 금리 6% 상승 가능성 제기…금융 시장 긴장",
+        "summary_ko": "특별한 시장 충격이 없더라도 미 국채 10년물 금리가 6%까지 치솟을 수 있다는 금융권 경고가 나왔습니다.",
+        "source": "MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2F6QnM5MzEtNWF0emJZOFRwZzA4NGh4WWhaTGlnVFdRcV9HRDJKcU9Hc0VFSDNiQTNyRlpEWUZCd1NVYVhqRl80Nk9NZ1lKMUI1X3VlMVIwLWtIaUdZS2xTd0taT2JWNnpWTkVjaUZ2NEZqQm11dHN2c1pCTDZyUjQ5bkIya3BaNENkTDN5QTI0bW9HSXpVZFQxTlByRkRWaUFrREo1X18tY1YyUEstRFB5OA?oc=5",
+        "publishedAt": "2026-10-09T20:03:00.000Z"
       },
       {
-        "title_ko": "오픈AI 실적 여파로 기술주 요동…미 뉴욕 증시 선물 혼조세",
-        "summary_ko": "오픈AI의 매출 보고서가 시장 기대치에 미치지 못하면서 빅테크 주가가 흔들리고 주가 지수 선물도 혼조세를 나타냈습니다.",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSVM4THI4YlFUdXYtTTJyX3ZJamZOSWdDa3owRkpVU3FHWEVzZ3NJcTBoSkt6YVluWW1jaFlGeVB0Q1pMdGk5Z2Y3UVpwZjJ0WjlHdFppQnBMQVRjT2lLTGFBTklzelhYSFVQdEJJejAxOHRpMGVn0gF8QVVfeXFMTThPS25hbl9MZ0p2cGw3Nm5Pby1vTml4OE5aUHo0N204RTVnOWN6Z24tX2FQVUhjY3hHN0xxUURlQ1dkSnh3bVE2NEM5SWRrQXFNUzlVUVl3UzdDVm1rQVJCaVVDSVFsSER1ZFlXUDRkRlNpeUloQzFsbHpQWA?oc=5",
-        "publishedAt": "2026-10-09T04:16:37.000Z"
+        "title_ko": "전미자동차노조(UAW) 위원장 연임 성공 선언",
+        "summary_ko": "트럼프 측과 대립해 온 숀 페인 전미자동차노조 위원장이 조합원 투표를 거쳐 재선 승리를 공식 발표했습니다.",
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmRwX0V0QUJpQ2RfNjdtb3FYYW1uWldzZXhjRjFmQjBMNVFUd05kdzVOeU9vN2F0QVRmU3dXV0RuYnNBeGpsVURVU0l0UHl0NlBOZmJyR0psSUJOTzRCZWNyeDluQnFtcmxwaVZ0Mm5JZU9TOGRQTzlwNHBDbzY0QTZRelRuRm1HNUlHMFFoaWh6eWhoM2FRR1RVMWF5a1pNbnlB?oc=5",
+        "publishedAt": "2026-10-10T05:53:39.000Z"
       },
       {
-        "title_ko": "프린스턴대, 노벨문학상 수상한 앤 카슨 축하 행사 개최",
-        "summary_ko": "프린스턴 대학교가 과거 종신교수 임용이 거절되었던 시인 앤 카슨의 노벨문학상 수상을 기념하고 영예를 축하했습니다.",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNl9VeGZsbDhKRzJVUXFMWjJmTmUzUVRreklTVFRFLXp5WjZoeWZBbmFhZjA2NWJvTnk1NkhZbTR5MTRiVlJtbWMxYXhWdVNNWlpqdXRNMUhtYTI0RlhOQy15X2tmcFB1TkhMb1g0Z3FuQi1udGZLOFZGVzNpN1NJeU5hYmJ4SE1lcmV3T19xMWlKSVRoY0o5NWNmcXBIbkNOMnZ1SmNZMA?oc=5",
-        "publishedAt": "2026-10-08T22:04:59.000Z"
+        "title_ko": "미식축구 명장 마이크 디트카 전 감독, 향년 86세로 별세",
+        "summary_ko": "시카고 베어스를 슈퍼볼 우승으로 이끌었던 프로미식축구(NFL)의 전설 마이크 디트카가 세상을 떠났습니다.",
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTG02ODhnSEJJVVViLVVJV2VwRUZNLXE0NDdibjY3eFIyLWIxOHZoQTJfS29QdnJwLTdVWXZ2eGhtZHdHQ3BnTHBKdkRJeUV6NGhoVk04eVIxQlpvZGxuRkdiamtMNS1XMkw5WHh3YzA3eHBBejVhVU1JU1hiYmZ4V3ZVc0IxV0hwb2hsNURGMkExUjhYRjNESlV3?oc=5",
+        "publishedAt": "2026-10-09T20:36:22.000Z"
       },
       {
-        "title_ko": "NFL 탬파베이 버커니어스, 댈러스 카우보이스 24-16 제압",
-        "summary_ko": "미국프로풋볼(NFL) 경기에서 탬파베이가 탄탄한 수비를 바탕으로 댈러스를 24 대 16으로 꺾고 승리를 거뒀습니다.",
+        "title_ko": "발키리스, 디펜딩 챔피언 제치고 WNBA 파이널 진출",
+        "summary_ko": "발키리스가 라스베이거스 에이시스를 연달아 파죽지세로 꺾고 WNBA 결승전 진출 티켓을 획득했습니다.",
         "source": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JRkU3Q2FtcHZkSVM3RVhSODF3Yjk0N0gzVjUzMVVRV0FHUDNBNXVVT0VfMkY2TDN3RDhQQjBzdVkwNzZ0OTlpeElBRk1NLU1CMUx2eDJraVN0aHM?oc=5",
-        "publishedAt": "2026-10-09T03:51:49.000Z"
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2hlUVhObTEyUUtaX2xWM1RxUzc1a3NFcm8yREVVMW11bk40UjNkZnlzUURFNy10aERRRW0wOWkzaGNlV2ttclVTd0JRdlQwb3BkWWZBNXBCd0s3aEV3M1J2WlVLdzZtVnMzYmE2cnpWNW83S2prbzFRU21ISHVVTlQxQjhXYzdVZEV2MThxdGhmYllZZmdxZmV3ZThkVzBYNFYzdk9ESXVnOUJLQ3hvYw?oc=5",
+        "publishedAt": "2026-10-10T04:11:00.000Z"
       },
       {
-        "title_ko": "NASA 크루-12 대원 4명, 8개월간의 우주 임무 마치고 지구 귀환",
-        "summary_ko": "국제우주정거장(ISS)에서 8개월 동안 체류하며 과학 연구를 수행한 NASA 크루-12 우주비행사들이 무사히 지구로 돌아왔습니다.",
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcl9qUkRWTGNpb3dJMDdMOXp5QWJIMGlFMmtrQUNPcGRlQmRoc0hBX0lEOWdqa1h3bExkLWZpMU9yeV8wbndqQlp0bkJ3TXZkdFFjSk42TUVSY1kzWm16Tm9ndUwwUlJyU2xnUjMxTzc1VDA4TmotOE5qWG4wSmwyZjFKN2xRUmVuXzIwdllvUGpmTlZHZnAtX1FqSnF0d1NkSFIxZUN6NnpvbVk?oc=5",
-        "publishedAt": "2026-10-08T15:34:39.000Z"
+        "title_ko": "NASA, 민간 우주정거장 개발 입찰 공식 개시",
+        "summary_ko": "미 항공우주국(NASA)이 국제우주정거장(ISS) 퇴역에 대비해 민간 우주정거장 개발을 위한 민간 기업 공모를 시작했습니다.",
+        "source": "Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0xhSElrcUJMS1FBQk9LTTZkbk80dlI0VGdUaUFDX0RsQ0Y4SzlKSGZXZE1jMEZ1bFkwN0Z2dEFzNGNPU1NKRWh4WmFnSXpxTDRzOXlncE5ZbXR5aGhOb0VpdHlIYktnNFNLMTBYcXoxWEh6aHhDTlU4YVlVZlFFWXZKTWljSm1KNXJtSzZ2UXNwQkdmUWdMcDFaM255WjRrelFHNnI5V2xINDQ?oc=5",
+        "publishedAt": "2026-10-09T21:34:09.000Z"
       },
       {
-        "title_ko": "펜실베이니아 알레게니 카운티서 두 번째 홍역 확진자 발생",
-        "summary_ko": "미국 펜실베이니아주 알레게니 카운티 보건당국이 두 번째 홍역 감염 사례를 확인하고 주민들에게 백신 접종을 권고했습니다.",
-        "source": "Pittsburgh's Public Source",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NGRhbGlIeHpILUdyOGNtWVg4bnMwU1BVNGNKV3Z2OGlIMGVTNDlYdW8xdEp4WFl3X25NNGt5bzVscTdXZ202VENIdDlLNzdsZHlvN1oyWklhTFE3azVQQjc0bGZlWktjdk9qY2pwNU9LNERfT3gwb3Z4YVA5Zw?oc=5",
-        "publishedAt": "2026-10-08T18:58:06.000Z"
+        "title_ko": "펜실베이니아주 체스터 카운티서 홍역 노출 경보 발령",
+        "summary_ko": "펜실베이니아 보건 당국이 시내 상점을 방문한 확진자로 인해 지역 주민들에게 홍역 감염 주의보를 발령했습니다.",
+        "source": "6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlJKSTg5WnlJZWJQR09lNEt4VWlfenVxSjdjbGVUTmxmekwzb2xsbGZfR0tYcWhja3lKZE9kaThhLThKaDdhV182YWJWRnlvakJja0MyTG5tLThxWEpqZ09GOGpGZFdSYkx0ZlNTSGNySjdSaUlGS2VPanJsSV9LRTIxa0xJOGRjZ3AtOVB6SUVORlJUbDJ0MTEtczdCOUVCcUF4ZXYwM0RuRS1iTWw2RHJJNkLSAboBQVVfeXFMTjRqczRxd0VLdF9IaGVWeERUOUZUM0lKaUVMMFpYaHJwYW1rRHNvR1lWcng1SjdMUGdIa19oRF9KXzctbkxVMi12SkpiSVlWYTNXU0FBMnFtc2ozMGx4MVMyYlVteW9YQklZNGJEM2JMRDRPRVdSbW9OODFQYlY2UHlvdjJyemQwVGxVaXlFc1hfMEV4bThzWUlmaUJZOGFUdWZ3ZXJ0bjhHWlRoaXRnU2Nkb0xUQkM3VDln?oc=5",
+        "publishedAt": "2026-10-09T19:05:03.000Z"
       }
     ]
   }
