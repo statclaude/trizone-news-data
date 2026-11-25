@@ -2,257 +2,217 @@
 
 ## 한국 (주요 뉴스)
 
-- **전국법관대표회의, 조희대 대법원장 탄핵 추진 안건 논란** — 경향신문 (2026-11-25T06:37:00.000Z)
-  여야 간 사법부 탄핵소추안 발의를 둘러싸고 법관들이 회의를 개최하며 입장을 정리하고 있습니다.
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dEhieGE1R0NXVVNPNHA5c2RfNWgyYVFwVTlaR25PbnRvRk5fOWNXUFpHSUJFS0NYNFp1THJPNS1jclRBZExSZENuMWNSTHFfZ2Zsbkp6aWJOZ9IBX0FVX3lxTE5zdXdwWGF3SnR6TjAxZEw1YWx4RzUzM1BYZGlsRDQ3QzNxQVY1VHNrXzI4SjRFbzlhTF80Z1dFWml0WlFsZTYzbEd1NXo5WVBKMWpJTTV2TFpTQjdPclRR?oc=5
-
-- **이용철 검찰총장 후보자 청문회 마무리… 검찰 수장 공석 해소 기대** — 뉴스핌 (2026-11-25T04:31:00.000Z)
-  장기간 이어진 검찰총장 부재 사태를 끝내기 위한 국회 인사청문회가 절차를 마쳤습니다.
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHYVVqdGxUdzZTOVZaRmhUOF96dFg0SjMtUGpidWpzYWtjYUFPLU5GS2d4TXdnWVZzbmktNnBTRW1rUHZhb01QUEVBTHktWThJUUVrVzZSbFpNYmFt?oc=5
-
-- **중소기업 80%, '정년 연장'보다 '퇴직 후 재고용' 선호** — 경향신문 (2026-11-25T06:44:00.000Z)
-  고령화 사회 노동 정책과 관련해 중소기업 현장에서는 신규 채용 부담 완화를 위한 재고용 방식을 원하고 있습니다.
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlUmpYVHpTMkR0N0p4WDBiVmVXNzNsaE56d1NNcFAxd1Yzd2Y2Unc1RGJTYXpmUUF0dUNMNzBMcVB6Q3JZcm1QaUxCNEZoeXhLZXFMM1Zycl9xQdIBX0FVX3lxTFBVS1RrZW4wLVJJV1hwcnBiZEdDV2dDc1dDMFRrRlhGX21OQWI2UDlqOGxoMnhnV3lUZGMwdHRJYXJ0R1BneTBwQ1N3enNEU2RiM2ZQM3pTcFBMS0J2Y3c0?oc=5
-
-- **이 대통령 "공공임대주택, 중산층도 살고 싶은 주거 사다리 돼야"** — 연합인포맥스 (2026-11-25T08:14:16.000Z)
-  정부가 공적 주택의 품질을 높여 서민과 중산층의 주거 안정을 도모하겠다는 구상을 밝혔습니다.
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE9DR2V1N2VDYkx3aVlqQk5XN1lGSGJKOVlVNGdFZ3BmNFN3cXJuVlphTldLM1JiRzdzYS1FUHgtZFFvak8xRi00ZTFJNGVNdXp2Sk56Z1pNYU51VllhNW8xSDUzVG1ZMTllRG9SbEZGS1I?oc=5
-
-- **대학 시험 내 AI 부정행위 7년간 143건 적발… 대책 마련 시급** — MBC 뉴스 (2026-11-25T07:01:15.000Z)
-  생성형 AI 기술 발전으로 대학 내 평가 공정성 침해 사례가 늘자 당국이 가이드라인 마련에 착수했습니다.
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE55TTlGUDM1UzkweU40T28xMThTRFAyWndpYm4wTTNsNlR5amxMUFhqVXE3Rkoxd1NlTDBLa2xNNGhHY0xxMVpxaXVsTWFqQ1NBVEVqZVA1eFdOMVY2Mnd4QnFvMXVsb05xRE1PTXBEblBXVF9wb3FWZtIBeEFVX3lxTE9lbXJaYTNQZW55aVJPcWVvdnRzcm0yaHFMT0ZTNW5Bc3JqaVZpY1BPclhqcC1YSUZ0WDdNUjZtVllQVzZONUNRNERveGR3UWxObUdleVZrY3k2Ni1QWDJvSjFSOWQ3ek1SeVJGQ3ppQ0tDU2xseVpwYg?oc=5
-
-- **코스피 5%대 급락… 매도 사이드카 발동하며 5천 선 하락** — MBC 뉴스 (2026-11-25T00:16:51.000Z)
-  글로벌 경기 불확실성과 반도체주 약세로 국내 증시가 큰 폭의 내림세를 기록했습니다.
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9FM1ZuTU9DM0xPMEkwX1k5Y1k4Mmg5SHJMSm9iWnJxcDJxSmhWVWJBSllKcGcxVEQtVHVGOVd5N3pUVngzRnJGeWIwWXNDdUFBQXR6aXdtd2FmZ0tqRGZyM3NwbjlsYktYQWtXZEw2dGVPelpT0gF0QVVfeXFMTkpYZURlc2g5RHNka3NiWUhqSFlQZDBKUjI5N2owYmFQTTdEOFcxQ2QzVS1JX1RoSDRiUm5sSDBVUUc5cEdGOGV0TURHQ3ZWR1lFWlR1ZEhxR0c1cUtmNjNhUjEyVmVEVnNuVVhZdlVpZHh2M2E?oc=5
-
-- **홈플러스, 27일부터 전국 점포 전면 휴업 및 M&A 추진** — 머니투데이 (2026-11-25T07:05:56.000Z)
-  자금난을 겪고 있는 대형마트 홈플러스가 영업 중단을 선언하고 매각 절차를 본격화합니다.
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdm91Z3VYOUw2RXp0QnBZakhDVEtBWEJfZmc5WkxuTExDQllnc3VWY1lMbnNCM1ZpU3Q3Yk1OaHVhR0pKVmtFZ0YxeTh1SHQ0RmZNRVl0M1dKNHplaGtUZU5YYzBhdzdKRVHSAW9BVV95cUxNUUdkeXF5YU1EX203WGo3aG9PYmIyVG03TkdqeklRZVdGY1NRQnlNSkJiUEt2dmFUZi14dGtuVVdOOEhZeElaUjByTVIzOFZGZ2NNYk02cDBxS1BYRk5Ra21hcm9IS0Z2ZFY1R2VXWDg?oc=5
-
-- **한국 남자 테니스, 66년 만에 데이비스컵 8강 진출 쾌거** — 조선일보 (2026-11-25T03:39:32.000Z)
-  국가대표 테니스팀이 세계 수준의 강호들을 제치고 사상 처음으로 데이비스컵 결선 토너먼트에 올랐습니다.
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFYR0ZVWXh5U1VSbW8zZG9fQVpNWWFJXzVMemx0clhIdnNzZVZyYkdTdlZGUTRScVhJTFh4cDZBMGtCemJzZlhCcDBneE9QOVp5MWVtQW5WV2hfNGFzQ2Q3UmptNU5LOFUtV0ZhT3pxckxNb1VESkVraHFUQWlrLU9FcTdwYzZId0lJ?oc=5
-
-- **비만치료제 복용 시 체중 감량분의 25%가 근육… 근손실 주의 당부** — 의사신문 (2026-11-25T06:57:37.000Z)
-  인기 비만약 투여 시 단순 지방 감량 외에 근육량 감소 부작용이 동반될 수 있어 운동 병행이 권장됩니다.
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBFbm9VazltdkRKWnR0N2hqVl92OTQ2SWg5LWgwc05RcXBIc1BSeHZuR0lFU3ZETEx3ZXpsYUN0WnFQMlVGRHlKR3Z0RFc3VnJMWGVaVlRUMkxYeUVvak94NVhPMktORFQ0b05wTGNBZw?oc=5
-
-- **GTA6 해킹 유출본 이용한 AI 불법 복제품 3,000여 건 차단** — 뉴스1 (2026-11-25T01:27:53.000Z)
-  대작 게임의 유출 데이터를 활용해 사기성 해적판 프로그램을 유포하려던 사이트들이 대거 제재를 받았습니다.
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcE9rUVVoYUdUWHBNcHc1TGRiZVpUNnZocTdYeWVKdUpXY1cyTnpkTWZKXzdjT0JoY3NLX2dpN1JRdUNsY0o2TDBmMnZhelFtRlJRdy1Tb241Xy1QbXdxMw?oc=5
-
 ## 별내 (지역 뉴스)
 
-- **서울지하철 임단협 극적 타결… 파업 철회로 출근길 정상 운행** — 연합뉴스 (2026-11-24T20:15:28.000Z)
-  서울교통공사 노사가 막판 협상에서 합의를 이끌어내며 파업을 철회해 출근길 교통 대란을 피했습니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxeGRZSUFLQU1UUXEydTFKWTh1TWMyWjI1dzNVTlZvZjVyem0zZDQ5dkQ5OGR0S2R3LTFkM1VmUjd3Y0w4M1lFQjZGQmJyTnlsSFBhaEZiRzlYUE3SAWBBVV95cUxOUWZQM0xLQWhvd2xsZFZ5TlU1QUstRDY0RHh6OFJ4Mm93aV9iSzdid2tSMTZhYlpRNUl1LWJ4ek83VmpweHE4OTV0anVSZWtlREVMblpoWk5pR0x1Nm54ZzM?oc=5
+- **서울지하철 노사 임단협 극적 타결…출근길 대란 피했다** — MBC 뉴스 (2026-11-25T00:31:54.000Z)
+  서울지하철 노사가 밤샘 협상 끝에 극적으로 임단협에 합의하면서 우려되었던 지하철 파업과 출근길 교통 대란이 모면되었습니다.
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE5IbHYyQWJISWV6YU13SW9nSWtFZ1NnS3NPQ21qeV9BQkxVQTRmRkhzYTBOT2JMaW1mcWNyTW02c0QyY2hFelhNVmd4U0QyUzdMaWdHME4zZnNKTmpzVWFVSTRrMy1aZlYxM3ljMXphZ2oyQlJXVXdz0gF3QVVfeXFMTzZwVms3a1VXWXQ5X3E4NjBtTGZjTEV3QVIwWWI5RXRzSm8xRmFNcEhTOFNmT2hNWFQ0aVVWMGtEbW52Vy1qWHdqSHl5QktrU1dzUXBQQjdTU2d5azhnVk5hTUZkTnBCbGs0eWhMTVpiWnBqNjlDcU0?oc=5
 
-- **서울시, 정비사업 권한 자치구 이양 법안에 반발** — 조선일보 (2026-11-25T08:16:55.000Z)
-  민주당의 도시정비법 개정안에 대해 서울시가 주택 공급 정책의 퇴행이라며 강하게 반발했습니다.
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkdZeFRtNjd4RFVieGZ4UmlfUy12b3ZuR2l2ZnJqWmNoWWstbzVwcjJfRnRSU1doaExhdlgwNGpiY3B3NGdaU191WVNRZHNNY1FFX19lSzdKNFZxXzc1UTVmQUh0V2RjLWtqR3ZRVlBBTEJVOU9VbVBFZXZNakFoeEFqY0pWVXh0Q192QW5OaVc?oc=5
+- **이 대통령 "서울 핵심지역 주택가격 하향 안정화 추진"** — 뉴시스 (2026-11-25T12:58:59.000Z)
+  이재명 대통령은 서울 핵심 지역의 집값을 하향 안정화하고 시장의 급격한 변동에 대비하겠다고 밝혔습니다.
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uNDd6NDBQekNhZkM2cUpfZnMyUWxVNWhxVE5HV2JramtQM0s1dzc4Y19Jel9Ham5HMHFRVTVaTjk0bGtRTm1EcG5LVEdOLXdxdEwzWlFpQ2FmZmdab24zLdIBeEFVX3lxTE5GREE4emFKZ1o0OFlMNmRzak54S1lETWF0dldtRmkzbUlvcXpoZzNpaDNSbGVxTmRGS2szek44b0NBUzY2UmZpOTdaMVAtWmR2ZEpiaVZZNkdCc1hGemhiZEN5eC12cFp6b2FIWmdZVXBPQWc0bzNfXw?oc=5
 
-- **서울윈터페스티벌 12월 11일 개막… 한강까지 무대 넓힌다** — KBS 뉴스 (2026-11-25T01:39:00.000Z)
-  서울 도심과 한강 일대에서 52일간 겨울 축제가 펼쳐지며 핀란드식 사우나 등 이색 체험도 제공됩니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cTZUY0U2RlBETEVwVTFSVWFnRlBwY3FITmdNYjBfbzF1RFRvOG9STk96QTJ3c0tpNmJ0VXV2NWNhZ09qdXJfMjBaNnBTRHQ1c2c1NGVDaU9IUW8?oc=5
+- **서울윈터페스티벌 내달 11일 개막…도심·한강서 겨울 축제** — 연합뉴스 (2026-11-25T01:00:02.000Z)
+  서울 도심과 한강 일대에서 52일간 펼쳐지는 대규모 겨울 축제 '서울윈터페스티벌'이 내달 11일 개막합니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fbW1oWHBxak1mbFFWZGN1c3ozeWdreDdFZEgtbUlQenhrdjlUalEtWEtlWVFMOTdDdW96RHVhY1VZZnVqbUs3Q1hOZXYteUl5c0p6Wlk0Zk40YU3SAWBBVV95cUxQejVqb0owbHEwTGZ3WkZpWW9TNmY3MkpLZjNpcmlHWFJGSHdtS2J5WXVydXRaN0hkWi0yR1dLNmFta3ltbkhJUkJWWmp5WUFiQU5vcHdtcEhoOGtDeE03OWc?oc=5
 
-- **서울 부동산 유입 주식·채권 자금 81% 급감** — 헤럴드경제 (2026-11-25T07:30:42.000Z)
-  주식 시장 하락과 대출 규제 여파로 서울 아파트 매수를 위한 증권 자금 유입이 대폭 감소했습니다.
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Mmo5Y3ktVXg4M2xZQjZIQmNfNXBaMGZLTVZQR1Jjb0lTbkJFdlhIQXZrVFhPc0t2SDIzRHNfMWhwbEgwXy1NZm5sOExSSHFZWmtBb21R?oc=5
+- **서울 강동구서 멧돼지 출몰…차량과 충돌 후 도주** — 노컷뉴스 (2026-11-25T14:44:51.000Z)
+  서울 강동구 초등학교 인근 주택가에 멧돼지가 출몰해 달리는 차량과 충돌한 뒤 도주하여 경찰과 지자체가 수색에 나섰습니다.
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PbnRUTi1Cd2x4d1R4eWxWWENJdENYSGdYVTMzbC0zZjhFcnMtbUk1Ylg0ZG9jYWhsRXZqOW1rSWhtMk92eWx2VEFfV1UydVp4SUE?oc=5
 
-- **서울 중등교사 임용시험, AI 커닝 막으려 앞치마 착용** — 연합뉴스 (2026-11-25T06:40:13.000Z)
-  서울시교육청이 부정행위 방지를 위해 수험생의 앞치마 착용과 열화상 탐지기 동원 등 철통 보안에 나섰습니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQTBlTkM1TVhfaHZOOVBJVGNJMTdOWV9STXY3OFJ2bW1YbXp6OVgwNlRqT2hfNU8yeVpjbVJYeHpiZFBqaUxacmU3azNIaXVSY2NWX1oza3BwazjSAWBBVV95cUxNWlh3M1REWDgxWTh4ZlZzLUt1V2JIX0gtTTdTTjd0dy1tMFpRYVJWM3lTVGdHZDRFcW5ydXYyek9HM0x5NlhObGdlajRHbTQ5S1dDQkdVYUw0LVhKMHBNR1Q?oc=5
+- **서울도시건축비엔날레 총감독에 이탈리아 출신 카를로 라티 선정** — 한겨레 (2026-11-25T08:52:00.000Z)
+  서울시가 차기 서울도시건축비엔날레 총감독으로 세계적인 건축가이자 도시계획가인 카를로 라티를 위촉했습니다.
+  https://news.google.com/rss/articles/CBMickFVX3lxTE45dWM5WkFLQS1JY1FkQ0NCS1JDSWw1X3hhSmJGd0JDTlVXOXhuSDh3S3dtV0pPSVBFTk1xNmo1VUdUSUkwT3NuWE45Yko3QXB1VE80OU5leVRvLVJkeVpMSWI5VVJKM0RzMDhCMXV1amg4QQ?oc=5
 
-- **서울 중구청, 연말 맞이 크리스마스트리 점등식 개최** — 연합뉴스 (2026-11-25T08:05:23.000Z)
-  연말연시를 맞아 서울 중구청 광장에 따뜻한 위로를 전하는 대형 크리스마스트리가 불을 밝혔습니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aXhzYmJ3eEZqczV2dXV5YXJrVjFqSjhhbnNnTzQxNWdQbG1GX1puUXJ4VzhERGtIa1BvVW1GQVRrakF3Q3Y5MnlNcHRBckExazV1My1Sd2ZwRWM?oc=5
+- **BTS RM도 반한 정물화가 전시, 서울 개최** — 한국경제 (2026-11-25T08:28:54.000Z)
+  방탄소년단 RM이 사랑하는 세계적인 정물화가의 작품들을 서울 전시를 통해 직접 만나볼 수 있게 되었습니다.
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczBJbG9WaENiS0hrejZZbnFuYm5GcjdhOFQwNFFLUDFTdlJEVGdDd3Z3VjA0ZnJ4alBHa2FmVFNFUHIzUGVQZ3VPYkpDc0RrM2F2bmRLajZRQQ?oc=5
 
-- **서울, 글로벌 AI 도시 평가 2년 연속 2위 차지** — 데일리스포츠한국 (2026-11-25T09:03:23.000Z)
-  서울시가 교육과 행정 분야의 강점을 바탕으로 세계 주요 AI 도시 평가에서 상위권을 유지했습니다.
-  https://news.google.com/rss/articles/CBMie0FVX3lxTFBfSDZwYVlBVXRoTUNRbGRTYWZnMlZPRnNycVFmblFjWnRNekhWLUUyLXdvb1liR2xWWTFManJHdTlZbzZoVjVicmJNdUxxV19vOUp2eTRFelZhMmd4REZQNnpYc3didDJGWVhxU0JsdjJKOG1QNHkzMVh1NNIBf0FVX3lxTE95TG5ubE43R0FsUnQ3ZGtOZkdIbHRDYnRXRWF5WnQ5ZUZCb3VuaXlKa1NJRGxpc2Y0TjZkdF85U1c3RmIwamNmdk4zR253ZXAxcHVVTGw1ZW1XSDU5ajRtOGJlLV9KbjRyclZFaE1fX3I4ajhMdE1VcE90SnlEN0k?oc=5
+- **서울시립과학관, 과자에 담긴 과학기술 특별기획전 개최** — 연합뉴스 (2026-11-25T21:00:08.000Z)
+  서울시립과학관이 일상 속 과자 제조 과정에 숨겨진 과학기술 원리를 탐구하는 특별 기획전시를 마련했습니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FX1FtLVlhN2JhdzNoX095WHNqc3ExN2h3TXRnbFl2M1g1Yi03RjlST1UyYTNWbDFobzZLZlU0RW1qU1RwNG5jdGI5X181ZVg1cmhVLTJwLXB1eEXSAWBBVV95cUxNRm5DWWxySjdTUGZlU250amt6Z0t0SGFPOHJlNDRnNXB2RFlsSlNYMW4tRm1vdEZ6VGZRaG1OS19ORlJMa0FENzBfZWpRa0lCOGJlUVhJbEtXcjZ6Z0hiVHM?oc=5
 
-- **성북천 야간 산책로, 서울의 대표 별빛 명소로 조성** — 서울특별시 (2026-11-24T17:40:00.000Z)
-  성북천 일대가 전통시장 및 야간 경관 개선을 통해 시민들의 야간 산책과 휴식 공간으로 탈바꿈합니다.
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ck1wQzdVRGVoVnJGV052RlVReWNSWVhYQ0hDTFB1VGhvM3pqb3RvNGkwY0xqYTlTekQ4Qm52SU8xMlcwNjFWOTBmX1pFNmdLX2FYNlduaVA?oc=5
+- **[날씨] 서울 한낮 16도 온화…동해안 건조주의보** — 연합뉴스TV (2026-11-25T08:31:00.000Z)
+  추위가 풀리면서 서울의 낮 기온이 16도까지 올라 포근하겠으나 동해안 지역은 건조한 날씨가 이어지겠습니다.
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtNEdON1BfTHV5Y0M0MUp3WWIzUEJ0QnlYWHdOLXVGdUpZYmVjUmlKeExoOGNvbnY4TGE4aTlPeVkxU0daQmgzcTlKZHRrMm5lNlhtb1QtSGZzU1VSb1RlZnJlUmZKNVU?oc=5
 
-- **서울역서 라이터 여러 개 쥔 남성 소동에 경찰 출동** — MBC 뉴스 (2026-11-24T21:36:45.000Z)
-  서울역 인근에서 위험 요소를 소지한 남성이 목격되어 경찰과 당국이 긴급 대응했습니다.
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE52UV9FWE4xZ1U4U1hxTzNIck1ZYS1ZblhNaXphNFpLa1dMRnoxQW9FZFNXdVlHemU4cXhNb1VDbmhjZ29GN3lpMTV2a0ZITTlkbkVBUllHRGR0UWpiZ2N1Mk1fVHVTSU82eFVqZXBQc2FqVWdadHpiellR0gF6QVVfeXFMT3l1ZU5seXZ4dDNIcGhIMDJnamtzVEhLampfZkxoSGlrQnlVTEppZUVvc1FpSDltbWxYVEtHVS1uVmJzOVBVcGNiMFJyd0prMmNqdDNOVlN2Smo1bUV2SE90a1lDRWxZeXJ1dV9fQm9ZRXlSaXRsdHJIV3c?oc=5
+- **서울신용보증재단, 소상공인 규제혁신 공로 대통령 표창 수상** — 뉴스1 (2026-11-25T21:00:00.000Z)
+  서울신용보증재단이 소상공인의 경영 부담을 완화하고 규제를 개선한 공로를 인정받아 대통령 표창을 받았습니다.
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SbkJCTTZYcDNZWkFEcDEzcWFsUlVBRGhzeFJGOVFsZEFaZEd4UnBCZHg5cURvNzRCQ29tUmtTQ0tuN0ZkTG1ZdVYwdTh0dlJWNFE?oc=5
 
-- **서울시 공공예식장 예약 폭증… 3년 새 7.5배 증가** — 머니투데이 (2026-11-25T05:00:00.000Z)
-  한옥과 공원 등 서울시가 제공하는 공공 결혼식장이 예비부부들에게 큰 인기를 끌고 있습니다.
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1yM2VodzhXMmE4eFlfdkFkTVFxNlI5T01td0JxcmRpeXZDZENOT3ZyaV8yZ3dXVGFmT1owLU1wTTVIaTJvb1dUR1pPQ3ppaHFoTWU3U0NKcnpTVTV4cFIzbVdzdzBNMHZQV3fSAW9BVV95cUxPY2tWSzN2YWgzMVA5WUdUcWJVTzg5dnZ4LU1EUC01SmNhWERIQm1JM2JBdld1OFdVSU81MTB4TjAwOHhpNEhnU09GX3M1ejJtVTFQNWFUeEJUZEdKMnlmM3ZRYlpFT09zOGF0MHlFd00?oc=5
+- **서울식물원, 중국 선전 선호식물원과 식물 보전 공동연구 협약** — 연합뉴스 (2026-11-25T21:00:07.000Z)
+  서울식물원이 중국 선전 선호식물원과 맞손을 잡고 멸종위기 식물 보전 및 공동 연구 사업을 추진합니다.
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xcHh6dl9abFhXQjJHMGxLTklLY0ttVmVaSURfQTdaYlFqOE9rNTh3bGpRcGFzcWJkWTNMYUZINTBSNGpVRGFvcTAwYzJBVVd2SFFoWVZhbkVDbzTSAWBBVV95cUxNNkdvQmJNdkRxRzFrWE9EU0tTRF83ajBnZjhGX3dsWVR0VkxsbDlDREQ4N2JWekZ0Q2MtZVQwLXdkUVB6VWsyRGVqR2Q3aVpEMldRSlRmNlFhVHpwU1Q5TzQ?oc=5
 
 ## 프랑스 (주요 뉴스)
 
-- **RN 본부 수색 시 검사 동석 논란… 달마냉 장관, 사법감찰 요청** — Le Monde.fr (2026-11-25T07:55:20.000Z)
-  야당 당사 수색 과정에서 제기된 절차상 공정성 문제에 대해 프랑스 내무장관이 조사 명령을 내렸습니다.
-  https://news.google.com/rss/articles/CBMitAJBVV95cUxOLW9qR3BaZnZpRDl5YTdnX0RTZ3JaQnpUdDhtUE41Slh6WWNlQjczRFZrdDYxcGt1Y3RrUUVmaWt6YjVray1IQm5ONzZnNlF0M0NRMGd5Skt3ckZVeWE2ZjRNcUN5NUFOLW5GTWRiRXpkQlo4STFYeWsyeUJFbG9CNkFQN0FaalBnZDdsSWdodEE1UGczbWNma1psVHpuY0U4Nm01N2JUWHFtVTQzaGdkUl90czBxNTZiX2plQnFQSngxelFObUZHUEdXZFUxcjlzLTBiVl9ZOE9kQzRLdzRzY3VYTjI4cTllTkVUOVFyWFFXQ0hNR0dsZDkybXNMRmFTLUxIQlgxVjZZT2VvSGRoaXFHM0xOYVB2d1V6T1d6SnVDdG1NOVlJLV9qbmpWNzZxSmkzYg?oc=5
+- **다비드 리스나르, 프랑스 시장연합회(AMF) 회장 재선** — Public Sénat (2026-11-25T12:38:03.000Z)
+  다비드 리스나르 칸 시장이 압도적인 표차로 프랑스 시장연합회 회장에 재선출되며 지방정부 목소리를 대변하게 되었습니다.
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXJ4UFdHNTAwUW5XMm9HV0NvQUQ4a2dRT2o0NlJleF9mVE1tem0weWpJa1N0WXhWbi1LWlpQYnhCaml1RXByTGNGcXJjbFhhOENrSWFheFRXNkJCbXhlekpfU19xTEtJTnZDM0pFVFJzUGtUREFoVzFYUVRUbkw1Rmh3LUt5TTdRTDR3VEthTDk4cFU3Z0t6Vk4zLWZCc2REdnRqLTc2eGxlZ01kODhrRFJtUFJxYVFnSEtjZERkdzdOQQ?oc=5
 
-- **에두아르 필립 전 총리, 2027 대선 관련 쟁점 토론 응하겠다 밝혀** — BFM (2026-11-24T23:00:27.000Z)
-  프랑스 여권의 차기 대권 주자로 거론되는 필립 전 총리가 범여권 통합 경선에는 반대 의사를 분명히 했습니다.
-  https://news.google.com/rss/articles/CBMivgJBVV95cUxPZTA4R2V5QjYtWmd5YmxQaU92LWhHVkNWQy1HUDltVDRDV2taanF5WDktRldELXozUkJ6V0R0UWFtTHRPU18xeEZTSlg2WjgtNm9yRmNMMzRrR3RHVWxPd3h5d2NjbGwtZ0taM19lajZPMnhlYzY0bWFWVzdsckdEQjlXOFFGS3dlRU9Ua05fRkFlNmlmSlV2SkVnUEZYdlYwVmU3cVZfQV9QcUktc1ZId0hOVVJpTHd1dVlFX2MyS25WN3VvWjhvUUIxQkctekZuVEZfSmxkZ0hhblRRNWZYeVgxV2RiTWJWMUlfNU1kT3RwUWtwWFJaMlV4LUg4UVp5aURwU3hrbXlyUWtkNzlBOUZ4TElfb2JqeHR4ck1uU2p6U2dxa1R1SHNta1lQVzUtcGhpMTBzYmlicWcxZXc?oc=5
+- **프랑스 상원, 2027년 예산안서 연금 수급자 과세안 가결** — Le Monde.fr (2026-11-25T11:28:09.000Z)
+  프랑스 상원이 국가 재정 적자 폭을 줄이기 위해 고소득 은퇴자들의 재정 기여도를 높이는 예산안 조항을 예상을 깨고 통과시켰습니다.
+  https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZmgwNWVoMlRhWU9fMl9WVWdLOE9JMGFUZWQxV0NGOW1fRkFyUU5FZmhXUHRaZ1ZVRjN0dzlaaXFaYjFFcHctdmlkbFFfOGxsWFlPMnYtV0d2T2xGdkZQWmtBMUp5eDY2a1BqLXpCa0pubEdYRjdnajliUWJwUGRoZmV1Y1lEUmNMdnludi1oeWFuT1UyS3pSLTFoTTNYelFzdFNKMURBYjhUNVNjZk5TTUVHdE81ZmJUSzFXODVzcGhvSVB6WHo3el9wQzUtN0RVNFJjaDlQTXhnWTVNOVVBRUpJRHRIUQ?oc=5
 
-- **프랑스 남부 해안가에 호우 경보… 지하 주차장 침수 주의 당부** — JeChange (2026-11-25T06:21:00.000Z)
-  과거 인명 피해가 발생했던 기습 집중호우 사례를 계기로 기상청이 주민들에게 철저한 방재 대책을 당부했습니다.
-  https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnQxNGdyVDZaSGg0c3JKYVp5bGxKR1NydVFpYUVxc3NrUnlaVHpiaVRuSjRCR2dHTGxja1pxSnFPQzBEeHpLWmFJU0JQQUJCSXdWdlA0TUIyTzVxUUNYNXpTakhwVzlCcjUtWDZwRkU1UWNTS2JQc3RDdUxOTEp3MWRYakRsVWJfSzVkWW1NQkRhSlE5bzB3dFMxMkYtU3AyMGtQVU1wZVlndGtTUnA4THRxZkpmNDJEWGRR?oc=5
+- **프랑스 내 여성 대상 폭력 심각…성범죄 통계 충격** — 20 Minutes (2026-11-25T09:47:00.000Z)
+  프랑스 당국이 발표한 최근 실태 조사에서 여성 살해 및 성폭력 범죄 수치가 여전히 심각한 수준인 것으로 나타났습니다.
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0otMktVOEtOb2lVMm9aLU1QVVNIRGNtTEM5TmhSME9PSlZ6QURzOUZEUnNlU1JXLXVEOTZPNVQxdUh3V0Nld1RMM084eUYzVEJ5WFVpX0dCOVNuNkhnczVnRFpUd2hNanplZnZ5bkNReUdyV2NYbHRlS20tTDRHYnlKYUF3Vy1Eekt5MXBGbVo2TlJxZWZnSVYwQm4tNUNIb3N2UmFRc21uaU5pZjdGY294RFl6dkVWLWt3cDNBaw?oc=5
 
-- **프랑스 교육부, 고교생 동맹휴업 시위 관련 분석 보고서 발표** — Le Monde.fr (2026-11-25T04:45:07.000Z)
-  전국적으로 확산된 학생 시위 사태를 수습하고 학업 정상화를 이루기 위한 종합 대책안이 제시되었습니다.
-  https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRVIyUDdER2tLamdBd3BHVjFSQzYwNHp1REtKZTJ5by1WbTVSbEFRTllGdm1URl9Xalo1Mjhud1BGMXloeGhXeXc3azZjUXpjWVVpVEVCRUFZdjBXN0RoSjBiVDRRV2h0V1liaE13U1Eyc3pPdXpPbGxVemN4b1lxWFdoSEYxbmpMX2lFbVpWQUFpWDJIT1FhZ3Z2VVhGQzRYcGpwWC10MzF3QnNBWDFLVEFSck8tdENEcExEdHFNZnJ4SjZlSk4xblMtbk9rbzd4eTFkdHE0cHQ2VGpfaW9DRzFWWHN2ZXRONXViV0ExUXJLSGdHekFYQUpaNnFBYVB3MHh4MGw4UUE0SlRHaXRMendGMnRDeUhPTzFUOWl3MklIODhiS1RxeFFIMHZzOHYzSk5QN0ZycG5GZk9RNjZWSW9tM3lhSUdwUGlLcTBjZVE5NHpXYkNr?oc=5
+- **프랑스산 파라세타몰 약값 내년 7월부터 인상** — Le Figaro (2026-11-25T13:37:19.000Z)
+  프랑스 국내 공장에서 생산되는 파라세타몰 성분 해열진통제의 가격이 자국 내 의약품 공급망 안정을 위해 내년 7월부터 인상됩니다.
+  https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnJaS1pRa3FmSkZTanlsbXZiRERIY3VqMnhrdWhNZ3A5al9MWUpmdjlxZGV0NVM3UW9Va2NCZURxcHQ5U1E2WGRkZ0lZRHc1ZWxQTTR0X1FmSFVlWGwwRTNMX0thZHNGZFdBYzV3X1EyWHR6TXQyc2xvNHZhbnBidkdsNHVpVGVpdEtjMzhadWFRWjc5Z3hsSS1VWktua2xwQ19UeUhzXzJYVXN4MGowUXdSWlJuWXpEV2dZVWhKeDc5X0phR0ZZX1V6UldjLWs1?oc=5
 
-- **프랑스 가족기부금고(CAF), 가정폭력 피해자 대상 긴급 지원금 지급** — Selectra (2026-11-25T05:32:14.000Z)
-  가정내 폭력 피해를 입은 여성들이 속히 자립할 수 있도록 신속한 현금 지원 절차가 마련되었습니다.
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUw2bWVNVi1INUJGRlpMdVFQb2Q2MXdna2pYbHBtYlFaWWU5RjNaNjEzd1o5QkpHY0JjMEpISUVDT3BZaW1DUUhYZ1BUUVJobzZ4WnM4WEQyTWc1WGpTQXpSSnYtWXZmUTQ1MzFIbjQ0MWo0VFQ2YkljY3V1QWk5Vm1rVTAzVkhHX3hZS3g4bFJkd0Z2RW5FOA?oc=5
+- **프랑스 남동부 지역 집중호우 및 기상 악화 주의보** — TF1 Info (2026-11-25T21:32:37.000Z)
+  프랑스 남동부 일대에 강한 비구름대가 지나면서 기상청이 침수 위험에 대비할 것을 당부했습니다.
+  https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHZKRkNkRE9PbU9XbzVTMVNscEJldUlhV0xHXzNVU25aVndiMHBmazJLM2RLSUFCSDh0MEdTUW1FY3Z1eG9od3hWZFU4RjQ4c3NiX0xIbU9NR3BkcTA2dTM4dnI3UFQwcEN1VUdFQ0dZX2lrMkdKZkc5S0Fscy1qcDZaQzFUQ3BhcVVIUWNqOXRzYnBicC1CZ0VyS3lVd2dLTUFNVlJ6ZEUtTDdhZUg3SEV5ekFrb1NTWWw2NkU3MExub0RON2VkRWpZa0JQdl82Ym4zZmhrc0xqUmk4UmFwSGNvZ0JVVlFhNU5EbVhRcEVna3c?oc=5
 
-- **미국 법원, 중국 화웨이에 기술 도용 혐의 유죄 판결** — BFM (2026-11-25T05:58:30.000Z)
-  미국 기업의 첨단 기술 유출 혐의로 재판에 넘겨진 화웨이가 유죄 판결을 받으며 기술 갈등이 심화되고 있습니다.
-  https://news.google.com/rss/articles/CBMijgNBVV95cUxQTVJTa3I0VXdYSmdOeVRyR0dGanBuVThZNHBoYXgyYkZsMVhNU1NtM1lPcEVOOWRtT3hqMHhFenBjLXdVX3c2T2ZmamlfaFE1SWpuUmp1MWVUVTBjNmJIR0FiXzZfRmxfSnRZYkZmdExrZTk0UjR5eHhLcUllV01qWVF4bjFnVXp6YUZxZUZ0azlyY004WXdCQ0tLemF4NVN3TGRoWTA5NEEycHljbFlEdERiLW5aSEpsdHNWaWxtRkFIWW50d1VBcldPSnpQNzNsVlVqYUZ1NE9reWZ5RG1zbk5NcjE0YjAxbmJPb2o1UmRkZWJOdDJWQW5LV195N3BoVmtyT051SWlDbVA2S2xpOGpvOTZPZWVTdXI3dmdQeGVaMjRyM3dmbWxhTDZXWHgtdktBNW5nZWpSYmhqclRqRmxDUW4xMENSdmxSLWliRzBqRzNuZVJVYTB0NTZQZFhNdFEyUG9uZllFa2xtMFBpVmRiVVkwMXd4SDVzeVk0T3FncTF1M0VnSmNhRjJGdw?oc=5
+- **프랑스 대형마트 앵테르마르셰, AI 기업 앤스트로픽과 맞손** — Les Echos (2026-11-25T17:00:09.000Z)
+  소비 위축에 대응하기 위해 유통 체인 앵테르마르셰가 생성형 AI 기술을 매장 운영과 물류 시스템 전반에 도입하기로 했습니다.
+  https://news.google.com/rss/articles/CBMilwJBVV95cUxNbWNWNmlZZmpHbFYyX19ldHRQVVAta1d4Tmx4QkRqTnRYZGlaWVVPWWpXMV9yWDJibld0cG13M2dyNkprMEs4NlBNdFdxV3ZLRkYwMHlwQ1dZczBfeFdCMWM2dzhSdEZQODc2eUdjN0diMEs2N2lZQnp2Q3EwN3QtMGlYa2ZaWjBUVFRnQ3BHTDBQQl9mYzJTOTFkNzE4TWxMN2hrWHVMUGctdG9wMWxPandSd3ZPaXJTaF83YkI5c2NtY3hsdWYzbU1rdDU2LTAzWUd6ZTRGVEJQelhYUXI3bnpoTVpCOWhqYXE5Z3BGXzNwZWpKcG8zQ2NIbnNCSjhkQ1RMbG5VQWpFVW81UXRoZEZJTHZfSTg?oc=5
 
-- **중국 전기차 BYD의 모젤 공장 설립, 프랑스 자동차 산업에 파장** — franceinfo (2026-11-25T07:08:24.000Z)
-  중국 자동차 업체의 현지 생산 시설 투자가 프랑스 완성차 업계에 미칠 영향에 관심이 쏠리고 있습니다.
-  https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHdBeEtPWThpcTBoSlc5RFJ3c3lRNS1JQVRpcG5sQ1RWNTlwdXZJWWJYVVQzYU9LUFc3VmpqY0JJS1dXZXloY3c0aWJaZVVkOUNKOHRWSmdsSXZ0QjQwdGJveU1ieGVIN1NSOUpBbUR3YUtWcWpKNTRYUE0wSmNlM2IxN1hyZzlRREhJSHczcUE5RURrY0tISUs0MlRQclF5cFppbk1IU2k3bUxnVlRfTlZCSE5Xcm1QcTFaaWNVcWpUY19vVk1ZY1hVdXZYWjhrNHZ5R0h0MU4?oc=5
+- **중국 전기차 BYD 프랑스 공장 설립 추진 논란** — Franceinfo (2026-11-25T15:00:02.000Z)
+  중국 최대 전기차 업체 BYD의 프랑스 현지 생산 공장 설립 유치를 두고 재계와 정가에서 산업 경쟁력과 고용 창출에 대한 논의가 뜨겁습니다.
+  https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDVLT3hmUU8zNWh2dlozZlVBZXhaOWRlM2lDWmUtbXBtTkhZa1lCd2VLbnlCbkdWd1RhaHdSeHFyWlduRFV0ZG1tcl9zQ3VLbmVHNWMtZ1RHaTZCc2dQQ08ySUdreEV6am51RzBIYlgteUljcy03UDNKb0NhQ3NDWWRLMUtNckdFY2FpMWtyRHRnMmFBNmE0MDJrTXVLV2VZaDVDeEwzREE3OURiT2FxN3N0dHQ4Q09oNWlTUzVqeVk4am90ejJBTjFXS2tLaGxJeWc?oc=5
 
-- **프랑스 직업훈련 보조금 15억 유로 부당 수령 적발** — Le Figaro (2026-11-25T06:51:36.000Z)
-  정부의 청년 고용 지원금을 허위로 수령한 부실 교육 기관과 기업들이 사정 당국에 대거 적발되었습니다.
-  https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlhhc3h2VTFjSnhGVjBJMmVCNEhXSjJQUHAwNjFoemJ0NkNtVHhkci05LW1nb1BDM1RibGVWQkowTUdDRWd5aFJPRVFXUTk0YlZzVkdCbG9zOXIyc2tfaXEzMmVUckhQYWFXZmFheXNTQnNOaEFQbEhnU1FnNDd3c0RJY0FfTWxPUWxtU3NhRWppbGE3SC1wdXdobkoxSEtBMElIeTVZSWNzaUNZcTdvQVhVMTB5ZURlYW1Vd2lHOEYtOG5vTTVTd1JQR1lDdDA1QlZRc2hoUW4ybU44MXhWZkw3dw?oc=5
+- **GTA 6 트레일러 덕에 샹송 가수 실비 바르탕 노래 40년 만에 역주행** — ladepeche.fr (2026-11-25T19:26:00.000Z)
+  세계적인 게임 GTA 6 트레일러에 삽입된 프랑스 전설의 가수 실비 바르탕의 40년 전 명곡이 글로벌 음원 차트에서 역주행 흥행을 일으키고 있습니다.
+  https://news.google.com/rss/articles/CBMigwJBVV95cUxPX3I5bG9SdjNIelg3NUl2M1gyTDJ6ZzJxT19jc3hXRk5aMVNPdGY4aEhMS2lZS0dmb2ZScm4wbUdvblpZRTloY1ZkZ1NlNzFyMWs3ekZlOXh2bEYwLUUybzluOHR0a0tjOVZ5dlZvNzQxZTJnRnRCTGhCZGxjUWxQd3B4eThDS3otZ2ZrMnBkQXRXbXBMVzlVYl9EZXRFWklSM285MjFvajRnMU5ZeTZqNGFlRy1OWE5LaVM3bFBkbjY4TWFuNlk3cG9xSXh0MVA2VkxaWlRMdnRLOUlpSk9tUS1GY3kxck9nRVNySlg2TkhiZWtqYVctb3pUV1FQZ3Q4QjJn?oc=5
 
-- **음바페 멀티골 활약… 레알 마드리드, 챔피언스리그 대승** — 20 Minutes (2026-11-25T07:40:00.000Z)
-  프랑스 국가대표 주장 킬리안 음바페가 눈부신 기량을 선보이며 팀의 유럽 무대 승리를 이끌었습니다.
-  https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkJrdmY1NzZESlAwaHliLXY0emxzM3JXUFZaMUVRT2RCaF9aRzd3VERELTQ5OWpObjNDazNXZjktQkxJel9EZHNCUVVVWWhmaFlKZVpGQ0dOZ3ZDNDExUGMtal9zY29WUWJVWmNMUkpGdHY0LXN3eHFiM1RFZlhySUotWkdIbE5RM0xHZk1uU2NpaEEyVmNDNHNQM3E1bzFMWDJZZkUzWmd1UWM2d2NEZkltbXRKM2ItWUw5UjNYNUVIQTdEWnJJRm1JMzB3RmVqTjdJ?oc=5
+- **프랑스 7개 권역 독감 유행 전 단계 진입** — 20 Minutes (2026-11-25T17:28:00.000Z)
+  겨울철에 접어들며 프랑스 본토 7개 지역의 독감 환자가 급증함에 따라 보건 당국이 유행 주의보를 발령했습니다.
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxQREhBMFJjMDBZLWRjaE1HZEMzUDBtRFFXbzluVFA5MXUyZzMzODlCUzBmbnVtQzRiNUgtSHJzVjk2b05ZLTZ0b3ZVMi1FSms3YWFzNXdTUWxUZDFRTHVwWXZwbnk2ZGVNZ25uTVlPRjVjOWF0QVpOMWxSdy1lbmxwa3lzWm41THFHNXA2X3RRRXRmblYxQW5fbmttZnVHZEYx?oc=5
 
-- **프랑스 연구진, 치매 원인의 45%는 교정 가능한 생활 습관 때문** — JeChange (2026-11-25T08:38:00.000Z)
-  청력 손실과 고콜레스테롤 등 생활 속 위험 요인을 관리할 경우 알츠하이머 발병률을 현저히 낮출 수 있다는 결과가 나왔습니다.
-  https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE9jNFhvb1VkNDJqSC1NSGR0N3JCVkhJc1p4WkdfQm1YMDhPVFlRTG9PbjBacTM4eUtUUDY1TlFWeTRxbzJZSlViVzRiRDlKLThHeVE4Q3pYOUx6YkFTRklxZDRMeEJZWmhjSUNuQ0ZzcTFzclJIbnlVZDFoRDBJZ1JlMlVPQlR1Z2NueTA3STJxRnRlWFZmaUdNODU3X01ZcWJBNC13SWJXSVBRSjRuSWh1YmJCUEYwbFdVT1A0TGItN0ZLTGQ4?oc=5
+- **프랑스 권위자 "췌장암 치료제 연구서 큰 성과 기대"** — Le Dauphiné Libéré (2026-11-25T19:18:50.000Z)
+  발병률이 급증하고 있는 췌장암 분야에서 최근 차세대 표적 치료제 개발로 의미 있는 임상 결과들이 나오고 있다고 프랑스 종양학회가 전했습니다.
+  https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5
 
 ## 파리 (지역 뉴스)
 
-- **파리 경찰, 라샤펠 지하철역 인근 미등록 이주민 캠프 철거** — Ouest-France (2026-11-25T09:23:26.000Z)
-  파리 2호선 라샤펠역 지하에 형성되었던 이주민 텐트촌이 경찰에 의해 철거 조치되었습니다.
-  https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYnJiOUpxSzdDbUZZRV9ubGUtYTh3YTZhdWFNY2N6OS1qWjg2cksxX0lPenpqUVFRbExKMl9lRTQ3YkJSX2h2YUpZQjFVYmxfUFBsVC00Mnp6V051c2tHZlQ1NUVFcmNoZVJJZVRWR0FZckNId2lTNkZMQWxoaHdNNTNLMjV3QnZGSTNfQXJZcW1YNUNtRk8zUnk0QWF2YUpuVzJnY1UwVFJyYmY5elg2NldXYkI1REc5NnVfMkVmaXZIeXhtS21IQV9VbzVoYnFJT2h4NnFIQVZsTHIzbXVHdmlWUWpvR1R5S2F2VUhjdFotSU5vQWQtdkM3UUtJSWt1VFJNRVFNbGREd256MkpCam52Y2xhVEEtX3FPancyLWxpclNmVzdueQ?oc=5
+- **PSG, AS로마와 2-2 무승부…챔피언스리그 무패 행진 춤칫** — Le Parisien (2026-11-25T22:06:07.000Z)
+  파리 생제르맹(PSG)이 홈에서 열린 UEFA 챔피언스리그 경기에서 AS로마와 2대 2로 비기며 승점 1점을 획득하는 데 그쳤습니다.
+  https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYkRHUEtmUXJ4TmdxZkgtRjc0Qk1CNmw3d3JDYzhPNmdoREk5ZnQtV3Jnclo5VDNmN2ZXWHZpWFNUMVQzODM1SV9TckZuU0h4VUYxSFo5eHhXd1Jfc202SU9FOXlYbVJoallSZGVFYkx5RU5mWTctSzAwbk9VN21QRkItTmQtWDJ2eHpCLU5CNGEzZERONmg0VVVITjVxaW90ei1TZHA1NkxrUV9WYzItR1N1NmpIR0RBZEszd2lLWmFuVU1NN194YV9zc3NQTjRBMGtXbURJZU0?oc=5
 
-- **파리 증시 CAC40 지수, 유가 하락과 미국 인플레 주시하며 상승** — France 24 (2026-11-25T09:17:27.000Z)
-  국제 유가 안정과 미국 경제 지표 발표를 앞두고 파리 증시가 상승세를 보이고 있습니다.
-  https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXU3Zkt2SnBMMHhNSXIwYXpXbl81R1FUQUFWMExtUGRTN0stTVlZZ3h0UGMyNDJ5dEhaT0ZoSnMzcFNNQ2pUb1N3eHVXYnZOdk91cFlFWjRLV0Y1Q195TWJPTkNaTVVfaWRmeGh1YWFJWWJTQWFId2NnRG5XVW5NbVU2SzdBNWxaZnY5LVBVZVJqQnN2Ukl2OURJT3d2Vm9NU2tYWHlJcWlZXzdpNjJrd25xX0d6Nko1eE1MQWdXVGxhSmlIUk1EZTI5VUJsdmJ5?oc=5
+- **파리 생마르탱 대로서 폭발물 다루던 남성 손 부상** — Le Figaro (2026-11-25T18:52:39.000Z)
+  파리 시내 한복판에서 폭죽 관련 폭발물을 조작하던 남성의 손이 중상을 입는 사고가 발생해 경찰 조사가 진행 중입니다.
+  https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUd6Y2FTeVNSdlRndGwwNjJUMktyRXA2TkotUXlrai1fWmFqM0NrN3AyWG92cW92dXJiYV9TUFJSSGZDbkNRcmJ1a1dtNFAyUW5ONV84bGY4NG1IanEzQmVaTlZ3SnhpVFVkbk9fZThRcVYyYi1fYVlrZ1RUWEF0V3kyY0E0d3lDNWlZQkxWUzlwTUR0WElNR2lDYWo0aXBEejFabjlCVUY0S0RJN1phQ3daOUNPWV9HN19SZmpWWks1WVd3MFR4QVNlQ1ZlaWk4?oc=5
 
-- **파리시, 불필요한 도로 방향 표지판 2천 개 철거 추진** — Libération (2026-11-25T06:55:00.000Z)
-  보행자 중심 환경 조성을 위해 파리시가 오랫동안 방치된 차량용 도로 표지판들을 정리하기로 했습니다.
-  https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRGJrWmdkU1B6Uk0yeTNieGtQc3JPa2tpdEpwNmw3bGdtaDFCb2NEazdybE5NN3F0VGtZM2JzQmd3dE1Pc0ZkNGJSWkt6bnZ2SzY2Y2p3MjN3UWs3Y2NMZ1NnU2trZVpuZDM3QjhmRjBxbER2YUpXY3VvaUp6Qnl3cFpfck5rODFqQ1dMbkwycVNobFBqMFBfN19kSXhYTmNjSWl4akhqZ0xCWU5rQ0RqSlI4eWxiV2RxbENTQnA4b0tkYmdBekhGS2RsWkl1MHREU3pibmxlbTNvTHpnTHEw?oc=5
+- **파리 지상철 2호선 아래 마지막 대규모 이주민 캠프 철거** — Le Monde.fr (2026-11-25T14:46:30.000Z)
+  파리 라샤펠역 인근 교각 밑에 형성되어 있던 불법 이주민 텐트 촌이 당국에 의해 전격 철거되었습니다.
+  https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdFZGMXQ0SmswSnFtWVNMcjVFWnkyU1hfSnJRd2IweGZ6ZmQ1MEs2dDJtQmRIM3NncjZrVTNCWXV0SF9CMk1fQVZzUmh5d0YyUzh4R1dTZWdwUDR1cXVTY1haVE5vSzJFZUpCaVRVdGR3RXRmblNTbHlXZzRfNndFbXVKV0FCU2w2NFBIcjBBUFB1YnhUVEFJelFRU1Q2OENvWUNvVm5vZjhJOVRHUkdScmMtdW9paWltamk2Mm4yUEZTT3Z4WkdNeHZXWUJUMXBieGhTLS1FT1hCRHo2clR5Z29lbWtTcFNrSHhHNVJPZDlOUDdjLWc?oc=5
 
-- **유로스타 예고 없는 파업으로 파리-런던 구간 운행 차질** — Le Parisien (2026-11-25T09:17:14.000Z)
-  갑작스러운 노조 파업으로 파리와 런던을 잇는 고속열차 상당수가 취소되어 승객들이 불편을 겪었습니다.
-  https://news.google.com/rss/articles/CBMiigJBVV95cUxObUhQNjBiRXRGb0w0M19YR2N6LUZGbVFzMkJfdWNHM2dBVGZ0OXhjYkxjSWdpdEppWUw3eWxOQWhvUHU4anlVLUJIZGRJeHRoQXhnM1A1eU9QUmVvWGdJTTdYczNxdHFxMUlzb0FMVWl6LU1VR25LbnIwNFN2b0p0eGI3SGpLaW02aGtqNTJZRXE0NXlKdTh1cUZXUU1rTVNiblhLaTFaWXh1aTRlY1NIdzlxdENSZk9pTU9YRk5zTGxEbDlEczZJZzNzRVVDN2JkSHJUUkEzMlh3SmFqRHRTcFpXNGxzMUlhcXVjOEptcmlLWExubWgzSzB5ZDNzU09jQzIzRVZtRDV2UQ?oc=5
+- **유로스타 기습 파업으로 파리-런던 구간 열차 대거 취소** — Franceinfo (2026-11-25T09:45:41.000Z)
+  예고 없는 기습 파업으로 인해 파리와 런던을 잇는 고속열차 유로스타 운행이 차질을 빚으며 승객들이 큰 불편을 겪었습니다.
+  https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR3lFeFluQ2pMMUJXZDYyQTdoZmNtejA3ZHpxaFp1a1k5Y0I5dDRBWnVKQlY0YzB4d1RfYWRmaWZCLUV5dnNaamJ4b29FN2Q0eUFGQ2ZnV3d3eklHOXpucDg4MHl6MnpDOHl0T3FlNFN6ZGNKam9CODFvSlNORVRRQlQ2QmhNckJmM0pqUy15cVBqUGR4Z1lHRWNzQ1BzTWRLV2FIaU8yT1NyOEY4SHllamUyX0pXUzV0QVNPTUZrQ1VKU2ZRXzVpaFJuYVpyMWhTZjE3UHJFQXI1UzNWU3lyZk5FazhLY2RXSmlKX2VYSkdzb00?oc=5
 
-- **PSG, AS로마와 챔피언스리그 맞대결… 16강 직행 타진** — Le Parisien (2026-11-25T05:50:00.000Z)
-  파리 생제르맹이 유럽챔피언스리그 조별리그 승리를 통해 토너먼트 진출 확정을 노립니다.
-  https://news.google.com/rss/articles/CBMizAJBVV95cUxOM25yT1h1T0ZXby01VndhR2ZEY1BHandhNXJwOWtOWU8wWlFVTEJ3SnBhVjVNaTdWMnFDR2o2MWhIQjFfWV9nYy1SaVNCb1V4S1cwWl9IR0Z4Y0RieFlGeGJZZkpaZWZhQmdON01Ba096bUZ3QmN6cE1qbDU4eDdneldBaGtOem12UVR3dlRkb0pKdHJzVnNhRWZvX3IzcW9nM2Y0YkFGS0lUUDRURnYwczYyeHlsNlpKLTJacUtyRHM0eHdDUHBxT0pHbUlvdDdGNWdjUjB5S1Z0a3Q4VlhIZncycWdjbDlnV2NKSV9vbUNUWXg2ZVZKQ0xuejN5QnNlbV80MUJMUGlRb1c1MDk1OEVxSUc3cWRicHNHZXQzTHJLNjdfWVJaXzZva1p2UXppZEpsSl9NMU1QNy1JdnJKd1JlNllkdXVXaTdjQQ?oc=5
+- **파리시, 불필요한 도로 표지판 2,000개 철거 추진** — Orange Actualités (2026-11-25T13:27:36.000Z)
+  파리시가 보행자 안전과 도시 경관 개선을 위해 시내 곳곳에 설치된 도로 방향 표지판 2천여 개를 철거하겠다고 발표했습니다.
+  https://news.google.com/rss/articles/CBMijAJBVV95cUxOTHBwaE5DaTA1Y2FyYVN5MUZCSXRmU0xrTkxvX1dkbExHLTdMdmFxaC1DZ3JzQ2RiUm85dWYxQzM5T25qWkVmM0w4d2RzRGtoSXZzeWJvYVphSllsZ2VQUGRISHF1TG5mQTlEUHozTHJMbHNIWTNBaHczSk10LVFiSU5mODJBSWdzWVdFWmxiYlZGVmlaRnZTbHlySjE5NUc1VDJjejJBZFJ4c2FBRzJaSXBQU0tpWGpTX2w4VDl3eUV2UF9Vb29pSVFVVHhtd0dtU1ROa2FLNnNteldyRmVTSWJFUGVRcUFPcng5Y3IwZHlRVm5DWWpSYl9XRVdldUxJS2tNNHA4bmhVelE0?oc=5
 
-- **배우 제라르 드파르디외, 파리 성폭력 재판 앞두고 법적 공방** — Actu.fr (2026-11-25T05:28:02.000Z)
-  성폭행 혐의로 고소당한 프랑스 유명 배우 제라르 드파르디외가 재판을 피하기 위해 법적 절차를 진행 중입니다.
-  https://news.google.com/rss/articles/CBMi7wFBVV95cUxQX0I3TmxhNWJsVEtxcTVyNTV3YlpoSFg4bjJkejNoSEFqTXR0UkpYT2gxb1NfOHE5Ui1HTTRncm9Ka3RIdld1QS1oa0Zyc3ZDR2ZRcTROU0d6Q1pnWHlkT0p2b2dTZ1BDaUIxV1lISC05eV8zSkJVYnQ1ZDVJbG1pZUJpcU9GcXVEdnhJTjBNNGduRjh5RWROWndDMUp3aFNXcng4M1RRR3owWU5JdTVWc1h5VHhwaXdKdzduYUVkWlFLQ1VsdUJiNEdIMmNOWk5kVE9FWXljX1V6aHlDU2tqaEt3YkgybkZBWElwOGpzcw?oc=5
+- **파리 증시, 뉴욕증시 기술주 급락 여파로 하락 마감** — Yahoo Finance France (2026-11-25T17:08:14.000Z)
+  미국 월가의 기술주 폭락 악재가 전달되면서 파리 CAC40 지수가 하락세로 장을 마감했습니다.
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTB4OFo1YUs5WjVROW4yTGtiWThDUHdOZFBMZUZIZEVhV0d1Njk4ckdhN2tlNURSV2g5RF9HM2hoSllCN2JWOEpXbmJsVURQTHZkRkNhSW91NHk5TmdBYU1YZnpxYnhJbHRINHZfWjMyRngwMlphd3dzeHExNUJMZGtjbnhiRTVFalpyMTdwcmdmU0FyRHNQM1V3eGIyR3ZRZnMxSg?oc=5
 
-- **파리 오페라극장, 연극 각색 과정의 유대인 정체성 논란 해명** — Le Monde.fr (2026-11-24T11:00:05.000Z)
-  작품 연출 과정에서 특정 인물의 역사적 배경이 삭제되었다는 비판에 대해 오페라 극장 측이 예술적 자유를 주장했습니다.
-  https://news.google.com/rss/articles/CBMilgJBVV95cUxOTTNocE9rR3pJOHFkUjdQdkEyUE5SMDkyVGJXRDlQbVRPcUhDbUVoSjNZZTNkeC05d0g1VE1iNm9ZN0dyNTcyYVF6ZEtFbk9sZUk1WUZVV0Q2UVlVVzZpeFRiZzNWUjFpVVhMRjE5a2NkdjBUNEd4a3RpeFQ4SVlFbG9tMDd1YnBZR21uem5IZVpPMWZhOTQ3OUk3cFVLaEVGd0h5YkVxaGk0V09JSjNPQnlXZkJFNzMzSEh2dExCT3R6WnU3Qk5tMGgtR3ZIMVRid0hDTFo4bkN5OTlKcnNIbURCNXBPemlnVW5pbjJkWjE2VDlmX1VuSm14eHFpSlF4QjZUVHNkaTJwczRfQzB6c0o4UXRWdw?oc=5
+- **파리시, '마스쿨리니즘 경계' 대형 캠페인 개시** — Orange Actualités (2026-11-25T11:24:35.000Z)
+  파리시가 여성 대상 폭력의 원인으로 지적되는 유해한 남성성 강요 문화를 비판하는 대대적인 공익 캠페인에 나섰습니다.
+  https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYVRDM2wyTXVxWDQ3MHFiMkZUUjVvM281U3NFbk9WQVlBSExKalhUd00ySGdyclZPcE1BVW9JU1ZwNmNtV2RKcjZLSHlpMnhRUENIN0RoOXk5X01xbnFwZmxmb3Y5LUlzZzltU1hGeEtjY2ZUUGhvRkd0eFVNSllnLUo0QWlIYUh2Q2RPcmQ5dVFkSl9Fb3Z1ZkdQTDZadWhrc1RhSEV1Zlk3djRaZzdjaTIwUWwwVmljam5CRFNCeTVpWm9iTWIxb1ZoUjVhMm9IUTZOcUdzUlE?oc=5
 
-- **파리시, 여성 폭력 실태 조사 및 대응 관측소 운영 강화** — Ville de Paris (2026-11-25T08:33:15.000Z)
-  세계 여성폭력 철폐의 날을 맞아 파리시가 피해자 지원과 실태 파악을 위한 전담 기구 활동을 확대합니다.
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxPWm9mOWMyTWdxc1pXSEMtSVZacDRDQWVlODFELWczOUR1OGtsWXBfcmloUUxTSTVqajhQMG9FcGFhMFB2UmtKcjdwZGY1bGhoeWtBbjNiRlRaNFdRVFVwYkRNZjFRVzg5U2VwV25ERlVLSnlJbENFaGlLQ3k2cjR5RlI2VE9BWDk0NGVGbXFNYVZwaU5pNmJQSA?oc=5
+- **성폭행 혐의 보육교사 전자발찌 석방에 파리시 분노** — Le Parisien (2026-11-25T11:08:01.000Z)
+  아동 성학대 혐의로 구속되었던 초등학교 방과후 교사가 전자발찌 착용 조건으로 석방되자 학부모와 시민들이 크게 반발하고 있습니다.
+  https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdnRaLXByZ0VlbmdGUElLd3FuNjczNC10MGJhUG5zTjBfRzd3QWJOZmlfeUZ5NDctNVBHWXZsaGJBLWJBNEY4bnFfeEl3XzkxWUZMaWxjVW1xd0xRMWNaUXU3SUwtT2xOT3pSRnlsR2ZETkh5aHBpOXNJWlVFbzBlaXpEX1pIcVQtVDZOV3FjX2c1S3R6Sk1qOHJyaTRkdEhpbEFrTi1rbUFMcUp6MkRCeUVDTkMzMUpYZEVVWWJzZm1oR0hMdGdCakxfVTJYTnFJQk0xZHlCUkpvMk4zVlFmeXU0ZVFBT3VQZUZyNi1Od1IwRGRGbFdWZzhYYjZBT2M?oc=5
 
-- **파리 빌레트 관문, 시 최대 규모 긴급 수용 센터 개장** — Actu.fr (2026-11-25T06:30:01.000Z)
-  노숙인 및 취약계층의 동사 방지를 위해 파리시가 대규모 긴급 주거 지원 시설을 개소했습니다.
-  https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ0JwOTdPWlZ6N2tmTlhHM3FqSFBhaTFDcDlzS1g1UjRxcHk2YkxnRHU0Mk9NbFJGT0h3Qm1DWWo3WHY3eWpyYWFERUE4bTlNSUlabnFxejRYWlZsSUxMZ1phbTNVMkVkUmVMWmM2Z3hxMXBGUUN1OERZaWh5YmF1RDBGT3l1d3RMc0tOaHFvVm56WThzZkFyRDFoTUExRTFlQTNYbDJYbmpqdmplMEliLU5ka1FSaWdVMXhwdWE0MnhUTHVyYWpFSmdWVzlFMkh2aldKbnNodm9aaFVDZjZuM0VUcUhNVVBsWmZseVI0SQ?oc=5
+- **파리 오페라 가르니에, 현대화 공사 중에도 일반 관람 유지** — Le Parisien (2026-11-25T19:05:45.000Z)
+  파리의 명소 가르니에 극장이 대대적인 시설 보수 공사에 들어가지만 관광객 관람 프로그램은 계속 운영할 예정입니다.
+  https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbTlzNzBzSkFNZllydWR2c0pMcng5VzcyTXd4dGJ0SkxOWmJnMnRyQmtPUk95cGRMSWczUWswUFlXYTEtYkRGUWExZ2FhcF9FZjhDYzNCZ3RIWFh6OUFaeFJDRDZfR0VCaHNaRE41dWdYaDNuajk1bEdkVHk3OGhnR1NLNFpTdmVXV2QxaUlFM3JHOVBfNUtpS0VUWTBTREM3V1NmRmFJeURlamlMWG04bWNkdW1qTHVlRUhuZVBDckdSWjRhSWtLLUJTMmZFOXdiQURGeWZ3T3ZSVkxqQjJEX2ZpR05TRFhfYTYzMmQ2Z1BudGtnTVdjTEJUZTczOHM?oc=5
 
-- **파리 예술문물박물관, 크리스마스 맞이 특별 축제 개최** — Sortir à Paris (2026-11-24T20:08:00.000Z)
-  연말을 맞아 파리 시내 박물관에서 온 가족이 즐길 수 있는 환상적인 인형극과 조명 축제가 열립니다.
-  https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmFRMllfazFrLXZ2QnF0azB4NWtENmxnODNnOFNFVEZUWUM4MVplMkRUQXpYMk41MVZyb3VvVWVLb1loSDlKMXBqQzM1dGNoTWJoZHAwQ0hBM0dCYzdqTXFEMGU0cXNvMHNxTkVSRlR3OFk5Qjd3aXlOUG00eHdqc3lYYlROVXBGbVRTVlBabnlDeWVxSThSZTh2UGNBWk55eXRUWWVfZm90dV9XT1d3eWc5N0s3OW1wY0Fpa1htWkVkRFM0d2Zia29lVzdlRXI0ZXh4VnRScEtlTV9VMkRCdl94MXFBYTVOTDVleURzbXZtcDVCa3NFRmZn?oc=5
+- **파리, 2030 세계배드민턴단체선수권대회 유치 성공** — L'Équipe (2026-11-25T16:29:08.000Z)
+  파리시가 2030년에 열릴 세계배드민턴연맹 남녀 단체선수권대회 최종 개최지로 선정되었습니다.
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVRfNVdiNDI5NFljWUQ3VXVrTVp4NzJ1VjBGa05kVy1yYm83TjZJZXVyR3R1U1VyNDVQMTRlb2M3MzVyQnB0LW56Z0JBdzFfRGRZSS1KcWdTb2dDUmpTbmUwMWFlSm9YVEk1RjBqRnRiSWVGRDhNSFZBbHlhMXBaWThIVDg0UDRuNy14X2hscmVmR2h3c0ppRWtmbUZOQndOSWJmUkJ0TS1JdWdnNTVRaEFhT2w3UmRzWXdrYTctODNjQ1dnZndZ?oc=5
 
-- **오르세 미술관 개관 40주년 기념 행사** 📌 필수 포함 — France Télévisions (2026-11-25T09:37:10.000Z)
-  인상파 거장들의 명작을 소장한 파리의 오르세 미술관이 개관 40주년을 맞이하여 대규모 특별 전시와 문화 프로그램을 선보입니다.
+- **오르세 미술관 개관 40주년 기념 행사 개최** 📌 필수 포함 — France Télévisions (2026-11-25T09:37:10.000Z)
+  파리의 대표적인 예술 공간인 오르세 미술관이 개관 40주년을 맞아 다채로운 특별 전시 및 문화 프로그램을 시민들에게 선보입니다.
   https://news.google.com/rss/articles/CBMitgFBVV95cUxNY01DdmliVjFuUTJrTzZqWUNOX3g2M3p3MTVkX2Fqd2JYVkhGSnU1OWoyUTAyZ3BDWVRHTi02SjZaUDV2SFdaUFp6M1NvUHB4YkVWc0ZPLWRLZU9jSHcyVTdqY2dlUGpQM1JlQkFuWG1JX0tZbU5oY1Y0RXJYWERPcXdTVnNDQThnRXhSdmVwUXdSNDNoUllnRVVacy05dWZnWTlrTUFNeFFvVmppaTdGZXBrZDA0dw?oc=5
 
 ## 미국 (주요 뉴스)
 
-- **트럼프 정부와 이민 소송 벌이던 과테말라 남성, 스페인 출국으로 분쟁 종료** — BBC (2026-11-25T06:36:00.000Z)
-  강제 추방 위기에 처했던 과테말라 이주민이 제3국으로 거처를 옮기며 장기간의 법정 싸움이 마무리되었습니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5
+- **미 폭발물 공장 폭파 성공…유독가스 우려 해소** — AP News (2026-11-25T21:33:00.000Z)
+  미 육군이 아이오와주 폭약 폐기장에서 우려되었던 유독 가스 누출 없이 화학물질 안전 폭파 작업을 완료했다고 밝혔습니다.
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5
 
-- **미국 CIA 및 국가정보국(ODNI) 비의무 기밀망 해킹 피해** — Reuters (2026-11-24T22:55:43.000Z)
-  미국 주요 정보기관의 일부 미기밀 네트워크에 외부 해커가 침투한 정황이 포착되어 당국이 조사에 착수했습니다.
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5
+- **트럼프, 중국·EU 등 14개국 대상 신규 관세 부과 제안** — The Guardian (2026-11-25T21:15:00.000Z)
+  도널드 트럼프 전 대통령이 미국 무역 적자 해소를 목표로 주요 교역국 14개 대상 대규모 관세 인상을 공약으로 제시했습니다.
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5
 
-- **트럼프 당선인, 수입품 대상 추가 타깃 관세 도입 개시** — Axios (2026-11-25T01:45:32.000Z)
-  차기 트럼프 행정부가 무역 불균형 해소를 위해 주요 수출국을 겨냥한 선별적 관세 부과 정책을 준비 중입니다.
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5
+- **캘리포니아 해안 해수면 상승으로 역대 최고 조수 기록** — The New York Times (2026-11-25T10:30:06.000Z)
+  캘리포니아 해안가에 지구 온난화 및 이상 기후로 인한 고조 현상이 일어나 침수 피해 우려가 커지고 있습니다.
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dSbExTNTFPanVKLS1jbmFqLVdZekprLWkySmxqb1BOYTh5RGtwdHJmSkplb2N2alA5M3kyYlg1RXBTZ2ZSZzUwZ3JxY1Rubm51RjYwSG9vRWRmVjZ5eU5CbmVmanlyR2FGV2FPMmREN1A4MXp6cGo5dmdid0F2Rg?oc=5
 
-- **미시시피 해안서 소형 경비행기 추락… 어린이 포함 6명 사망** — BBC (2026-11-25T07:08:22.000Z)
-  미국 남부 미시시피주 인근 바다로 상공을 비행하던 경비행기가 떨어져 탑승자 전원이 숨졌습니다.
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE8taE9WNHpNMzI0WXpWcWJQUi1MUmJNbThoLUdBQ3ZYWlZVcWo1TFBpTEd5TWZkczgxcXNPUEEwZ2xLNk5iTVZ2WTNoNWlZX0hJYkc5UENrTVJCM00?oc=5
+- **미 추수감사절 대이동 기간 폭풍우…2억 5천만 명 영향** — FOX Weather (2026-11-25T20:24:07.000Z)
+  추수감사절 연휴를 맞아 미 전역에 강풍과 폭우를 동반한 대형 폭풍우가 찾아와 항공 및 도로 교통 혼잡이 가중되고 있습니다.
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTl6NlBKb3JYSFJlRnNLeFEyX3ZqNnNERWJrUGpNaWhyLUZ5cTBfU182VFBLM3d5R0g1dDMyVkR2UUtOOTlmdEhJUkRaU0ZFY1dQRU1MTUVVaFFCeml0c244bEFNY0ZDdXlVQy1FUXVMWW5TS1RycEcxMjgxcjhEMl9uTE4xSGdlbENvWVRtN0MxVkFUX0RLTDFnRG4wcW9lQzVCeFpFSGdRX3RmaDM4?oc=5
 
-- **트럼프 당선인, 백악관 추수감사절 칠면조 사면 행사 참석** — The Guardian (2026-11-25T01:47:00.000Z)
-  미국의 전통 명절인 추수감사절을 맞아 정치적 메시지와 함께 칠면조를 사면하는 연례행사가 열렸습니다.
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaXJVWGJGNXl1SXVndE1iZ04wODF1U0REbUl3bkRoWWVHR3FRZ3RrX0pEZGxOU0dqSlFQSDU2a3dpcEtNODA4T2FCQ0lCOHJRRmFFdl9Qd3c4R0VxMDQ1ZE9rc0o4MXJibHpsb05HWDNPcC05OWRkamoxNXVHRkE?oc=5
+- **AI 거품 우려에 미 증시 급락…안고자산 국채로 자금 쏠림** — Bloomberg.com (2026-11-25T21:30:24.000Z)
+  인공지능 기업들의 과도한 기업 가치 논란 속에 투자 심리가 급랭하면서 뉴욕 증시가 폭락하고 미 국채 가격은 상승했습니다.
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5
 
-- **엔비디아 젠슨 황 CEO, 이사회 복귀 후 사내 행사서 재도전 의지 표명** — NBC News (2026-11-25T04:11:00.000Z)
-  경영권 논란 속에서 다시 수장 자리를 지키게 된 젠슨 황이 직원들에게 감사를 전하고 반도체 혁신을 다짐했습니다.
-  https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhlWk90SmZVWUllcWFBTGNHbWs3SUhBUXNEWUh1ei1tQUd0eFQxSHN5RnJHcFZyRENZS3VCaVdLalFqZzZpd29NcjRJU3BuSGlEVGZULXJJRVN3VlVJeXE4RGM2VVBIcFNPaC1ielpmaWd2YjZzZkxWU195YWNyQmlvTXVmQ1hFelNzcGtabU0xUGtUUlItTXhhYnBjX3NsQm1BajRtRWhwblFubjhqLVg5eV8tbW9wU2JWWWMybVpPQQ?oc=5
+- **미 연준 선호 물가지수 상승…금리 인상 가능성 재부각** — ABC News - Breaking News, Latest News and Videos (2026-11-25T14:23:39.000Z)
+  미국 연방준비제도가 주시하는 물가지표가 다시 상승세를 보이면서 당국의 추가 금리 인상 가능성이 제기되고 있습니다.
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFd6dlZlV25JVlBjcjRXWWdYUTdqd2ZBeG1WbGI3Z1dGRjhwN0pCWEJteUN2YVBvSHFXbHl2M3VPcS05WU9TTWlQaVpZS3BVTTV1Sk1kVTNDSXQyOWlMLUJOT1ViUnhGUnM0Qkhxc3BGUlFMeUU2aHVBYy1SQTJPNVZDZUJwWkdhLUVUdWZNREdxaHI2R1BROTZlbTliVHZCVFdUWGMzaU02UdIBrwFBVV95cUxPWE1jU1l6LVdTcGhmTWp6aUROSnFNX0tsQVF2Q0FRam85VGs4SS1CNlg3VUpSRF95Y0Z1cnRzdGtGOWM0YWJLUTNhRElWVTNaQzdjVHA3TzYyN25yOTlyMV9qZzhzLTRZNHlDMFF4emdVQU9UbGZnWnktMC1tNTFQUURsN1NxRW05TUhyNW1odXcwbWI0T2xnYXlkdXkyaXNpS0VXMGlVZDVHcGNpamkw?oc=5
 
-- **미국 인기 예능 '댄싱 위드 더 스타' 시즌35 최종 우승자 탄생** — The Hollywood Reporter (2026-11-25T03:56:30.000Z)
-  시청자들의 경합 끝에 역대급 점수를 기록한 참가자가 치열한 경연을 뚫고 우승 트로피를 차지했습니다.
-  https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWswLXdwUzJJMUdEYzRicGtOMEl6VVVIdFRpRExPLWZxaUhERnNNdFQ5dFRqaXBoQm1NeWpQcnZYeVNVdHF5QnZMazhYakdhZDgzV1FNcnp6MVV0ZVl1VFBTcTd5d3FwSnpHWlJuNjRmcERwazVoVjVoWWtkcE52cGc2ZDNJSjVzUWVXWGZIQW1wS1RFeHNMaW5MMS1OU3JfT1hZbDJ5d1NRUlhIUEVSaDVPM01nbzg?oc=5
+- **앤스트로픽, 클로드 기반 앱으로 데스크톱 환경 혁신 시도** — SiliconANGLE (2026-11-25T02:36:00.000Z)
+  AI 스타트업 앤스트로픽이 코딩 없이 사용자가 원하는 앱을 즉석에서 생성하는 데스크톱용 클로드 엔진을 공개했습니다.
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak95N3VGUTZral9OeUxMdTFPTmE5TWJ2VThkMmFOWDU4YzhGNDJYSEdFNHhyS1daTl9kVXB5S3hoMXpjdXhWM3Z6UzFydzBRWEYxYlE4QjJ0U2VDUGlGOERKdkcweDBUSlVSX2hvZEtnUExFU1owdC1MbUFUVF9CTnB1OGNRazFHTlg2bEFmQzhKSjlSVUFEemhpNjVNVWxVSDRGQW4xR0ZfQU1FLWZlNU5NTUZRT2J1MnJLU1otYXlTUQ?oc=5
 
-- **전 세계 밤하늘에 떠오른 '비버 슈퍼문' 장관 연출** — ESPN (2026-11-25T01:20:00.000Z)
-  올해 가장 크고 밝게 빛나는 차가운 슈퍼문이 뜨면서 각국의 주요 명소에서 관광객들의 눈길을 사로잡았습니다.
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUtScnBia3NYWl9YX29mR3VkcGduVnNrNHZrdjBJUE1FU2R1YTg4TEVOaFVyamUxeDQxaEtqTDdVSEZuOGhLcExnb0pVZUNSR0JGbFJfb3Q4WUNKYmhuTlB5NHd0d0tNVlQ1RjZRT09MMldGQ1RYcTRJbXJkaWRiUjk5dXphU1E0SkcyelZ4aGZpeW5hNzJXUjhYWnJqa0g4RGxqM1p1eXZSclE?oc=5
+- **영화 '헝거게임' 신작, 북미 화요일 박스오피스 최고 기록** — Deadline (2026-11-25T15:46:00.000Z)
+  헝거게임 프리퀄 신작 영화가 개봉 첫 주 화요일 흥행 수입 역대 최고치를 경신하며 북미 극장가를 싹쓸이하고 있습니다.
+  https://news.google.com/rss/articles/CBMingFBVV95cUxPYlFQM056RTF2OVY2RkFUU0RYZ2RTYmtyRWE4bi0zS3JjV1JySFFjbEhKb3c5Um9LZWZUNDFhN2NvRXRtQXRoZUFYVC1VUmg5XzhySllaNDRSeE9KYTlac09RWnlGUmZ5cmxrMVdoREpTNUJ1d1Q4c3hkUS1iUTFsUnRab2FqX2lZLVVJMlBLM2doN3E2WFFxdXRqNU1jQQ?oc=5
 
-- **8년 여행 끝에 수성 궤도 안착 성공한 우주 탐사선** — CBS News (2026-11-24T15:39:00.000Z)
-  기술적 결함을 극복하고 태양계 가장 안쪽 행성인 수성에 도착한 탐사선이 본격적인 임무를 시작합니다.
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkdqV2xOUXZpa2ZfaGlNQjFSUHowSGpGU3ZGZ18tNDkwNFVmR2hLZFZDbzZlVzB0MWpGQTg0VHhPd3VuanlLNVR4RkJjcHp6bWFMQS16Z1NEaHdOUE5sbEhseDA4RDY4UEdzc3Z4NUNuVjZ2SnI2dFpHVUV0d2R4SWxhNA?oc=5
+- **헤라 탐사선, 나사 DART가 충돌시킨 소행성 분화구 최초 촬영** — Space (2026-11-25T17:30:00.000Z)
+  유럽우주국(ESA)의 헤라 탐사선이 과거 NASA DART 탐사선이 소행성과 충돌하며 만든 대형 분화구 흔적을 근거리에서 정밀 촬영했습니다.
+  https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcks2cFhLVGxRTlROWmU2M2tLTG42RFJaWk9qbTU4b2w1OUxUQkdrZmFfTUh1dlVGRFhRWkRFUjEzTnA3c2FCMDZDOHFrOWEwTkhoWHNCTFA3UGRVcmRoVWEzSnN0SVFWMVFUX01HX0ktY01MNk9ORlhJTzQ1LWFDUFczMS1uVm95YnAzUmxGdXBfeUQzUWtfc2NzM1dJVWdfRWhLanRqaGtiNDZsZFJHcU9JQ3VodGd1bllzZ0ZTOUxKY19wQU9xV3JlTEpRQ1A2MU5jMTZnTWRkX0U?oc=5
 
-- **미국 내 홍역 사망자 3명으로 증가… 독감과 함께 보건 당국 비상** — NBC News (2026-11-24T23:02:54.000Z)
-  백신 접종률 감소로 인한 홍역 재유행과 겨울철 독감 감염이 확산하며 지역사회 건강이 위협받고 있습니다.
-  https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5
+- **워싱턴주 홍역 집단 감염 확산…보건 당국 비상** — The Seattle Times (2026-11-25T14:00:00.000Z)
+  미국 워싱턴주 일대에서 5건의 홍역 집단 감염 사례가 연이어 발생함에 따라 방역 당국이 접종 독려에 나섰습니다.
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5
 
 ## 오스틴 (지역 뉴스)
 
-- **텍사스 교통국, 겨울철 대비 오스틴 지역 제설차 배치 확대** — KEYE (2026-11-25T02:44:28.000Z)
-  한파와 도로 결빙에 대응하기 위해 오스틴 인근 도로망에 제설 장비 운영을 강화합니다.
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEY4VXhVUFdRUTVzQ1I5NXpDbzFUM2QyYUpsVkdxRVNRdHBhTjNWMWtORlVHY0VzTkZEMUFjV3FSRmhDZWdmcTVJU0xtMTlva251X05mTlAzdElrVjh0RzZpYWxhNURTZ2dwekdLRmhiZ1Y1N2puY0xsNVdNTlgxdDNTWXVMQnJ5U1F0OWUxZlB3alFYMWlzZlZCd1I?oc=5
+- **텍사스 오스틴 지역에 한파 경보 발령** — KXAN Austin (2026-11-25T17:39:38.000Z)
+  추수감사절 기온이 영하권으로 떨어질 것으로 예상됨에 따라 오스틴 및 텍사스 중부 전역에 한파 경보가 내려졌습니다.
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHU1Tl8wVTBrTzludmtFVUdmLVdiaTNZQTc2QVRJbS1oQ3ZGc25CczQ4ODNxMXVtcFh5TDJjWnFON2gtYUF2V1RWVDZjMlRqRVRBNTd2YW1qbEpuZldSdFdteDlWdmFJdWhqOV96QjlrTEtjTEhwVkZEeHcxNDh2X0ZZUjhTNm9rbFJrRmVCcTg?oc=5
 
-- **텍사스 공화당 의원들, 2027년 감세 정책 및 지원금안 회의적 반응** — Community Impact Newspaper (2026-11-25T05:10:00.000Z)
-  텍사스 주하원 의원들이 향후 주 세금 정책과 현금 지급안을 두고 뜨거운 공방을 벌였습니다.
-  https://news.google.com/rss/articles/CBMiggJBVV95cUxQSElkY2VFc3M5WHFMWVhLWUZQU0tiMFJfQU9wWXZZbzVGZ2VCUm1uUVE1Y19NMVB1SjM3c3BWNXJnZkd1NlAzbnNzMjA3cTIzbEJGN0dVckVvQXo2bDhCR052Y0VZMFc1WGRtdHZkazl0bFR5RGtwMnFxZVRJVnkzV2FGT1ZEeTgwdVFWR3kxRmtMT0JkWGhEb3lHZHZ6RXlVeWhhbTdVRGtobGFURDMtd3JlOFhVNWhrOU9SQWJyYW9UVU92UkdLb2xSdTNYOE93cnBZZ2Z0elNKdnhkaURpaExqSGZkZlA2elFmbVhPenl5QUU4M0VYRGNCaHdxZjQyNGc?oc=5
+- **오스틴 소방당국, 추수감사절 화재 예방 시연회 개최** — ABC7 WWSB (2026-11-25T20:18:00.000Z)
+  오스틴 소방관들이 추수감사절 터키 튀김 요리로 인한 화재 위험성을 알리기 위해 직접 시연회를 열고 주의를 당부했습니다.
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDI4bHdyUnROeV9rZGxaQnRNWDUzVVVvQ2xTQXBlSDFtSUVubTlwSmFhcnNUM2FwemhYcEthVGFaWHNzWXFMejN2R003YUd5S3hMWEtNdWZNX2JNQnNQVGFZamlkVkRnTGxIZjN0X2QyRTVDM1dHM1FQZmFFRE5wZEp1X1I3bmc2clVNeUExVEJ1RlFkZ3NjUnEyVi05YnpXRmI2YzQ4WVNYem93eVV5NTVZbUpnMlQwN2cwelp2RkU?oc=5
 
-- **UT 오스틴, 바비 레이 인만 전 해군 제독 추모** — UT News (2026-11-24T16:00:06.000Z)
-  텍사스 대학교 오스틴 캠퍼스가 국가 안보와 학교 발전에 기여한 인만 제독의 별세를 깊이 애도했습니다.
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlBuN1FDSEgzS0pYZlo3Qk16UENvS045eTlKODR0ZmhNa0IySFVuMHE3YlViY2ZaVHRTY0oyZDNNb0otbFFLdjdpcWNCUHB3LVhEcDcybWJuOE95OEVEanJvd1N0aXk1cjc4MVpPTnFmeFhjekllc250NThxLTFqdy1mVUJ4V2MxTVJOcEJDZktwM0JZTk5nMmh4STRaT21EMFlfZnFOdTFtYWtfV0ZmSTJxS0tXdw?oc=5
+- **오스틴 버그스트롬 공항, 10월 이용객 역대 최고치 기록** — KVUE (2026-11-25T19:01:14.000Z)
+  오스틴 국제공항의 10월 한 달간 여객 수가 사상 최대치를 기록하며 지속적인 지역 항공 수요 증가를 나타냈습니다.
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxNal9WcEVmZ3ZPZEdxQXNZUXA3ZXpMQ3pWTlMyQm5VZFQxUzhLNW1KNmFYR0xLTjFaU2VqN2plUE14a2xlWTU2dGpJbmRFc3k2dlNFU0ZkU3RLSUdMWXZ2NEl3TkhTUXJpYjlnTFFRWUFaUFctZV9sWllTdHM0dlFmYXN3ZThxd2s3Y0cxb1VBX2I1aU5yQ01UNDh4Q1BtekVSWkpyWHNvYXQ4b0xTM1B3R1dVVUR3dmY0T1YzMHctWENGalZ2Qmc?oc=5
 
-- **오스틴 서남부 주택가서 인질 대치 소동… SWAT 출동** — KVUE (2026-11-25T03:22:42.000Z)
-  주택 내부에서 문을 걸어 잠그고 대치하던 범인으로 인해 오스틴 경찰 특공대가 현장에 투입되었습니다.
-  https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMy1OcUctaWdPUEhYVVdaMkFPTUROOFptRGNGSF9GZ2xtX1N1S1hFVXBTbDlHOTF1NzRVZEdOSDBJRHNKcWI1MERsV1ZxanpwcmZKYWhadkpTX2FMcWJESERGQnZ2QzNSSzM0Z3laWDhPSndnc1ZTcTV1cE1aOE1JOXlXcFoza0Njb0hZTUVUbko3U3FIb2phSHFrYmI3RFRqZzVvTkxYZEkzd2w3bkFJZUpfM2tLWXBkSXVTODA2cTdqZw?oc=5
+- **사우스 오스틴서 중범죄 수배자 SWAT 대치 끝 체포** — KEYE (2026-11-25T03:14:02.000Z)
+  오스틴 경찰 특수부대(SWAT)가 주택에 침입해 대치하던 중범죄 수배 여성 여성을 현장에서 성공적으로 체포했습니다.
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczBLeEZjWXFBU0lnTExRanlhU3R1RHBfNUc1UFg3U040ZDdUUm9fdTdTdm1zNnc2dHN0bG1uRWNTT3QxVks5bjZhTUhKWnZuX2FZbEVCZ0pmNk9YSjY4QS0wdDQ3dEdYeFhQcDJSeEl6STlxdlI1Wkl0d2lYWVZ3b2NhSV9oNWhhNlI3S3dubG04d0NuZXllUGFaOW4zUzdITTA3V0NZcWk0YzktM3VkTGNzTDBWZEVt?oc=5
 
-- **오스틴시, 지역 농가 보존 위한 연방 보조금 확보** — Community Impact Newspaper (2026-11-25T03:15:49.000Z)
-  도시 개발 속에서 지역 농업과 식량 안보를 지키기 위해 오스틴시가 연방 정부 지원금을 유치했습니다.
-  https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOXhBaEdoWEg1aklUZllRalZQLVJxSDRFS3ZEUHd6cW5ESzQ5X0xMZ2MxODhrRE1rR3RUVnZKelRKMW5FdWRIcHZHOERwVXQ1OG9RNjljamNxYjYtOVc4eWJwZ0c2S1hnTzJtMkEtUjRqZzMwdlVGVkxGWDkwUVRaYkFvakRGU2RsbExHVVRfNnVtMjBvdFdqd2ZIdDZGZVItLTM1S2x4YjhIU2V0ZDdsSGtWa1o3LVM1QVZFVUdaWkFsWXN3MzlyeXptVFlVVU9vcktJMDFaYllfeV9UQmlpeA?oc=5
+- **오스틴시, 약 170개 토지 관할권 토해내기로 합의** — Texas Scorecard (2026-11-25T19:30:02.000Z)
+  오스틴시가 과도한 도시 관할 구역 확장을 제한하는 법안에 따라 약 170개 부동산의 외곽 토지 관할권을 환원하기로 승인했습니다.
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3BNdlZQa0p2WW1ueU5zZnlWcGN2WmVWdllsckM0amVXX0lFRHliV201cVhmcEU4d2RKU3NRcGRoMGhPWlJseHBINUZZajFTaGFyaWp0VG9HWURvM3BxeWlTNFJVRDV6azJMeVUzUGN5djBwS1UyX0drRFZRU0FfMGhvV2ZleXd5M09fRndR?oc=5
 
-- **H-E-B, 추수감사절 맞아 오스틴 시민들에게 1만 인분 무료 식사 제공** — FOX 7 Austin (2026-11-24T14:01:25.000Z)
-  텍사스 대형 유통업체 H-E-B가 이웃 사랑 실천을 위해 대규모 무료 급식 행사를 개최했습니다.
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxNckpFTHE4NnR5bGpMTkRJUEpQbklsaDlpRlZJVXROaFFEektOOWkyM3piUDNJTE84MTFQcXdjOUtSclNfdXNHQjZlMVh5LTIwSG12NFdpZkFOdFliOVNMcmVZSFBuYnFGSTM5QlhydkRLNnlUR19PSXM0YTF3OGZ4ZDJ1VkdnenFMQUEzMFNVSU40SFJkYm5EcUd3?oc=5
+- **텍사스 대법원, 지자체 권한 제한 법안 이의제기 기각** — FOX 7 Austin (2026-11-25T19:29:48.000Z)
+  텍사스 대법원이 주법에 반하는 지방정부의 조례 제정 권한을 제한하는 이른바 '데스스타(Death Star)' 법안에 대한 오스틴 등 도시들의 상고를 기각했습니다.
+  https://news.google.com/rss/articles/CBMingFBVV95cUxPaVB4Q0lraTJRQ3lRR3RwcUx3ak80ZHZuQTFwWmxjbU45RmhzTExjNVFIVTFTREQ1anFwNDc2c0JMa2ZnQ0t6elNKUFIzNlo5UHdBN25IVHphQXR1MDJqT1RTelgxOUlCdVp6M2lJQlBEYkJfMWtKX2stdEtEQ3JjeXFTM3lpX0d6ek5oTnY4Y3NCWnJNcFRpZGpmVUxrUQ?oc=5
 
-- **오스틴 대표 맛집 3곳, 오픈테이블 '미국 탑 100 레스토랑' 선정** — Austin American-Statesman (2026-11-24T19:27:56.000Z)
-  오스틴의 미식 문화가 인정받으며 지역 미식가들의 찬사를 받는 식당 세 곳이 전국 명소에 이름을 올렸습니다.
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxONXMzemRjZjF3YWdDRjBmWl9vZEFacUR6Uk56TUp1YlNWeTlJVnl2Nm9JaEN1a01EUzM3VlY1N1E5b2d5R3hrS0tDbnFZVHVHYVBFajFLUVl5NGdqbDdaWjJKeFptT01KUEpaWnFBNmRETlNPOU9DX29KaTVsRzZLUmlhb0JLMW9YNUtQVEpvUmN4S0FuUVROSnN1SVRFU0h6N3B5NUtDQVYwSG1QYkE?oc=5
+- **오스틴 주택 가격 고점 대비 29% 하락** — Fortune (2026-11-25T15:53:00.000Z)
+  미국 76개 주요 도시의 주택 가격이 하락세를 보이는 가운데, 오스틴의 집값은 최고점 대비 약 29% 하락하며 큰 조정을 받고 있습니다.
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWdIcFNKRUVvNGVQX2p0OVp2U1MzMHA2VkJLc3lFVGxwTEVEYnplT1V3TGZMSDNWNFJyZXFCUjQ0Z0U2R0VxSTNVWFR2RTJTOHI5cDMyZGp6bVVicXhRRTRGVlNJN0dFWERxajBIeW5aejlzSzBMZTl2cVhHRVR0TFFFVUNvcE9aaVNfX3JRRjg?oc=5
 
-- **오스틴 인근 지역에 수십억 달러 규모 AI 데이터센터 구축 추진** — MySA (2026-11-24T11:41:06.000Z)
-  글로벌 테크 기업들의 인프라 투자 확대로 텍사스 오스틴 일대에 첨단 데이터센터 건립이 잇따르고 있습니다.
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXl4cTlIRVFnWnFOeTFkbGFoR1czYTBsQjlic3cteWlaMlNYWWd1NDNuZ2VGcTlEcGl1MEhWZzctQ3k0Nk1HeVFSNGgtNzZtQ29vZFRhR3FtNmZxSVM2MmlZcjMtcHhXSHlJbHlMQmFWUFFmeEpZTE9wajI2TVBNd004ZlRhdjNGQmxKalpQX1ZuVVgtbTZPUjFPSC0?oc=5
+- **라운드로크에 위탁아동 비영리 캠퍼스 조성 속도** — KXAN Austin (2026-11-25T19:46:52.000Z)
+  오스틴 인근 라운드로크 지역에 위탁 아동 자립을 돕기 위한 1,530만 달러 규모의 전용 캠퍼스 구축 사업이 차질 없이 진행되고 있습니다.
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXdNdms2TlJKZUtjLVNYOXg5dXFodjhPWjllY2c5YnZsdUdMTVdGd1NqRjJDQjRjVUwxWGtjaXlxdnl3aGVtSVhmenFhdWhSTnZqbGd6dnVUbnlnSi01NE50T2o4Y0dJQTlDcVBfN3lvdFc4WUZZa2QzRDVzdk9QUk9YU0ZzVDFpX2lSVnU1bjd2c19PRlFuMkRYMWtOMVp5NGE1WFNiZXhpb2FXeXVYZWhn0gG3AUFVX3lxTE1FNzJza2FRSjEwb3VScktBSk91bHMwLTZnX3VuTHEwRjBwbVdZVzdZYUJXeVVYLWI3b3dqM0ctSU5ETjZzVTV0eC1hRklHekJBZHV0dFBnYVJ0eVdpVFFEWURGSEJDMVJnS2VJOGNuQXpvRDhmTjlqQ1RGTFpzdnJkQjJGN1JmcjFDZElxVHpiOV9meXBlTHpCMEZmV1RPSHlPSTM3d1ZHcm4yUXgxRmc2NjFHSUFWZw?oc=5
 
-- **텍사스 주의회 전용 크리스마스트리 오스틴 도달** — KVUE (2026-11-24T12:47:52.000Z)
-  연말 이벤트를 위해 주도 오스틴의 텍사스 주 의회의사당으로 대형 크리스마스트리가 운송되었습니다.
-  https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUU8zSU84REVycWFrdktxdmdaN295b1NQUUVYTEZMQmRDd1ZOcUFfQXVVQVFWMFhXMlEtNEIxai1OVm5mUVpKMHJ1NXJTeGVRYXZkeTdmRkEyR0c2Zkl5UEFDSl9hX3R6M1VXZkpUQmVLblFVbU13eE1aX2tqcllCNmdOTEV2QTA3dWNWcjc1XzhjZUctS2xTbGx1SXBCZVVCdmhyQlo2bGxpSjlMb1lMWEpOUW5PU0J2OW82dHdrQTRfRnBqVXFlbFRqUWM2Tk5TYzh0SXVNX3N6NDJKdEFrdjVSODFCS2lz?oc=5
+- **오스틴의 노포 맛집들, 급변하는 도시 환경 속 생존 전략** — Austin American-Statesman (2026-11-25T11:08:02.000Z)
+  칠리 파슬러 등 오랜 역사를 자랑하는 오스틴의 명소 레스토랑들이 젠트리피케이션과 임대료 상승 속에서도 영업을 이어가고 있습니다.
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWxXTFNMdHFndndVYkZlMk9OclB1RXZzZnFfYWhTZHBzTTYyNVpTdjdfX01rVVBDVkh4WjBSd3pYcE1KWW4tTndoNThmLUszZ0RmeXpuUUd1a2V6V3V1RDhEOC12b2Rpa0dXYXM5UjBZaUROaXZzOHFrQ0R1QUdud2hkMExTcHZwdHI1Zl9XUFZvNTNqUVZRejh3?oc=5
 
-- **오스틴 벼룩시장 폐쇄 조치에 이민자 상인들 우려 표명** — KXAN Austin (2026-11-25T08:26:24.000Z)
-  오랜 전통의 오스틴 시골 장터가 문을 닫게 되면서 지역 소상공인과 이민자 커뮤니티가 생계 불안을 호소하고 있습니다.
-  https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGNmaERMdnRCNV9IVVQ3dXF0MHUzU2gxMERFYmJNblh6V0loN253cGJwYTB3aVZSbDVZYkRGSnBhdHRqbl93OUFRd19QV2gwdFl5OHZNcy1NM21MMXRKZ0o1TFMwcU9iN0VUM1Q1LUIxbDg2NTZMalBxRXFyZzhNSVlKUzlZNlRlSldTWjNlck9Fd05NSElxdV9JMnB3QS05R1BWNW03WlROcDh5VTBGMHhkRXJOTW42cjgwbTl1VQ?oc=5
+- **2026 오스틴 질커 파크 크리스마스 트리 점등식 일정 발표** — The Austinot (2026-11-25T11:54:16.000Z)
+  연말 연시를 맞아 오스틴 대표 명소인 질커 파크의 대형 크리스마스 트리 점등식과 관련 축제 일정이 확정되었습니다.
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HQUZUaHFHZGUxM1VHYk5EVXo2RF9QczZUWWpkT3NpQVdyeEo3M2FpVVFBZkUyLTBTUGlMTHZLYzEyYUNfazZOTDZ0cHJxZEZTZ3psVkNubWdVd3IwT01JeQ?oc=5
 
